@@ -1,8 +1,7 @@
-name: Auto Update Jiostar M3U 
+name:  Auto Update Jiostar M3U 
 
 on:
   schedule:
-
     - cron: "0 */2 * * *"  
   workflow_dispatch:
 
@@ -88,12 +87,13 @@ jobs:
               }
           }
 
-    
+     
           file_put_contents('channels.json', json_encode($channels, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
 
-          // Generate cookie.json
+  
           file_put_contents('cookie.json', json_encode($cookies, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
 
+        
           $m3u = '#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"' . "\n";
           foreach ($channels as $c) {
               $m3u .= sprintf('#EXTINF:-1 tvg-id="%s" group-title="%s" tvg-logo="%s",%s', 
@@ -103,28 +103,13 @@ jobs:
           }
           file_put_contents('channels.m3u', $m3u);
 
-         
-          $api_data = [];
-          foreach ($channels as $c) {
-              $api_data[] = [
-                  'id'       => $c['tvg_id'],
-                  'name'     => $c['name'],
-                  'mpd'      => $c['url'], 
-                  'cookie'   => $c['cookie'],
-                  'logo'     => $c['logo'],
-                  'clearkey' => $c['license_key']
-              ];
-          }
-          file_put_contents('api.json', json_encode($api_data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
-
-          echo " All files generated successfully.\n";
+          echo " Files generated successfully.\n";
           PHP
 
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
-          # All generated files are included here
-          git add channels.json cookie.json channels.m3u api.json 
+          git add channels.json cookie.json channels.m3u
           git commit -m "🔄 Auto updated Jiostar M3U data" || echo "No changes to commit"
           git push
