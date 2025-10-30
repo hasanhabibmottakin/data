@@ -1,0 +1,73 @@
+name: Toffee Auto Updater
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate Toffee API JSON
+        env:
+          API_URL: ${{ secrets.TOFFEE_SOURCE_URL }}
+        run: |
+          import requests, json
+
+          try:
+              print(f"Fetching data from: {${{ secrets.TOFFEE_SOURCE_URL }}}")
+              resp = requests.get("${{ secrets.TOFFEE_SOURCE_URL }}")
+              resp.raise_for_status()
+              data = resp.json()
+          except Exception as e:
+              print("Failed to fetch or parse data:", e)
+              exit(1)
+
+          output = []
+          for item in data:
+              obj = {
+                  "group": "Toffee",
+                  "logo": item.get("logo", ""),
+                  "mobile": "on",
+                  "name": item.get("name", ""),
+                  "premium": False,
+                  "source": {
+                      "headers": {
+                          "Cookie": item.get("cookie", "")
+                      },
+                      "url": item.get("link", "")
+                  },
+                  "status": "on",
+                  "tv": "off"
+              }
+              output.append(obj)
+
+          with open("api.json", "w", encoding="utf-8") as f:
+              json.dump(output, f, indent=2, ensure_ascii=False)
+
+          print(" api.json file created successfully!")
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "actions@github.com"
+          git add api.json
+          git diff --quiet && echo "No changes, skipping commit." || (git commit -m "🔁 Auto update Toffee API $(date)" && git push)
