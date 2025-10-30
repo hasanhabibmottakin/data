@@ -1,8 +1,8 @@
-name:  Auto Update Jiostar M3U 
+name: Toffee Auto Updater
 
 on:
   schedule:
-    - cron: "0 */2 * * *"  
+    - cron: "*/10 * * * *"   
   workflow_dispatch:
 
 permissions:
@@ -15,101 +15,73 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Setup PHP
-        uses: shivammathur/setup-php@v2
         with:
-          php-version: '8.2'
+          persist-credentials: true
 
-      - name: Run PHP script
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate Toffee API JSON
         env:
-          M3U_URL: ${{ secrets.M3U_URL }}
+          API_URL: ${{ secrets.TOFFEE_SOURCE_URL }}
         run: |
-          php <<'PHP'
-          <?php
-          error_reporting(E_ALL);
-          ini_set('display_errors', 1);
+          python3 << 'EOF'
+          import requests, json, os
 
-          $url = getenv('M3U_URL');
-          $data = @file_get_contents($url);
+          url = "${{ secrets.TOFFEE_SOURCE_URL }}"
+          print(f"📡 Fetching data from: {url}")
 
-          if (!$data) {
-              echo "Failed to fetch M3U file.";
-              exit(1);
-          }
+          try:
+              r = requests.get(url)
+              r.raise_for_status()
+              data = r.json()
+          except Exception as e:
+              print("Failed to fetch or parse data:", e)
+              exit(1)
 
-          $lines = explode("\n", trim($data));
-          $channels = [];
-          $cookies = [];
-          $current = [];
-
-          foreach ($lines as $line) {
-              $line = trim($line);
-
-              if (strpos($line, '#EXTINF') === 0) {
-                  preg_match('/tvg-id="([^"]*)"/', $line, $id);
-                  preg_match('/group-title="([^"]*)"/', $line, $group);
-                  preg_match('/tvg-logo="([^"]*)"/', $line, $logo);
-                  preg_match('/,(.*)$/', $line, $name);
-                  $current = [
-                      'tvg_id' => $id[1] ?? '',
-                      'group'  => $group[1] ?? '',
-                      'logo'   => $logo[1] ?? '',
-                      'name'   => $name[1] ?? '',
-                      'url'    => '',
-                      'cookie' => '',
-                      'license_key' => ''
-                  ];
+          # Transform data
+          output = []
+          for item in data:
+              obj = {
+                  "group": "Toffee",
+                  "logo": item.get("logo", ""),
+                  "mobile": "on",
+                  "name": item.get("name", ""),
+                  "premium": False,
+                  "source": {
+                      "headers": {
+                          "Cookie": item.get("cookie", "")
+                      },
+                      "url": item.get("link", "")
+                  },
+                  "status": "on",
+                  "tv": "off"
               }
+              output.append(obj)
 
-              elseif (strpos($line, '#KODIPROP:inputstream.adaptive.license_key=') === 0) {
-                  $license = trim(str_replace('#KODIPROP:inputstream.adaptive.license_key=', '', $line));
-                  $current['license_key'] = $license;
-              }
+          # Save file
+          with open("api.json", "w", encoding="utf-8") as f:
+              json.dump(output, f, indent=2, ensure_ascii=False)
 
-              elseif (strpos($line, '#EXTHTTP:') === 0) {
-                  if (preg_match('/"cookie":"([^"]+)"/', $line, $cookieMatch)) {
-                      $cookie = $cookieMatch[1];
-                      $current['cookie'] = $cookie;
-                      $cookies[] = [
-                          'name' => $current['name'] ?? '',
-                          'cookie' => $cookie
-                      ];
-                  }
-              }
-
-              elseif (preg_match('/^https?:\/\//', $line)) {
-                  $current['url'] = $line;
-                  if (!empty($current['name'])) {
-                      $channels[] = $current;
-                  }
-                  $current = [];
-              }
-          }
-
-     
-          file_put_contents('channels.json', json_encode($channels, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
-
-  
-          file_put_contents('cookie.json', json_encode($cookies, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
-
-        
-          $m3u = '#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"' . "\n";
-          foreach ($channels as $c) {
-              $m3u .= sprintf('#EXTINF:-1 tvg-id="%s" group-title="%s" tvg-logo="%s",%s', 
-                  $c['tvg_id'], $c['group'], $c['logo'], $c['name']
-              ) . "\n";
-              $m3u .= $c['url'] . "\n";
-          }
-          file_put_contents('channels.m3u', $m3u);
-
-          echo " Files generated successfully.\n";
-          PHP
+          print(" api.json created successfully with", len(output), "entries.")
+          EOF
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "GitHub Actions Bot"
+          git config --global user.name "GitHub Action"
           git config --global user.email "actions@github.com"
-          git add channels.json cookie.json channels.m3u
-          git commit -m "🔄 Auto updated Jiostar M3U data" || echo "No changes to commit"
-          git push
+          git add api.json
+
+          # Check if file changed
+          if git diff --cached --quiet; then
+            echo "No changes detected in api.json. Skipping commit."
+          else
+            git commit -m "🔁 Auto update Toffee API $(date)"
+            git push
+            echo "api.json pushed successfully!"
+          fi
