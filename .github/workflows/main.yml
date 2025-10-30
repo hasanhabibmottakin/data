@@ -30,15 +30,17 @@ jobs:
         env:
           API_URL: ${{ secrets.TOFFEE_SOURCE_URL }}
         run: |
+          python3 << 'EOF'
           import requests, json
 
+          url = "${{ secrets.TOFFEE_SOURCE_URL }}"
+          print(f"Fetching data from: {url}")
           try:
-              print(f"Fetching data from: {${{ secrets.TOFFEE_SOURCE_URL }}}")
-              resp = requests.get("${{ secrets.TOFFEE_SOURCE_URL }}")
-              resp.raise_for_status()
-              data = resp.json()
+              r = requests.get(url)
+              r.raise_for_status()
+              data = r.json()
           except Exception as e:
-              print("Failed to fetch or parse data:", e)
+              print(" Error fetching or parsing data:", e)
               exit(1)
 
           output = []
@@ -63,7 +65,8 @@ jobs:
           with open("api.json", "w", encoding="utf-8") as f:
               json.dump(output, f, indent=2, ensure_ascii=False)
 
-          print(" api.json file created successfully!")
+          print(" api.json created successfully!")
+          EOF
 
       - name: Commit and push changes
         run: |
