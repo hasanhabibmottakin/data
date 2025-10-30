@@ -31,18 +31,20 @@ jobs:
           API_URL: ${{ secrets.TOFFEE_SOURCE_URL }}
         run: |
           python3 << 'EOF'
-          import requests, json
+          import requests, json, os
 
           url = "${{ secrets.TOFFEE_SOURCE_URL }}"
-          print(f"Fetching data from: {url}")
+          print(f"📡 Fetching data from: {url}")
+
           try:
               r = requests.get(url)
               r.raise_for_status()
               data = r.json()
           except Exception as e:
-              print(" Error fetching or parsing data:", e)
+              print("Failed to fetch or parse data:", e)
               exit(1)
 
+          # Transform data
           output = []
           for item in data:
               obj = {
@@ -62,10 +64,11 @@ jobs:
               }
               output.append(obj)
 
+          # Save file
           with open("api.json", "w", encoding="utf-8") as f:
               json.dump(output, f, indent=2, ensure_ascii=False)
 
-          print(" api.json created successfully!")
+          print("api.json created successfully with", len(output), "entries.")
           EOF
 
       - name: Commit and push changes
@@ -73,4 +76,12 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "actions@github.com"
           git add api.json
-          git diff --quiet && echo "No changes, skipping commit." || (git commit -m "🔁 Auto update Toffee API $(date)" && git push)
+
+          # Check if file changed
+          if git diff --cached --quiet; then
+            echo "ℹ️ No changes detected in api.json. Skipping commit."
+          else
+            git commit -m "🔁 Auto update Toffee API $(date)"
+            git push
+            echo "api.json pushed successfully!"
+          fi
