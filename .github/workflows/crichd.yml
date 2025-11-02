@@ -2,8 +2,8 @@ name: Auto Update CricHD Data
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   
-  workflow_dispatch:         
+    - cron: "*/10 * * * *"   # Every 10 minutes
+  workflow_dispatch:
 
 jobs:
   update-crichd:
@@ -30,9 +30,9 @@ jobs:
             premium: false,
             source: {
               headers: {
-                Referer: (.url | capture("\\|referer=(?<r>.*)$").r // "")
+                Referer: (if (.url // "") | test("\\|referer=") then (.url | split("|referer=")[1]) else "" end)
               },
-              url: (.url | sub("\\|referer=.*$"; ""))
+              url: (if (.url // "") | test("\\|referer=") then (.url | split("|referer=")[0]) else (.url // "") end)
             },
             status: "on",
             tv: "off"
