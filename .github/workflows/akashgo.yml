@@ -1,8 +1,8 @@
-name: Auto Update AkashGO 
+name: Auto Update AkashGO Data
 
 on:
   schedule:
-    - cron: "0 */10 * * *"  
+    - cron: "0 */10 * * *"   
   workflow_dispatch:
 
 jobs:
@@ -16,42 +16,35 @@ jobs:
       - name: Install Dependencies
         run: sudo apt-get update && sudo apt-get install -y jq curl
 
-      - name: Fetch AkashGO Live Data
+      - name: Fetch and Build AkashGO data.json
         run: |
-          echo "Fetching live data from AkashGO..."
-
+          echo "📡 Fetching AkashGO live channels..."
           BASE_URL="https://kong.akash-go.com"
           SEARCH_URL="$BASE_URL/search-connector/pub/freemium/search/livedata?genre=*&limit=25&offset=0"
 
-          # Fetch all live channels
+          # Fetch live list
           curl -s "$SEARCH_URL" -o livedata.json
-
-          # Prepare JSON array
           echo "[" > data.json
 
-          # Extract channel IDs from search response
           IDS=$(jq -r '.data.contentList[].id' livedata.json)
 
           for ID in $IDS; do
             DETAIL_URL="$BASE_URL/content-detail/pub/api/v6/channels/$ID"
             DETAIL_JSON=$(curl -s "$DETAIL_URL")
 
-            # Extract details
             NAME=$(echo "$DETAIL_JSON" | jq -r '.data.channelMeta.channelName')
             LOGO=$(echo "$DETAIL_JSON" | jq -r '.data.channelMeta.logo')
-            GROUP=$(echo "$DETAIL_JSON" | jq -r '.data.channelMeta.category')
             HLS=$(echo "$DETAIL_JSON" | jq -r '.data.channelMeta.nonProtectedHlsConsumerUrl')
             DASH=$(echo "$DETAIL_JSON" | jq -r '.data.channelMeta.protectedDashWidevineConsumerUrl')
             LICENSE=$(echo "$DETAIL_JSON" | jq -r '.data.channelMeta.dashWidevineLicenseUrl')
 
-            # Skip invalid channels
+            # Skip if no valid name
             if [ "$NAME" = "null" ] || [ -z "$NAME" ]; then
               continue
             fi
 
-            # Build JSON entries
             if [ "$HLS" != "null" ] && [ -n "$HLS" ]; then
-              jq -n --arg group "$GROUP" \
+              jq -n --arg group "AkashGO" \
                     --arg logo "$LOGO" \
                     --arg name "$NAME" \
                     --arg url "$HLS" \
@@ -69,24 +62,26 @@ jobs:
                       tv: "off"
                     }' >> temp.json
             elif [ "$DASH" != "null" ] && [ -n "$DASH" ]; then
+              # Extract short contentId for license
+              SHORT_ID=$(echo "$LICENSE" | grep -oE '[a-f0-9-]{8,}$' | cut -c1-12)
+
               jq -n --arg name "$NAME" \
                     --arg logo "$LOGO" \
-                    --arg group "$GROUP" \
                     --arg url "$DASH" \
-                    --arg license "$LICENSE" \
+                    --arg shortid "$SHORT_ID" \
                     '{
                       name: $name,
                       logo: $logo,
-                      group: $group,
+                      group: "AkashGO",
                       source: {
                         type: "dash",
                         url: $url,
                         license: {
                           type: "widevine",
-                          url: ("https://dth.nettv.fun/lic.php?ic=" + ($license | split("?contentId=")[1] // ""))
+                          url: ("https://dth.nettv.fun/lic.php?ic=" + $shortid)
                         },
                         headers: {
-                          "User-Agent": "",
+                          "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
                           "Referer": "",
                           "Origin": "",
                           "Cookie": ""
@@ -98,18 +93,17 @@ jobs:
             echo "," >> temp.json
           done
 
-          # Merge and clean final JSON array
+          # Combine JSON array
           cat temp.json | sed '$ s/,$//' >> data.json
           echo "]" >> data.json
 
-          # Validate JSON
+          # Validate final JSON
           jq . data.json > verified.json && mv verified.json data.json
 
-      - name: Commit and Push Updated Data
+      - name: Commit and Push Updated data.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add data.json
-          git commit -m "🔄 Auto-update AkashGO data $(date)"
+          git commit -m "🔄 Auto-update AkashGO data $(date)" || echo "No changes to commit"
           git push
