@@ -1,0 +1,50 @@
+name: Auto Update Fancode Data
+
+on:
+  schedule:
+    - cron: "*/3 * * * *"   
+  workflow_dispatch:        
+
+jobs:
+  update-fancode:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install jq & curl
+        run: sudo apt-get update && sudo apt-get install -y jq curl
+
+      - name: Fetch and filter STARTED matches
+        run: |
+          echo "Fetching JSON..."
+          DATA_URL="https://raw.githubusercontent.com/hasanhabibmottakin/FC/refs/heads/main/data.json"
+          OUTPUT_FILE="fancode.json"
+
+          curl -s $DATA_URL | jq '[.[] | select(.streamingStatus == "STARTED") | {
+            group: "Fancode | \(.streamingStatus)",
+            logo: .image_url,
+            mobile: "on",
+            name: .title,
+            premium: false,
+            source: {
+              headers: {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+              },
+              url: .adfree_stream
+            },
+            status: "on",
+            tv: "off"
+          }]' > $OUTPUT_FILE
+
+          echo "Filtered data saved to $OUTPUT_FILE"
+          cat $OUTPUT_FILE
+
+      - name: Commit and push updated fancode.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add fancode.json
+          git commit -m "Auto update: fancode.json (STARTED matches)" || echo "No changes to commit"
+          git push
