@@ -1,0 +1,50 @@
+name: Auto Update CricHD Data
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   
+  workflow_dispatch:         
+
+jobs:
+  update-crichd:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install jq & curl
+        run: sudo apt-get update && sudo apt-get install -y jq curl
+
+      - name: Fetch and build crichd.json
+        run: |
+          echo "Fetching playlist..."
+          DATA_URL="https://raw.githubusercontent.com/hasanhabibmottakin/h2so4/refs/heads/main/playlist.json"
+          OUTPUT_FILE="crichd.json"
+
+          curl -s $DATA_URL | jq '[.channels[] | {
+            group: "CricHD",
+            logo: ."tvg-logo",
+            mobile: "on",
+            name: .name,
+            premium: false,
+            source: {
+              headers: {
+                Referer: (.url | capture("\\|referer=(?<r>.*)$").r // "")
+              },
+              url: (.url | sub("\\|referer=.*$"; ""))
+            },
+            status: "on",
+            tv: "off"
+          }]' > $OUTPUT_FILE
+
+          echo "crichd.json created"
+          cat $OUTPUT_FILE
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add crichd.json
+          git commit -m "Auto update: crichd.json" || echo "No changes to commit"
+          git push
