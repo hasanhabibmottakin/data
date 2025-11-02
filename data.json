@@ -1,0 +1,539 @@
+[
+  {
+    "name": "LALIGA Live 1",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1758717213355.png",
+    "group": "Sports",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=e7eb2b46-bc76"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "LALIGA Live 2",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1758717245727.png",
+    "group": "Sports",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=e864851a-be2b"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "Star Sports 1 HD",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1754631932246.png",
+    "group": "Sports",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=f9e1c145-b66f"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "Ten Cricket",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1745304841482.png",
+    "group": "Sports",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=801c26dd-8035"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "group": "Entertainment",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png",
+    "mobile": "on",
+    "name": "BTV",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "group": "Entertainment",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",
+    "mobile": "on",
+    "name": "Deepto TV HD",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "group": "News",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",
+    "mobile": "on",
+    "name": "Jamuna TV",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "name": "Sony AATH",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png",
+    "group": "Entertainment",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1732/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=70f9fa1f-38af"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "Star Sports Select 1 HD",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",
+    "group": "Sports",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=120d3fdc-8b3e"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "group": "News",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",
+    "mobile": "on",
+    "name": "Al Jazeera",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "name": "Star Sports Select 2 HD",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",
+    "group": "Sports",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=26ba8aaf-c2cf"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "Sony Sports TEN 5",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png",
+    "group": "Sports",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=2659ffb3-2b08"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "Sony Sports TEN 1",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906901952.png",
+    "group": "Sports",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=35fee7f3-d55d"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "ZEE BANGLA",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017182009.png",
+    "group": "Entertainment",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=8f95c9cd-6940"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "Sony Sports TEN 2",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739907006666.png",
+    "group": "Sports",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=f352d057-1907"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "Zee Bangla Sonar",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017364619.png",
+    "group": "Movies",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=35ec6c98-c95e"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "group": "News",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",
+    "mobile": "on",
+    "name": "ATN News",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "group": "Entertainment",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png",
+    "mobile": "on",
+    "name": "Bangla Vision",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "group": "News",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",
+    "mobile": "on",
+    "name": "Channel 24 HD",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "group": "News",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",
+    "mobile": "on",
+    "name": "Ekattor HD",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "group": "News",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",
+    "mobile": "on",
+    "name": "Independent TV",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "name": "Jalsha Movies",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",
+    "group": "Movies",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=dd5030d1-5cc8"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "group": "Entertainment",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",
+    "mobile": "on",
+    "name": "NTV",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "group": "News",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",
+    "mobile": "on",
+    "name": "Somoy TV",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "name": "STAR GOLD",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735554654688.png",
+    "group": "Movies",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=ssuwd28er-ihda"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "Star Jalsha HD",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740372275659.png",
+    "group": "Entertainment",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=3c65b579-5825"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "Star Movies HD",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735048740482.png",
+    "group": "Movies",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=0f2ba568-bf5b"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "Euro Sports HD",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045577141.png",
+    "group": "Sports",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=df67fc1a-01d1"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "Sony Entertainment",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740380280065.png",
+    "group": "Entertainment",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=368f3847-ed5e"
+      },
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "group": "Entertainment",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png",
+    "mobile": "on",
+    "name": "ATN Bangla",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "group": "Entertainment",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",
+    "mobile": "on",
+    "name": "Channel I HD",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  }
+]
