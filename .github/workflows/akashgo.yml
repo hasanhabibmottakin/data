@@ -1,0 +1,115 @@
+name: Auto Update AkashGO 
+
+on:
+  schedule:
+    - cron: "0 */10 * * *"  
+  workflow_dispatch:
+
+jobs:
+  update-akashgo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Install Dependencies
+        run: sudo apt-get update && sudo apt-get install -y jq curl
+
+      - name: Fetch AkashGO Live Data
+        run: |
+          echo "Fetching live data from AkashGO..."
+
+          BASE_URL="https://kong.akash-go.com"
+          SEARCH_URL="$BASE_URL/search-connector/pub/freemium/search/livedata?genre=*&limit=25&offset=0"
+
+          # Fetch all live channels
+          curl -s "$SEARCH_URL" -o livedata.json
+
+          # Prepare JSON array
+          echo "[" > data.json
+
+          # Extract channel IDs from search response
+          IDS=$(jq -r '.data.contentList[].id' livedata.json)
+
+          for ID in $IDS; do
+            DETAIL_URL="$BASE_URL/content-detail/pub/api/v6/channels/$ID"
+            DETAIL_JSON=$(curl -s "$DETAIL_URL")
+
+            # Extract details
+            NAME=$(echo "$DETAIL_JSON" | jq -r '.data.channelMeta.channelName')
+            LOGO=$(echo "$DETAIL_JSON" | jq -r '.data.channelMeta.logo')
+            GROUP=$(echo "$DETAIL_JSON" | jq -r '.data.channelMeta.category')
+            HLS=$(echo "$DETAIL_JSON" | jq -r '.data.channelMeta.nonProtectedHlsConsumerUrl')
+            DASH=$(echo "$DETAIL_JSON" | jq -r '.data.channelMeta.protectedDashWidevineConsumerUrl')
+            LICENSE=$(echo "$DETAIL_JSON" | jq -r '.data.channelMeta.dashWidevineLicenseUrl')
+
+            # Skip invalid channels
+            if [ "$NAME" = "null" ] || [ -z "$NAME" ]; then
+              continue
+            fi
+
+            # Build JSON entries
+            if [ "$HLS" != "null" ] && [ -n "$HLS" ]; then
+              jq -n --arg group "$GROUP" \
+                    --arg logo "$LOGO" \
+                    --arg name "$NAME" \
+                    --arg url "$HLS" \
+                    '{
+                      group: $group,
+                      logo: $logo,
+                      mobile: "on",
+                      name: $name,
+                      premium: false,
+                      source: {
+                        headers: { Cookie: "" },
+                        url: $url
+                      },
+                      status: "on",
+                      tv: "off"
+                    }' >> temp.json
+            elif [ "$DASH" != "null" ] && [ -n "$DASH" ]; then
+              jq -n --arg name "$NAME" \
+                    --arg logo "$LOGO" \
+                    --arg group "$GROUP" \
+                    --arg url "$DASH" \
+                    --arg license "$LICENSE" \
+                    '{
+                      name: $name,
+                      logo: $logo,
+                      group: $group,
+                      source: {
+                        type: "dash",
+                        url: $url,
+                        license: {
+                          type: "widevine",
+                          url: ("https://dth.nettv.fun/lic.php?ic=" + ($license | split("?contentId=")[1] // ""))
+                        },
+                        headers: {
+                          "User-Agent": "",
+                          "Referer": "",
+                          "Origin": "",
+                          "Cookie": ""
+                        }
+                      }
+                    }' >> temp.json
+            fi
+
+            echo "," >> temp.json
+          done
+
+          # Merge and clean final JSON array
+          cat temp.json | sed '$ s/,$//' >> data.json
+          echo "]" >> data.json
+
+          # Validate JSON
+          jq . data.json > verified.json && mv verified.json data.json
+
+      - name: Commit and Push Updated Data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data.json
+          git commit -m "🔄 Auto-update AkashGO data $(date)"
+          git push
