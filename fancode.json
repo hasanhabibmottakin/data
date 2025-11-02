@@ -1,0 +1,17 @@
+[
+  {
+    "group": "Fancode | STARTED",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130932_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "mobile": "on",
+    "name": "Real Betis Vs Rcd Mallorca",
+    "premium": false,
+    "source": {
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+      },
+      "url": "https://bd-mc-fdlive.fancode.com/mumbai/130932_english_hls_22a576a55434271_1adfreeta-di_h264/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  }
+]
