@@ -241,9 +241,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
+        "logo": "https://images.fancode.com/aig/match/v1/136959_CASACARDS_APP.png",
         "mobile": "on",
-        "name": "Day 2 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
+        "name": "Coventry City Football Club vs Sheffield United F.C. (EFL Championship 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -256,9 +256,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://images.fancode.com/aig/match/v1/136959_CASACARDS_APP.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
         "mobile": "on",
-        "name": "Coventry City Football Club vs Sheffield United F.C. (EFL Championship 2025-26)",
+        "name": "Day 2 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
         "premium": false,
         "source": {
             "headers": {
