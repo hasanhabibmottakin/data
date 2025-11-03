@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "id": "evt-001",
+      "league": "Football | Saudi Pro League",
+      "startTime": "2025-11-03T18:30:00Z",
+      "isLive": true,
+      "team1": {
+        "name": "Al-Ettifaq",
+        "logo": "https://cdn.example.com/logos/ettifaq.png"
+      },
+      "team2": {
+        "name": "Al-Hilal",
+        "logo": "https://cdn.example.com/logos/hilal.png"
+      },
+      "tags": ["football", "live"],
+      "stream": {
+        "url": "https://mprod-cdn.toffeelive.com/live/match-asiacup/index.m3u8",
+        "headers": {
+          "referer": "https://toffeelive.com/",
+          "origin": "https://toffeelive.com",
+          "userAgent": "Toffee (Linux;Android 14)",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=...; Expires=1762220370; ..."
+        },
+        "drm": {
+          "type": "widevine",
+          "licenseUrl": "https://license.example.com/wv"
+        }
+      }
+    },
+    {
+      "id": "evt-002",
+      "league": "News",
+      "startTime": "2025-11-03T19:00:00Z",
+      "isLive": true,
+      "team1": { "name": "Aaj Tak", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png" },
+      "team2": { "name": "", "logo": "" },
+      "stream": {
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?...",
+        "headers": {
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+        }
+      }
+    }
+  ]
+}
