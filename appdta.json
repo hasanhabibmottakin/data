@@ -12,6 +12,6 @@
     }
   ],
   "liveEvents": [
-    "https://github.com/hasanhabibmottakin/data/blob/main/event.m3u"
+    "https://raw.githubusercontent.com/hasanhabibmottakin/data/refs/heads/main/event.m3u"
   ]
 }
