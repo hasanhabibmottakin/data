@@ -1,9 +1,10 @@
-name: Auto Update Fancode Data
+name: Auto Update Fancode JSON
+
 
 on:
   schedule:
-    - cron: "*/3 * * * *"   
-  workflow_dispatch:        
+    - cron: "*/2 * * * *"
+  workflow_dispatch:
 
 jobs:
   update-fancode:
@@ -13,38 +14,47 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install jq & curl
-        run: sudo apt-get update && sudo apt-get install -y jq curl
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v3
+        with:
+          php-version: '8.2'
 
-      - name: Fetch and filter STARTED matches
+      - name: Fetch & Transform Fancode JSON
         run: |
-          echo "Fetching JSON..."
-          DATA_URL="https://raw.githubusercontent.com/hasanhabibmottakin/FC/refs/heads/main/data.json"
-          OUTPUT_FILE="fancode.json"
+          php -r '
+          $remoteUrl = "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json";
+          $jsonData = file_get_contents($remoteUrl);
+          if (!$jsonData) { exit(1); }
+          $data = json_decode($jsonData, true);
+          if (!$data || !isset($data["matches"])) { exit(1); }
+          $output = [];
+          $userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36";
+          foreach ($data["matches"] as $match) {
+              $group = strtoupper($match["status"]) === "LIVE" ? "Fancode | LIVE" : "Fancode | UPCOMING";
+              $url = $match["adfree_url"] ?? "";
+              $output[] = [
+                  "group" => $group,
+                  "logo" => $match["src"] ?? "",
+                  "mobile" => "on",
+                  "name" => $match["title"] ?? $match["match_name"] ?? "",
+                  "premium" => false,
+                  "source" => [
+                      "headers" => [
+                          "User-Agent" => $userAgent
+                      ],
+                      "url" => $url
+                  ],
+                  "status" => "on",
+                  "tv" => "off"
+              ];
+          }
+          file_put_contents("fancode.json", json_encode($output, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
+          '
 
-          curl -s $DATA_URL | jq '[.[] | select(.streamingStatus == "STARTED") | {
-            group: "Fancode | \(.streamingStatus)",
-            logo: .image_url,
-            mobile: "on",
-            name: .title,
-            premium: false,
-            source: {
-              headers: {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-              },
-              url: .adfree_stream
-            },
-            status: "on",
-            tv: "off"
-          }]' > $OUTPUT_FILE
-
-          echo "Filtered data saved to $OUTPUT_FILE"
-          cat $OUTPUT_FILE
-
-      - name: Commit and push updated fancode.json
+      - name: Commit & Push updated JSON
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
           git add fancode.json
-          git commit -m "Auto update: fancode.json (STARTED matches)" || echo "No changes to commit"
+          git commit -m "Auto update Fancode JSON $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push
