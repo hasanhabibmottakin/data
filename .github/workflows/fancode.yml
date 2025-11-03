@@ -1,6 +1,5 @@
 name: Auto Update Fancode JSON
 
-
 on:
   schedule:
     - cron: "*/2 * * * *"
@@ -11,19 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-     
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  
+          fetch-depth: 0
 
-   
       - name: Set up PHP
-        uses: shivammathur/setup-php@v3
+        uses: shivammathur/setup-php@v2
         with:
           php-version: '8.2'
 
-      
       - name: Fetch & Transform Fancode JSON
         run: |
           php -r '
@@ -56,7 +52,6 @@ jobs:
           file_put_contents("fancode.json", json_encode($output, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
           '
 
-     
       - name: Commit & Push updated JSON
         run: |
           git config --local user.name "github-actions"
