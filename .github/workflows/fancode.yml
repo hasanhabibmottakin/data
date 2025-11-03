@@ -11,14 +11,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+     
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  
 
+   
       - name: Set up PHP
         uses: shivammathur/setup-php@v3
         with:
           php-version: '8.2'
 
+      
       - name: Fetch & Transform Fancode JSON
         run: |
           php -r '
@@ -51,10 +56,11 @@ jobs:
           file_put_contents("fancode.json", json_encode($output, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
           '
 
+     
       - name: Commit & Push updated JSON
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
           git add fancode.json
           git commit -m "Auto update Fancode JSON $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
-          git push
+          git push origin main --force
