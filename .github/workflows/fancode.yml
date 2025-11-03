@@ -1,29 +1,35 @@
-name: Auto Update Fancode JSON
+name: Auto Update BD Fancode JSON
 
 on:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "*/2 * * * *"  
   workflow_dispatch:
 
 jobs:
-  update-fancode:
+  update-bd-fancode:
     runs-on: ubuntu-latest
 
     steps:
+      
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
+      
       - name: Set up PHP
         uses: shivammathur/setup-php@v2
         with:
           php-version: '8.2'
 
+      
       - name: Fetch & Transform Fancode JSON
+        env:
+          FANCODE_REMOTE_URL: ${{ secrets.FANCODE_REMOTE_URL }}
         run: |
           php -r '
-          $remoteUrl = "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json";
+          $remoteUrl = getenv("FANCODE_REMOTE_URL");
+          if (!$remoteUrl) { exit(1); }
           $jsonData = file_get_contents($remoteUrl);
           if (!$jsonData) { exit(1); }
           $data = json_decode($jsonData, true);
@@ -33,6 +39,10 @@ jobs:
           foreach ($data["matches"] as $match) {
               $group = strtoupper($match["status"]) === "LIVE" ? "Fancode | LIVE" : "Fancode | UPCOMING";
               $url = $match["adfree_url"] ?? "";
+             
+              if (strpos($url, "https://in-") === 0) {
+                  $url = str_replace("https://in-", "https://bd-", $url);
+              }
               $output[] = [
                   "group" => $group,
                   "logo" => $match["src"] ?? "",
@@ -49,13 +59,14 @@ jobs:
                   "tv" => "off"
               ];
           }
-          file_put_contents("fancode.json", json_encode($output, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
+          file_put_contents("bd_fancode.json", json_encode($output, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
           '
 
+      
       - name: Commit & Push updated JSON
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add fancode.json
-          git commit -m "Auto update Fancode JSON $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git add bd_fancode.json
+          git commit -m "Auto update BD Fancode JSON $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push origin main --force
