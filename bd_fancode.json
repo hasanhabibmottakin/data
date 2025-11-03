@@ -1,20 +1,5 @@
 [
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/02_UAE-vs-USA.jpg",
-        "mobile": "on",
-        "name": "USA vs United Arab Emirates (ICC CWC League 2, 2023-27)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137255_english_hls_915a3049d770605_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136061_5647_NQ_ALW_fc-Web.jpg",
         "mobile": "on",
@@ -226,9 +211,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137877_5740_SNS_GUR_FC-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136959_5489_CVC_SHF_fc-web.jpg",
         "mobile": "on",
-        "name": "Srinagar Sultan vs Gulmarg Royal (Indian Heaven Premier League, 2025)",
+        "name": "Coventry City Football Club vs Sheffield United F.C. (EFL Championship 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -241,9 +226,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136959_5489_CVC_SHF_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137877_5740_SNS_GUR_FC-Web.jpg",
         "mobile": "on",
-        "name": "Coventry City Football Club vs Sheffield United F.C. (EFL Championship 2025-26)",
+        "name": "Srinagar Sultan vs Gulmarg Royal (Indian Heaven Premier League, 2025)",
         "premium": false,
         "source": {
             "headers": {
