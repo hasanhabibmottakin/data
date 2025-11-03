@@ -1,21 +1,6 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136061_5647_NQ_ALW_fc-Web.jpg",
-        "mobile": "on",
-        "name": "Nasaf vs Al Wahda (AFC Champions League Elite 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136061_english_hls_ddd7e07d1d64498_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136063_5647_ADH_SAA_fc-Web.jpg",
         "mobile": "on",
         "name": "Al Duhail vs Shabab Al Ahli (AFC Champions League Elite 2025-26)",
@@ -24,13 +9,13 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136063_english_hls_106f1fc78579869_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136062_5647_TFC_SHR_fc-Web.jpg",
         "mobile": "on",
         "name": "Tractor vs Al Shorta (AFC Champions League Elite 2025-26)",
@@ -39,7 +24,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136062_english_hls_a4e6e3a33d69168_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -544,6 +529,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
         "mobile": "on",
         "name": "Day 1 vs Mission Hills China (Aramco Shenzhen Championship)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
+        "mobile": "on",
+        "name": "Day 3 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
         "premium": false,
         "source": {
             "headers": {
