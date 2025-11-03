@@ -12,6 +12,6 @@
     }
   ],
   "liveEvents": [
-    "https://example.com/live_events.m3u"
+    "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u"
   ]
 }
