@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "name": "Toffee",
+      "logo": "https://toffelof/fav.png",
+      "src": "https://raw.githubusercontent.com/hasanhabibmottakin/xxxxxxxxxxxxxxxxxx/refs/heads/main/ott.m3u"
+    },
+    {
+      "name": "ZEE5",
+      "logo": "https://zee5logo.com",
+      "src": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u"
+    }
+  ],
+
+  "liveEvents": [
+    // optional extra M3U sources only for a Live tab (can leave empty)
+    "https://example.com/live_events.m3u"
+  ]
+}
