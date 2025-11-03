@@ -13,7 +13,7 @@
   ],
 
   "liveEvents": [
-    // optional extra M3U sources only for a Live tab (can leave empty)
+    
     "https://example.com/live_events.m3u"
   ]
 }
