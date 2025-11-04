@@ -1,8 +1,8 @@
-name: job auto fetch sony event
+name: Auto Fetch Sony LIv Events
 
 on:
   schedule:
-    - cron: "*/2 * * * *" 
+    - cron: "*/2 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -17,32 +17,48 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install dos2unix
-        run: sudo apt-get install -y dos2unix
+        run: sudo apt-get install -y dos2unix jq
 
       - name: Convert M3U to JSON
         run: |
           echo "Fetching M3U from $API_URL"
           curl -s "$API_URL" -o sony.m3u
-          dos2unix sony.m3u  # newline fix
+          dos2unix sony.m3u
 
-          echo "[" > sony.json
-          awk '
-            BEGIN { RS="\n"; first=1 }
-            /^#EXTINF/ {
-              match($0, /tvg-logo="([^"]+)"/, logo)
-              match($0, /group-title="([^"]+)"/, group)
-              match($0, /tvg-name="([^"]+)"/, tname)
-              name = substr($0, index($0, ",") + 1)
-              getline url
-              gsub(/"/, "\\\"", name)
-              gsub(/"/, "\\\"", url)
-              if (!first) { print "," }
-              first=0
-              printf("{\"group\":\"%s\",\"logo\":\"%s\",\"mobile\":\"on\",\"name\":\"%s\",\"premium\":false,\"source\":{\"headers\":{\"User-Agent\":\"com.sonyliv/6.22.4 (Android 14; en_GB; SWTV-24AE-4K NF\"},\"url\":\"%s\"},\"status\":\"on\",\"tv\":\"off\"}",
-                (group[1]!=""?group[1]:"SonyEvent"), logo[1], name, url)
-            }
-          ' sony.m3u >> sony.json
-          echo "]" >> sony.json
+          jq -Rn '
+            [inputs
+            | select(length > 0)
+            | capture("#EXTINF:-1.*,(?<name>.*)"; "g")
+            | {name: .name}]' sony.m3u > tmp.json || echo "[]" > tmp.json
+
+          # Now construct final JSON
+          python3 - <<EOF
+import json, re
+channels = []
+with open("sony.m3u", "r") as f:
+    lines = f.read().splitlines()
+for i in range(len(lines)):
+    if lines[i].startswith("#EXTINF"):
+        name_line = lines[i].split(",",1)[1].strip() if "," in lines[i] else "Unknown"
+        logo = re.search(r'tvg-logo="([^"]+)"', lines[i])
+        logo = logo.group(1) if logo else ""
+        url = lines[i+1].strip() if i+1 < len(lines) else ""
+        channels.append({
+            "group": "SonyEvent",
+            "logo": logo,
+            "mobile": "on",
+            "name": name_line,
+            "premium": False,
+            "source": {
+                "headers": {"User-Agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SWTV-24AE-4K NF)"},
+                "url": url
+            },
+            "status": "on",
+            "tv": "off"
+        })
+with open("sony.json", "w", encoding="utf-8") as f:
+    json.dump(channels, f, indent=2, ensure_ascii=False)
+EOF
 
       - name: Commit and Push JSON
         run: |
