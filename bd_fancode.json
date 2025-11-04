@@ -1,21 +1,6 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136014_5647_MZ_MLC_fc-Web.jpg",
-        "mobile": "on",
-        "name": "Machida Zelvia vs Melbourne City (AFC Champions League Elite 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136014_english_hls_53a26ad8a631321_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136016_5647_BU_SHG_fc-Web.jpg",
         "mobile": "on",
         "name": "Buriram United vs Shanghai Port (AFC Champions League Elite 2025-26)",
@@ -559,6 +544,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "mobile": "on",
         "name": "Australia vs United Arab Emirates (Hong Kong Sixes, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
+        "mobile": "on",
+        "name": "Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
         "premium": false,
         "source": {
             "headers": {
