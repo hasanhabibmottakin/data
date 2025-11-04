@@ -1,36 +1,6 @@
 [
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg",
-        "mobile": "on",
-        "name": "United Arab Emirates vs Nepal (ICC CWC League 2, 2023-27)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
-        "mobile": "on",
-        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136015_5647_SE_CR_fc-Web.jpg",
         "mobile": "on",
         "name": "Seoul vs Chengdu Rongcheng (AFC Champions League Elite 2025-26)",
@@ -64,6 +34,36 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136013_5647_HIR_GW_fc-Web.jpg",
         "mobile": "on",
         "name": "Sanfrecce Hiroshima vs Gangwon (AFC Champions League Elite 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg",
+        "mobile": "on",
+        "name": "United Arab Emirates vs Nepal (ICC CWC League 2, 2023-27)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
+        "mobile": "on",
+        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
         "premium": false,
         "source": {
             "headers": {
