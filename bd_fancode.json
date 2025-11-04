@@ -316,7 +316,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138011_5753_INA_MYN_FC-Web.jpg",
         "mobile": "on",
         "name": "Indonesia vs Myanmar (Rising East Asia Tri-Series, 2025)",
         "premium": false,
@@ -346,7 +346,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138012_5753_INA_TLS_FC-Web.jpg",
         "mobile": "on",
         "name": "Indonesia vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
         "premium": false,
@@ -544,6 +544,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "mobile": "on",
         "name": "Afghanistan vs Nepal (Hong Kong Sixes, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138013_5753_MYN_TLS_FC-Web.jpg",
+        "mobile": "on",
+        "name": "Myanmar vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
         "premium": false,
         "source": {
             "headers": {
