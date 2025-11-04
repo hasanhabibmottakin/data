@@ -1,8 +1,8 @@
-name: Job auto fetch sony data
+name: job auto fetch sony event
 
 on:
   schedule:
-    - cron: "*/2 * * * *"  
+    - cron: "*/2 * * * *" 
   workflow_dispatch:
 
 jobs:
@@ -16,13 +16,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Install dos2unix
+        run: sudo apt-get install -y dos2unix
+
       - name: Convert M3U to JSON
         run: |
           echo "Fetching M3U from $API_URL"
           curl -s "$API_URL" -o sony.m3u
+          dos2unix sony.m3u  # newline fix
 
           echo "[" > sony.json
-          awk -v RS='\r\n' '
+          awk '
+            BEGIN { RS="\n"; first=1 }
             /^#EXTINF/ {
               match($0, /tvg-logo="([^"]+)"/, logo)
               match($0, /group-title="([^"]+)"/, group)
@@ -31,9 +36,12 @@ jobs:
               getline url
               gsub(/"/, "\\\"", name)
               gsub(/"/, "\\\"", url)
-              printf("{\"group\":\"%s\",\"logo\":\"%s\",\"mobile\":\"on\",\"name\":\"%s\",\"premium\":false,\"source\":{\"headers\":{\"User-Agent\":\"com.sonyliv/6.22.4 (Android 14; en_GB; SWTV-24AE-4K NF\"},\"url\":\"%s\"},\"status\":\"on\",\"tv\":\"off\"},\n", (group[1]!=""?group[1]:"SonyEvent"), logo[1], name, url)
+              if (!first) { print "," }
+              first=0
+              printf("{\"group\":\"%s\",\"logo\":\"%s\",\"mobile\":\"on\",\"name\":\"%s\",\"premium\":false,\"source\":{\"headers\":{\"User-Agent\":\"com.sonyliv/6.22.4 (Android 14; en_GB; SWTV-24AE-4K NF\"},\"url\":\"%s\"},\"status\":\"on\",\"tv\":\"off\"}",
+                (group[1]!=""?group[1]:"SonyEvent"), logo[1], name, url)
             }
-          ' sony.m3u | sed '$ s/,$//' >> sony.json
+          ' sony.m3u >> sony.json
           echo "]" >> sony.json
 
       - name: Commit and Push JSON
