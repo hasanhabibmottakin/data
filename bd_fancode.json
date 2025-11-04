@@ -1,36 +1,6 @@
 [
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg",
-        "mobile": "on",
-        "name": "United Arab Emirates vs Nepal (ICC CWC League 2, 2023-27)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
-        "mobile": "on",
-        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136065_5647_SDD_AAS_fc-Web.jpg",
         "mobile": "on",
         "name": "Al Sadd vs Al-Ahli Saudi FC (AFC Champions League Elite 2025-26)",
@@ -61,9 +31,24 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136959_5489_CVC_SHF_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg",
         "mobile": "on",
-        "name": "Coventry City Football Club vs Sheffield United F.C. (EFL Championship 2025-26)",
+        "name": "United Arab Emirates vs Nepal (ICC CWC League 2, 2023-27)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
+        "mobile": "on",
+        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -79,6 +64,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136122_5648_SEP_AH_fc-Web_1758118382805.jpg",
         "mobile": "on",
         "name": "Sepahan vs Ahal (AFC Champions League Two 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136959_5489_CVC_SHF_fc-web.jpg",
+        "mobile": "on",
+        "name": "Coventry City Football Club vs Sheffield United F.C. (EFL Championship 2025-26)",
         "premium": false,
         "source": {
             "headers": {
