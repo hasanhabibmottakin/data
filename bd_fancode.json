@@ -136,6 +136,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136960_5489_PRM_WRX_fc-web.jpg",
+        "mobile": "on",
+        "name": "Portsmouth F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136133_5648_ALZ_ISK_fc-Web_1758118383957.jpg",
         "mobile": "on",
         "name": "AL Zawraa SC vs FK Istiklol (AFC Champions League Two 2025-26)",
@@ -154,21 +169,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136110_5648_KHA_ABD_fc-Web_1758118382795.jpg",
         "mobile": "on",
         "name": "Khaldiya vs Andijan (AFC Champions League Two 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136960_5489_PRM_WRX_fc-web.jpg",
-        "mobile": "on",
-        "name": "Portsmouth F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
         "premium": false,
         "source": {
             "headers": {
