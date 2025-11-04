@@ -1,21 +1,6 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136065_5647_SDD_AAS_fc-Web.jpg",
-        "mobile": "on",
-        "name": "Al Sadd vs Al-Ahli Saudi FC (AFC Champions League Elite 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136065_english_hls_5352da6dab96497_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136066_5647_ITT_SHJ_fc-Web.jpg",
         "mobile": "on",
         "name": "Al-Ittihad vs Sharjah (AFC Champions League Elite 2025-26)",
@@ -24,22 +9,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136122_5648_SEP_AH_fc-Web_1758118382805.jpg",
-        "mobile": "on",
-        "name": "Sepahan vs Ahal (AFC Champions League Two 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136122_english_hls_965c441bf461299_1ta-di_h264/index.m3u8"
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136066_english_hls_7ab6195eb063118_1adfreeta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -559,6 +529,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "mobile": "on",
         "name": "South Africa vs Afghanistan (Hong Kong Sixes, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "Sri Lanka vs Bangladesh (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
