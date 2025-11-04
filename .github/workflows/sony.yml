@@ -1,0 +1,45 @@
+name: Job auto fetch sony data
+
+on:
+  schedule:
+    - cron: "*/2 * * * *"  
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    env:
+      API_URL: ${{ secrets.api_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Convert M3U to JSON
+        run: |
+          echo "Fetching M3U from $API_URL"
+          curl -s "$API_URL" -o sony.m3u
+
+          echo "[" > sony.json
+          awk -v RS='\r\n' '
+            /^#EXTINF/ {
+              match($0, /tvg-logo="([^"]+)"/, logo)
+              match($0, /group-title="([^"]+)"/, group)
+              match($0, /tvg-name="([^"]+)"/, tname)
+              name = substr($0, index($0, ",") + 1)
+              getline url
+              gsub(/"/, "\\\"", name)
+              gsub(/"/, "\\\"", url)
+              printf("{\"group\":\"%s\",\"logo\":\"%s\",\"mobile\":\"on\",\"name\":\"%s\",\"premium\":false,\"source\":{\"headers\":{\"User-Agent\":\"com.sonyliv/6.22.4 (Android 14; en_GB; SWTV-24AE-4K NF\"},\"url\":\"%s\"},\"status\":\"on\",\"tv\":\"off\"},\n", (group[1]!=""?group[1]:"SonyEvent"), logo[1], name, url)
+            }
+          ' sony.m3u | sed '$ s/,$//' >> sony.json
+          echo "]" >> sony.json
+
+      - name: Commit and Push JSON
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add sony.json
+          git commit -m "Auto update sony.json" || echo "No changes to commit"
+          git push
