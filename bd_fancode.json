@@ -30,7 +30,7 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136018_5647_JDT_SHN_fc-Web.jpg",
         "mobile": "on",
         "name": "Johor Darul Ta'zim vs Shanghai Shenhua (AFC Champions League Elite 2025-26)",
@@ -39,7 +39,37 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136018_english_hls_324c84eacc52119_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136158_5648_ND_OSK_fc-Web_1758118382838.jpg",
+        "mobile": "on",
+        "name": "Nam Dinh vs Gamba Osaka (AFC Champions League Two 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136158_english_hls_5131ce8dca1165_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136157_5648_ESC_RAT_fc-Web_1758118383339.jpg",
+        "mobile": "on",
+        "name": "Eastern SC vs Ratchaburi (AFC Champions League Two 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136157_english_hls_a4ee48e85173299_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -49,36 +79,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
         "mobile": "on",
         "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136158_5648_ND_OSK_fc-Web_1758118382838.jpg",
-        "mobile": "on",
-        "name": "Nam Dinh vs Gamba Osaka (AFC Champions League Two 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136157_5648_ESC_RAT_fc-Web_1758118383339.jpg",
-        "mobile": "on",
-        "name": "Eastern SC vs Ratchaburi (AFC Champions League Two 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -346,9 +346,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137825_5738_BAN_HK_fc-web.png",
         "mobile": "on",
-        "name": "Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
+        "name": "Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -361,9 +361,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137825_5738_BAN_HK_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
         "mobile": "on",
-        "name": "Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)",
+        "name": "Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
         "premium": false,
         "source": {
             "headers": {
