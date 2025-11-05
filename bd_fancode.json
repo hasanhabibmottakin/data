@@ -16,21 +16,6 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg",
-        "mobile": "on",
-        "name": "Nepal vs United Arab Emirates (ICC CWC League 2, 2023-27)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137256_english_hls_f2ec14d7055321_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136018_5647_JDT_SHN_fc-Web.jpg",
         "mobile": "on",
         "name": "Johor Darul Ta'zim vs Shanghai Shenhua (AFC Champions League Elite 2025-26)",
@@ -99,7 +84,22 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136097_english_hls_b409d9844659492_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg",
+        "mobile": "on",
+        "name": "Nepal vs United Arab Emirates (ICC CWC League 2, 2023-27)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137256_english_hls_f2ec14d7055321_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
