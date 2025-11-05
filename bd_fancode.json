@@ -121,6 +121,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138011_5753_INA_MYN_FC-Web.jpg",
+        "mobile": "on",
+        "name": "Indonesia vs Myanmar (Rising East Asia Tri-Series, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136109_5648_ARK_ASC_fc-Web_1758118382730.jpg",
         "mobile": "on",
         "name": "Arkadag vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
@@ -139,21 +154,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136097_5648_AWL_ALM_fc-Web_1758118383379.jpg",
         "mobile": "on",
         "name": "Al Wasl vs Al Muharraq (AFC Champions League Two 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138011_5753_INA_MYN_FC-Web.jpg",
-        "mobile": "on",
-        "name": "Indonesia vs Myanmar (Rising East Asia Tri-Series, 2025)",
         "premium": false,
         "source": {
             "headers": {
