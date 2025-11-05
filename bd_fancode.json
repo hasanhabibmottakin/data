@@ -75,22 +75,7 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
-        "mobile": "on",
-        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136109_5648_ARK_ASC_fc-Web_1758118382730.jpg",
         "mobile": "on",
         "name": "Arkadag vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
@@ -99,6 +84,21 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136109_english_hls_f1654cac848832_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136097_5648_AWL_ALM_fc-Web_1758118383379.jpg",
+        "mobile": "on",
+        "name": "Al Wasl vs Al Muharraq (AFC Champions League Two 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
             "url": ""
         },
         "status": "on",
@@ -106,9 +106,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136097_5648_AWL_ALM_fc-Web_1758118383379.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
         "mobile": "on",
-        "name": "Al Wasl vs Al Muharraq (AFC Champions League Two 2025-26)",
+        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -316,21 +316,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
-        "mobile": "on",
-        "name": "Day 3 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137825_5738_BAN_HK_fc-web.png",
         "mobile": "on",
         "name": "Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)",
@@ -346,9 +331,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
         "mobile": "on",
-        "name": "Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
+        "name": "Day 3 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -364,6 +349,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137826_5738_ENG_UAE_fc-web.png",
         "mobile": "on",
         "name": "England vs United Arab Emirates (Hong Kong Sixes, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
+        "mobile": "on",
+        "name": "Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
         "premium": false,
         "source": {
             "headers": {
