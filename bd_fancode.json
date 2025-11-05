@@ -90,21 +90,6 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg",
-        "mobile": "on",
-        "name": "Nepal vs United Arab Emirates (ICC CWC League 2, 2023-27)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137256_english_hls_f2ec14d7055321_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
         "mobile": "on",
@@ -331,9 +316,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137826_5738_ENG_UAE_fc-web.png",
         "mobile": "on",
-        "name": "Day 3 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
+        "name": "England vs United Arab Emirates (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -346,9 +331,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137826_5738_ENG_UAE_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
         "mobile": "on",
-        "name": "England vs United Arab Emirates (Hong Kong Sixes, 2025)",
+        "name": "Day 3 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
         "premium": false,
         "source": {
             "headers": {
