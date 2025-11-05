@@ -15,16 +15,16 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
         "mobile": "on",
-        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+        "name": "West Indies vs New Zealand (West Indies tour of New Zealand, 2025)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1762365628~acl=/*~id=10075103491291143433139793258547~hmac=55e0ff4f163c84f74dc713f468d2084564cf4373ea6f77a63ecf284a4f011c75"
         },
         "status": "on",
         "tv": "off"
@@ -91,6 +91,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138011_5753_INA_MYN_FC-Web.jpg",
+        "mobile": "on",
+        "name": "Indonesia vs Myanmar (Rising East Asia Tri-Series, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136158_5648_ND_OSK_fc-Web_1758118382838.jpg",
         "mobile": "on",
         "name": "Nam Dinh vs Gamba Osaka (AFC Champions League Two 2025-26)",
@@ -109,21 +124,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136157_5648_ESC_RAT_fc-Web_1758118383339.jpg",
         "mobile": "on",
         "name": "Eastern SC vs Ratchaburi (AFC Champions League Two 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138011_5753_INA_MYN_FC-Web.jpg",
-        "mobile": "on",
-        "name": "Indonesia vs Myanmar (Rising East Asia Tri-Series, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -481,9 +481,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "mobile": "on",
-        "name": "Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
+        "name": "South Africa vs Afghanistan (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -496,9 +496,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
         "mobile": "on",
-        "name": "South Africa vs Afghanistan (Hong Kong Sixes, 2025)",
+        "name": "Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
         "premium": false,
         "source": {
             "headers": {
