@@ -16,21 +16,6 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136018_5647_JDT_SHN_fc-Web.jpg",
-        "mobile": "on",
-        "name": "Johor Darul Ta'zim vs Shanghai Shenhua (AFC Champions League Elite 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136018_english_hls_324c84eacc52119_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136109_5648_ARK_ASC_fc-Web_1758118382730.jpg",
         "mobile": "on",
         "name": "Arkadag vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
@@ -529,6 +514,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Al-Najmah-SC-vs-Al-Hilal-SFC_old.jpg",
         "mobile": "on",
         "name": "Al-Najmah SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "Practice 1 vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
         "premium": false,
         "source": {
             "headers": {
