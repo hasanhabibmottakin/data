@@ -1,20 +1,5 @@
 [
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136960_5489_PRM_WRX_fc-web.jpg",
-        "mobile": "on",
-        "name": "Portsmouth F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136960_english_hls_1b24f33f8e81297_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
         "mobile": "on",
@@ -61,9 +46,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136145_5648_MAC_CAH_fc-Web_1758118382756.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137825_5738_BAN_HK_fc-web.png",
         "mobile": "on",
-        "name": "Macarthur vs Cong An Ha Noi (AFC Champions League Two 2025-26)",
+        "name": "Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -76,9 +61,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137825_5738_BAN_HK_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136145_5648_MAC_CAH_fc-Web_1758118382756.jpg",
         "mobile": "on",
-        "name": "Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)",
+        "name": "Macarthur vs Cong An Ha Noi (AFC Champions League Two 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -529,6 +514,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "mobile": "on",
         "name": "India vs Kuwait (Hong Kong Sixes, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
