@@ -76,6 +76,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137825_5738_BAN_HK_fc-web.png",
+        "mobile": "on",
+        "name": "Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136181_5648_PHG_TAM_fc-Web_1758118383614.jpg",
         "mobile": "on",
         "name": "Pohang Steelers vs Tampines Rovers FC (AFC Champions League Two 2025-26)",
@@ -94,21 +109,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136169_5648_LIO_BU_fc-Web_1758118382767.jpg",
         "mobile": "on",
         "name": "Lion City Sailors vs Bangkok United (AFC Champions League Two 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137825_5738_BAN_HK_fc-web.png",
-        "mobile": "on",
-        "name": "Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -241,9 +241,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137830_5738_AUS_UAE_fc-web.png",
         "mobile": "on",
-        "name": "Day 1 vs Mission Hills China (Aramco Shenzhen Championship)",
+        "name": "Australia vs United Arab Emirates (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -256,9 +256,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137830_5738_AUS_UAE_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
         "mobile": "on",
-        "name": "Australia vs United Arab Emirates (Hong Kong Sixes, 2025)",
+        "name": "Day 1 vs Mission Hills China (Aramco Shenzhen Championship)",
         "premium": false,
         "source": {
             "headers": {
