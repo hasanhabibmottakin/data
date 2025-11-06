@@ -16,24 +16,9 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138011_5753_INA_MYN_FC-Web.jpg",
-        "mobile": "on",
-        "name": "Myanmar vs Indonesia (Rising East Asia Tri-Series, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138011_english_hls_e8fc3165a843123_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
         "mobile": "on",
-        "name": "Day 1 vs Mission Hills China (Aramco Shenzhen Championship)",
+        "name": "Day 1 vs Mission Hills China (Aramco China Championship)",
         "premium": false,
         "source": {
             "headers": {
@@ -166,9 +151,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136145_5648_MAC_CAH_fc-Web_1758118382756.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137831_5738_SA_AFG_fc-web.png",
         "mobile": "on",
-        "name": "Macarthur vs Cong An Ha Noi (AFC Champions League Two 2025-26)",
+        "name": "South Africa vs Afghanistan (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -181,9 +166,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137831_5738_SA_AFG_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136145_5648_MAC_CAH_fc-Web_1758118382756.jpg",
         "mobile": "on",
-        "name": "South Africa vs Afghanistan (Hong Kong Sixes, 2025)",
+        "name": "Macarthur vs Cong An Ha Noi (AFC Champions League Two 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -363,7 +348,7 @@
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
         "mobile": "on",
-        "name": "Day 2 vs Mission Hills China (Aramco Shenzhen Championship)",
+        "name": "Day 2 vs Mission Hills China (Aramco China Championship)",
         "premium": false,
         "source": {
             "headers": {
@@ -529,6 +514,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
         "mobile": "on",
         "name": "Day 2 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
