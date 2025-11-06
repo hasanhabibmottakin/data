@@ -1,20 +1,5 @@
 [
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136170_5648_SEL_PER_fc-Web_1758118383369.jpg",
-        "mobile": "on",
-        "name": "Selangor vs Persib Bandung (AFC Champions League Two 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136170_english_hls_d3544086f579630_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137825_5738_BAN_HK_fc-web_1762413988202.png",
         "mobile": "on",
@@ -544,6 +529,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138015_5753_MYN_INA_FC-Web.jpg",
         "mobile": "on",
         "name": "Myanmar vs Indonesia (Rising East Asia Tri-Series, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg",
+        "mobile": "on",
+        "name": "Kashima Antlers vs Yokohama (J League 2025)",
         "premium": false,
         "source": {
             "headers": {
