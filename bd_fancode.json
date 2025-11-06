@@ -1,30 +1,45 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136181_5648_PHG_TAM_fc-Web_1758118383614.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136182_5648_PNU_KAYA_fc-Web_1758118383482.jpg",
         "mobile": "on",
-        "name": "Pohang Steelers vs Tampines Rovers FC (AFC Champions League Two 2025-26)",
+        "name": "BG Pathum United vs Kaya (AFC Champions League Two 2025-26)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136181_english_hls_38bd67d98b13614_1ta-di_h264/index.m3u8"
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136182_english_hls_42533bb73051094_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136169_5648_LIO_BU_fc-Web_1758118382767.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136170_5648_SEL_PER_fc-Web_1758118383369.jpg",
         "mobile": "on",
-        "name": "Lion City Sailors vs Bangkok United (AFC Champions League Two 2025-26)",
+        "name": "Selangor vs Persib Bandung (AFC Champions League Two 2025-26)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136169_english_hls_fb6bd68d8d55538_1ta-di_h264/index.m3u8"
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136170_english_hls_d3544086f579630_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136146_5648_BEI_WTP_fc-Web_1758118383344.jpg",
+        "mobile": "on",
+        "name": "Beijing Guoan vs Wofoo Tai Po (AFC Champions League Two 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136146_english_hls_8d5e5a377a84440_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -181,51 +196,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136182_5648_PNU_KAYA_fc-Web_1758118383482.jpg",
-        "mobile": "on",
-        "name": "BG Pathum United vs Kaya (AFC Champions League Two 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136170_5648_SEL_PER_fc-Web_1758118383369.jpg",
-        "mobile": "on",
-        "name": "Selangor vs Persib Bandung (AFC Champions League Two 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136146_5648_BEI_WTP_fc-Web_1758118383344.jpg",
-        "mobile": "on",
-        "name": "Beijing Guoan vs Wofoo Tai Po (AFC Champions League Two 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137834_5738_ENG_AUS_fc-web.png",
         "mobile": "on",
         "name": "England vs Australia (Hong Kong Sixes, 2025)",
@@ -301,9 +271,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Al-Najmah-SC-vs-Al-Hilal-SFC_old.jpg",
         "mobile": "on",
-        "name": "Day 1 vs Aut\u00f3dromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
+        "name": "Al-Najmah SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
         "premium": false,
         "source": {
             "headers": {
@@ -316,9 +286,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Al-Najmah-SC-vs-Al-Hilal-SFC_old.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
         "mobile": "on",
-        "name": "Al-Najmah SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+        "name": "Day 1 vs Aut\u00f3dromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
         "premium": false,
         "source": {
             "headers": {
@@ -514,6 +484,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138014_5753_TLS_INA_FC-Web.jpg",
         "mobile": "on",
         "name": "Timor-Leste vs Indonesia (Rising East Asia Tri-Series, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
