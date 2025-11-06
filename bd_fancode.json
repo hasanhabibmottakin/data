@@ -271,9 +271,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137836_5738_IND_KUW_fc-web.png",
         "mobile": "on",
-        "name": "Day 2 vs Mission Hills China (Aramco China Championship)",
+        "name": "India vs Kuwait (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -286,9 +286,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137836_5738_IND_KUW_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
         "mobile": "on",
-        "name": "India vs Kuwait (Hong Kong Sixes, 2025)",
+        "name": "Day 2 vs Mission Hills China (Aramco China Championship)",
         "premium": false,
         "source": {
             "headers": {
@@ -361,9 +361,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "mobile": "on",
-        "name": "Session 1 - Qualifying Time Trials vs Miami (E1 Miami GP)",
+        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -376,9 +376,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png",
         "mobile": "on",
-        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
+        "name": "Session 1 - Qualifying Time Trials vs Miami (E1 Miami GP)",
         "premium": false,
         "source": {
             "headers": {
