@@ -181,36 +181,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137834_5738_ENG_AUS_fc-web.png",
-        "mobile": "on",
-        "name": "England vs Australia (Hong Kong Sixes, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138013_5753_MYN_TLS_FC-Web.jpg",
-        "mobile": "on",
-        "name": "Myanmar vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136182_5648_PNU_KAYA_fc-Web_1758118383482.jpg",
         "mobile": "on",
         "name": "BG Pathum United vs Kaya (AFC Champions League Two 2025-26)",
@@ -244,6 +214,36 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136146_5648_BEI_WTP_fc-Web_1758118383344.jpg",
         "mobile": "on",
         "name": "Beijing Guoan vs Wofoo Tai Po (AFC Champions League Two 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137834_5738_ENG_AUS_fc-web.png",
+        "mobile": "on",
+        "name": "England vs Australia (Hong Kong Sixes, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138013_5753_MYN_TLS_FC-Web.jpg",
+        "mobile": "on",
+        "name": "Myanmar vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
         "premium": false,
         "source": {
             "headers": {
