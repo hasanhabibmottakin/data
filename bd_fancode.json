@@ -1,30 +1,30 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137829_5738_SL_HK_fc-web_1762413988164.png",
-        "mobile": "on",
-        "name": "Sri Lanka vs Hong Kong, China (Hong Kong Sixes, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137829_english_hls_009d59920058492_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137830_5738_AUS_UAE_fc-web_1762413988168.png",
         "mobile": "on",
-        "name": "Australia vs United Arab Emirates (Hong Kong Sixes, 2025)",
+        "name": "United Arab Emirates vs Australia (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/137830_english_hls_4d020996e557013_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+        "mobile": "on",
+        "name": "Day 2 vs Mission Hills China (Aramco China Championship)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137218_english_hls_b38d1192d59447_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -256,9 +256,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "mobile": "on",
-        "name": "Day 2 vs Mission Hills China (Aramco China Championship)",
+        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -316,9 +316,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138015_5753_MYN_INA_FC-Web.jpg",
         "mobile": "on",
-        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
+        "name": "Myanmar vs Indonesia (Rising East Asia Tri-Series, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -331,9 +331,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138015_5753_MYN_INA_FC-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg",
         "mobile": "on",
-        "name": "Myanmar vs Indonesia (Rising East Asia Tri-Series, 2025)",
+        "name": "Kashima Antlers vs Yokohama (J League 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -364,21 +364,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
         "mobile": "on",
         "name": "Day 1 vs Aut\u00f3dromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg",
-        "mobile": "on",
-        "name": "Kashima Antlers vs Yokohama (J League 2025)",
         "premium": false,
         "source": {
             "headers": {
