@@ -3,7 +3,7 @@
         "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137831_5738_SA_AFG_fc-web_1762413988194.png",
         "mobile": "on",
-        "name": "South Africa vs Afghanistan (Hong Kong Sixes, 2025)",
+        "name": "Afghanistan vs South Africa (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -226,9 +226,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138014_5753_TLS_INA_FC-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "mobile": "on",
-        "name": "Timor-Leste vs Indonesia (Rising East Asia Tri-Series, 2025)",
+        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -241,9 +241,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138014_5753_TLS_INA_FC-Web.jpg",
         "mobile": "on",
-        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
+        "name": "Timor-Leste vs Indonesia (Rising East Asia Tri-Series, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -421,9 +421,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
         "mobile": "on",
-        "name": "Day 2 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
+        "name": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -436,9 +436,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
         "mobile": "on",
-        "name": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
+        "name": "Day 2 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
         "premium": false,
         "source": {
             "headers": {
