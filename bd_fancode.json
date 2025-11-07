@@ -30,21 +30,6 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137834_5738_ENG_AUS_fc-web.png",
-        "mobile": "on",
-        "name": "Australia vs England (Hong Kong Sixes, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137834_english_hls_e9c8080ec223319_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137835_5738_SA_NEP_fc-web.png",
         "mobile": "on",
@@ -166,9 +151,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Al-Najmah-SC-vs-Al-Hilal-SFC_old.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "mobile": "on",
-        "name": "Al-Najmah SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -181,9 +166,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Al-Najmah-SC-vs-Al-Hilal-SFC_old.jpg",
         "mobile": "on",
-        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
+        "name": "Al-Najmah SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
         "premium": false,
         "source": {
             "headers": {
@@ -361,6 +346,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136961_5489_BLK_DER_fc-web.jpg",
+        "mobile": "on",
+        "name": "Blackburn Rovers F.C. vs Derby County Football Club (EFL Championship 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png",
         "mobile": "on",
         "name": "Session 2 - Qualifying Races vs Miami (E1 Miami GP)",
@@ -379,21 +379,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
         "mobile": "on",
         "name": "Day 2 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136961_5489_BLK_DER_fc-web.jpg",
-        "mobile": "on",
-        "name": "Blackburn Rovers F.C. vs Derby County Football Club (EFL Championship 2025-26)",
         "premium": false,
         "source": {
             "headers": {
