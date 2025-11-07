@@ -16,21 +16,6 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Al-Najmah-SC-vs-Al-Hilal-SFC_old.jpg",
-        "mobile": "on",
-        "name": "Al-Najmah SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137892_english_hls_a7d45bf7b043742_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/130942_5427_ELC_RS_fc-Web.jpg",
         "mobile": "on",
         "name": "Elche CF vs Real Sociedad (LALIGA 2025-26)",
@@ -70,6 +55,36 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/137968_english_hls_6535ee454728585_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png",
+        "mobile": "on",
+        "name": "Session 2 - Qualifying Races vs Miami (E1 Miami GP)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137969_english_hls_411e3ce22d40635_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Al-Najmah-SC-vs-Al-Hilal-SFC_old.jpg",
+        "mobile": "on",
+        "name": "Al-Najmah SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137892_english_hls_a7d45bf7b043742_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -225,7 +240,7 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136963_5489_WAT_BRI_fc-web.jpg",
         "mobile": "on",
         "name": "Watford F.C. vs Bristol City F.C. (EFL Championship 2025-26)",
@@ -234,7 +249,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136963_english_hls_9a9a26591470080_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -375,22 +390,7 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png",
-        "mobile": "on",
-        "name": "Session 2 - Qualifying Races vs Miami (E1 Miami GP)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
         "mobile": "on",
         "name": "Day 2 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
@@ -399,7 +399,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137974_english_hls_cbf7f6447480047_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
