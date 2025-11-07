@@ -418,5 +418,20 @@
         },
         "status": "on",
         "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Al-Neom-SC-vs-Al-nassr_old.jpg",
+        "mobile": "on",
+        "name": "Neom SC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
     }
 ]
