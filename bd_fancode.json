@@ -1,20 +1,5 @@
 [
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
-        "mobile": "on",
-        "name": "Day 1 vs Aut\u00f3dromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/119277_english_hls_4f07ec7dfa62887_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Al-Najmah-SC-vs-Al-Hilal-SFC_old.jpg",
         "mobile": "on",
@@ -196,6 +181,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138014_5753_TLS_INA_FC-Web.jpg",
+        "mobile": "on",
+        "name": "Timor-Leste vs Indonesia (Rising East Asia Tri-Series, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/130942_5427_ELC_RS_fc-Web.jpg",
         "mobile": "on",
         "name": "Elche CF vs Real Sociedad (LALIGA 2025-26)",
@@ -214,21 +214,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136963_5489_WAT_BRI_fc-web.jpg",
         "mobile": "on",
         "name": "Watford F.C. vs Bristol City F.C. (EFL Championship 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138014_5753_TLS_INA_FC-Web.jpg",
-        "mobile": "on",
-        "name": "Timor-Leste vs Indonesia (Rising East Asia Tri-Series, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -286,9 +271,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130945_5427_GIR_ALA_fc-Web.jpg",
         "mobile": "on",
-        "name": "Kashima Antlers vs Yokohama (J League 2025)",
+        "name": "Girona FC vs Deportivo Alaves (LALIGA 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -301,9 +286,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130945_5427_GIR_ALA_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg",
         "mobile": "on",
-        "name": "Girona FC vs Deportivo Alaves (LALIGA 2025-26)",
+        "name": "Kashima Antlers vs Yokohama (J League 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -451,9 +436,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg",
         "mobile": "on",
-        "name": "Day 3 vs Mission Hills China (Aramco China Championship)",
+        "name": "RCD Espanyol vs Villarreal CF (LALIGA 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -466,9 +451,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
         "mobile": "on",
-        "name": "RCD Espanyol vs Villarreal CF (LALIGA 2025-26)",
+        "name": "Day 3 vs Mission Hills China (Aramco China Championship)",
         "premium": false,
         "source": {
             "headers": {
