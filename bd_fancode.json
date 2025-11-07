@@ -1,9 +1,9 @@
 [
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137831_5738_SA_AFG_fc-web_1762413988194.png",
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137833_5738_IND_PAK_fc-web.png",
         "mobile": "on",
-        "name": "Afghanistan vs South Africa (Hong Kong Sixes, 2025)",
+        "name": "India vs Pakistan (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -18,7 +18,7 @@
         "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137832_5738_SL_BAN_fc-web.png",
         "mobile": "on",
-        "name": "Sri Lanka vs Bangladesh (Hong Kong Sixes, 2025)",
+        "name": "Bangladesh vs Sri Lanka (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -45,16 +45,16 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137833_5738_IND_PAK_fc-web.png",
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
         "mobile": "on",
-        "name": "India vs Pakistan (Hong Kong Sixes, 2025)",
+        "name": "Day 2 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137164_english_hls_21dabe9c8f77195_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -286,21 +286,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
-        "mobile": "on",
-        "name": "Day 2 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "mobile": "on",
         "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
@@ -346,6 +331,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
+        "mobile": "on",
+        "name": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
         "mobile": "on",
         "name": "Day 1 vs Aut\u00f3dromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
@@ -364,21 +364,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
         "mobile": "on",
         "name": "Practice 1 vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
-        "mobile": "on",
-        "name": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
         "premium": false,
         "source": {
             "headers": {
