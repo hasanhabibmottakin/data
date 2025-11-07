@@ -1,21 +1,6 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137828_5738_AFG_NEP_fc-web_1762413988139.png",
-        "mobile": "on",
-        "name": "Afghanistan vs Nepal (Hong Kong Sixes, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137828_english_hls_eb8f41d9c083729_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137829_5738_SL_HK_fc-web_1762413988164.png",
         "mobile": "on",
         "name": "Sri Lanka vs Hong Kong, China (Hong Kong Sixes, 2025)",
@@ -151,9 +136,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Al-Najmah-SC-vs-Al-Hilal-SFC_old.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "mobile": "on",
-        "name": "Al-Najmah SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -166,9 +151,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Al-Najmah-SC-vs-Al-Hilal-SFC_old.jpg",
         "mobile": "on",
-        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
+        "name": "Al-Najmah SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
         "premium": false,
         "source": {
             "headers": {
@@ -256,9 +241,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
         "mobile": "on",
-        "name": "Mirand\u00e9s vs Sporting de Gij\u00f3n (LALIGA Hypermotion 2025-26)",
+        "name": "Day 2 vs Mission Hills China (Aramco China Championship)",
         "premium": false,
         "source": {
             "headers": {
@@ -274,6 +259,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138014_5753_TLS_INA_FC-Web.jpg",
         "mobile": "on",
         "name": "Timor-Leste vs Indonesia (Rising East Asia Tri-Series, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "Mirand\u00e9s vs Sporting de Gij\u00f3n (LALIGA Hypermotion 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -346,21 +346,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
-        "mobile": "on",
-        "name": "Day 2 vs Mission Hills China (Aramco China Championship)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
         "mobile": "on",
         "name": "Day 2 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
@@ -406,9 +391,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg",
         "mobile": "on",
-        "name": "Session 1 - Qualifying Time Trials vs Miami (E1 Miami GP)",
+        "name": "Kashima Antlers vs Yokohama (J League 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -421,9 +406,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png",
         "mobile": "on",
-        "name": "Kashima Antlers vs Yokohama (J League 2025)",
+        "name": "Session 1 - Qualifying Time Trials vs Miami (E1 Miami GP)",
         "premium": false,
         "source": {
             "headers": {
