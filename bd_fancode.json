@@ -448,5 +448,20 @@
         },
         "status": "on",
         "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+        "mobile": "on",
+        "name": "Day 3 vs Mission Hills China (Aramco China Championship)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
     }
 ]
