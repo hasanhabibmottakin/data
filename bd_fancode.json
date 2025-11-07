@@ -31,6 +31,21 @@
     },
     {
         "group": "Fancode | LIVE",
+        "logo": "https://images.fancode.com/aig/match/v1/137824_CASACARDS_APP.png",
+        "mobile": "on",
+        "name": "Mirand\u00e9s vs Sporting de Gij\u00f3n (LALIGA Hypermotion 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137824_english_hls_f1174740a883342_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png",
         "mobile": "on",
         "name": "Session 1 - Qualifying Time Trials vs Miami (E1 Miami GP)",
@@ -106,7 +121,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/03_Australia-vs-Bangladesh-(2).png",
         "mobile": "on",
         "name": "Australia vs Bangladesh (Hong Kong Sixes, 2025)",
         "premium": false,
@@ -151,7 +166,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/05_UAE-vs-Sri-Lanka.png",
         "mobile": "on",
         "name": "United Arab Emirates vs Sri Lanka (Hong Kong Sixes, 2025)",
         "premium": false,
@@ -166,7 +181,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/06_Hong-Kong-vs-England-(1).png",
         "mobile": "on",
         "name": "Hong Kong, China vs England (Hong Kong Sixes, 2025)",
         "premium": false,
@@ -214,21 +229,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136963_5489_WAT_BRI_fc-web.jpg",
         "mobile": "on",
         "name": "Watford F.C. vs Bristol City F.C. (EFL Championship 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://images.fancode.com/aig/match/v1/137824_CASACARDS_APP.png",
-        "mobile": "on",
-        "name": "Mirand\u00e9s vs Sporting de Gij\u00f3n (LALIGA Hypermotion 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -346,9 +346,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130949_5427_SEV_OSN_fc-Web.jpg",
         "mobile": "on",
-        "name": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
+        "name": "Sevilla FC vs CA Osasuna (LALIGA 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -361,9 +361,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130949_5427_SEV_OSN_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
         "mobile": "on",
-        "name": "Sevilla FC vs CA Osasuna (LALIGA 2025-26)",
+        "name": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -481,6 +481,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
         "mobile": "on",
         "name": "Day 3 vs Mission Hills China (Aramco China Championship)",
@@ -496,24 +511,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
         "mobile": "on",
-        "name": "Day 3 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-        "mobile": "on",
-        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
+        "name": "M\u00e1laga vs C\u00f3rdoba (LALIGA Hypermotion 2025-26)",
         "premium": false,
         "source": {
             "headers": {
