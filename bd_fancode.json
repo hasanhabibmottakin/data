@@ -1,15 +1,15 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137830_5738_AUS_UAE_fc-web_1762413988168.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137831_5738_SA_AFG_fc-web_1762413988194.png",
         "mobile": "on",
-        "name": "United Arab Emirates vs Australia (Hong Kong Sixes, 2025)",
+        "name": "South Africa vs Afghanistan (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137830_english_hls_4d020996e557013_1ta-di_h264/index.m3u8"
+            "url": ""
         },
         "status": "on",
         "tv": "off"
@@ -25,21 +25,6 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/137218_english_hls_b38d1192d59447_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137831_5738_SA_AFG_fc-web_1762413988194.png",
-        "mobile": "on",
-        "name": "South Africa vs Afghanistan (Hong Kong Sixes, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
         },
         "status": "on",
         "tv": "off"
