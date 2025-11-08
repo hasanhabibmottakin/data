@@ -45,36 +45,6 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
-        "mobile": "on",
-        "name": "Sprint vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/118483_english_hls_68f845d56224195_1adfreeta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png",
-        "mobile": "on",
-        "name": "Session 3 - Group Races vs Miami (E1 Miami GP)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137970_english_hls_921e6fcd6968975_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
         "mobile": "on",
@@ -316,9 +286,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137943_4795_OSK_VIS_fc-web.jpg",
         "mobile": "on",
-        "name": "Session 4 - Race Off vs Miami (E1 Miami GP)",
+        "name": "Gamba Osaka vs Vissel Kobe (J League 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -331,9 +301,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137943_4795_OSK_VIS_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png",
         "mobile": "on",
-        "name": "Gamba Osaka vs Vissel Kobe (J League 2025)",
+        "name": "Session 4 - Race Off vs Miami (E1 Miami GP)",
         "premium": false,
         "source": {
             "headers": {
@@ -481,6 +451,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "Granada vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
         "mobile": "on",
         "name": "Day 4 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
@@ -496,9 +481,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130946_5427_CEV_BAR_fc-Web.jpg",
         "mobile": "on",
-        "name": "Granada vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+        "name": "RC Celta vs FC Barcelona (LALIGA 2025-26)",
         "premium": false,
         "source": {
             "headers": {
