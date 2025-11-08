@@ -1,6 +1,36 @@
 [
     {
         "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg",
+        "mobile": "on",
+        "name": "RCD Espanyol vs Villarreal CF (LALIGA 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130943_english_hls_d755111e1633040_1adfreeta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "M\u00e1laga vs C\u00f3rdoba (LALIGA Hypermotion 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137823_english_hls_a4b4c8f55285258_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
         "mobile": "on",
         "name": "Qualifying vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
@@ -16,15 +46,15 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
         "mobile": "on",
-        "name": "RCD Espanyol vs Villarreal CF (LALIGA 2025-26)",
+        "name": "Day 3 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130943_english_hls_d755111e1633040_1adfreeta-di_h264/index.m3u8"
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137975_english_hls_04dea496a85951_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -196,21 +226,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-        "mobile": "on",
-        "name": "M\u00e1laga vs C\u00f3rdoba (LALIGA Hypermotion 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138016_5753_TLS_MYN_FC-Web.jpg",
         "mobile": "on",
         "name": "Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)",
@@ -289,21 +304,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137944_5744_VER-W_NAE-W_fc-web.jpg",
         "mobile": "on",
         "name": "Tokyo Verdy Beleza vs Naegohyang Women's FC (AFC Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
-        "mobile": "on",
-        "name": "Day 3 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
         "premium": false,
         "source": {
             "headers": {
@@ -421,21 +421,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
-        "mobile": "on",
-        "name": "Race Day vs Aut\u00f3dromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/134024_5609_TAS_SAU_fc-Web.jpg",
         "mobile": "on",
         "name": "Tasmania vs South Australia (Sheffield Shield, 2025-26)",
@@ -454,6 +439,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/134023_5609_NSW_VCT_fc-Web.jpg",
         "mobile": "on",
         "name": "New South Wales vs Victoria (Sheffield Shield, 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "Race Day vs Aut\u00f3dromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
         "premium": false,
         "source": {
             "headers": {
