@@ -391,6 +391,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130940_5427_ATH_RO_fc-Web.jpg",
+        "mobile": "on",
+        "name": "Athletic Club vs Real Oviedo (LALIGA 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
         "mobile": "on",
         "name": "Sprint vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
@@ -424,21 +439,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png",
         "mobile": "on",
         "name": "Session 4 - Race Off vs Miami (E1 Miami GP)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130940_5427_ATH_RO_fc-Web.jpg",
-        "mobile": "on",
-        "name": "Athletic Club vs Real Oviedo (LALIGA 2025-26)",
         "premium": false,
         "source": {
             "headers": {
