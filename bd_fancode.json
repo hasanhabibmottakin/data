@@ -1,21 +1,6 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130946_5427_CEV_BAR_fc-Web.jpg",
-        "mobile": "on",
-        "name": "RC Celta vs FC Barcelona (LALIGA 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130946_english_hls_fc669aa86861806_1adfreeta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
         "mobile": "on",
         "name": "Day 4 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
@@ -25,6 +10,21 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/137976_english_hls_6f10899ffa17364_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130946_5427_CEV_BAR_fc-Web.jpg",
+        "mobile": "on",
+        "name": "RC Celta vs FC Barcelona (LALIGA 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130946_english_hls_fc669aa86861806_1adfreeta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
