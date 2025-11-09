@@ -16,6 +16,21 @@
     },
     {
         "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137945_5744_SUW_ISP-W_fc-web.jpg",
+        "mobile": "on",
+        "name": "Suwon FC vs ISPE WFC (AFC Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137945_english_hls_3f75a568049744_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
         "mobile": "on",
         "name": "Day 4 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
@@ -45,22 +60,7 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137945_5744_SUW_ISP-W_fc-web.jpg",
-        "mobile": "on",
-        "name": "Suwon FC vs ISPE WFC (AFC Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/130940_5427_ATH_RO_fc-Web.jpg",
         "mobile": "on",
         "name": "Athletic Club vs Real Oviedo (LALIGA 2025-26)",
@@ -69,7 +69,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130940_english_hls_803d56d9c217441_1adfreeta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
