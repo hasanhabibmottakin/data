@@ -1,30 +1,15 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
         "mobile": "on",
-        "name": "Race Day vs Aut\u00f3dromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
+        "name": "Race vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/119281_english_hls_8c19a8c1ea28939_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130940_5427_ATH_RO_fc-Web.jpg",
-        "mobile": "on",
-        "name": "Athletic Club vs Real Oviedo (LALIGA 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130940_english_hls_803d56d9c217441_1adfreeta-di_h264/index.m3u8"
+            "url": "https://d17nkm4w57wydr.cloudfront.net/out/v1/5dfe286d42764611abb3687c4f7c544e/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -46,15 +31,15 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137945_5744_SUW_ISP-W_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
         "mobile": "on",
-        "name": "Suwon FC vs ISPE WFC (AFC Women's Champions League 2025-26)",
+        "name": "Race Day vs Aut\u00f3dromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137945_english_hls_3f75a568049744_1ta-di_h264/index.m3u8"
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/119281_english_hls_8c19a8c1ea28939_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -154,21 +139,6 @@
         "logo": "https://images.fancode.com/aig/match/v2/137822_CASACARDS_APP.png",
         "mobile": "on",
         "name": "Granada vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
-        "mobile": "on",
-        "name": "Race vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -409,6 +379,36 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137564_5720_BAR-W_OHL-W_fc-web.jpg",
         "mobile": "on",
         "name": "Barcelona Women vs Oud-Heverlee Leuven Women (UEFA Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137568_5720_BEN-W_TWE-W_fc-web.jpg",
+        "mobile": "on",
+        "name": "Benfica Women vs FC Twente Women (UEFA Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137567_5720_MUN-W_PSG-W_fc-web.jpg",
+        "mobile": "on",
+        "name": "Manchester United Women vs Paris Saint-Germain Women (UEFA Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
