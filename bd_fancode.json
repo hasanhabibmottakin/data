@@ -1,21 +1,6 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
-        "mobile": "on",
-        "name": "Race vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://d17nkm4w57wydr.cloudfront.net/out/v1/5dfe286d42764611abb3687c4f7c544e/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/130948_5427_MRC_GEF_fc-Web.jpg",
         "mobile": "on",
         "name": "RCD Mallorca vs Getafe CF (LALIGA 2025-26)",
@@ -61,15 +46,15 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Kids_Brazil_GP_F1_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
         "mobile": "on",
-        "name": "F1 Kids vs Brazil (F1 Kids)",
+        "name": "Race vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138023_english_hls_46f2d598f881760_1ta-di_h264/index.m3u8"
+            "url": "https://d17nkm4w57wydr.cloudfront.net/out/v1/5dfe286d42764611abb3687c4f7c544e/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -79,6 +64,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
         "mobile": "on",
         "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130946_5427_CEV_BAR_fc-Web.jpg",
+        "mobile": "on",
+        "name": "RC Celta vs FC Barcelona (LALIGA 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -109,21 +109,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/134023_5609_NSW_VCT_fc-Web.jpg",
         "mobile": "on",
         "name": "New South Wales vs Victoria (Sheffield Shield, 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130946_5427_CEV_BAR_fc-Web.jpg",
-        "mobile": "on",
-        "name": "RC Celta vs FC Barcelona (LALIGA 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -409,6 +394,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
         "mobile": "on",
         "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138020_5753_TLS_INA_FC-Web.jpg",
+        "mobile": "on",
+        "name": "Timor-Leste vs Indonesia (Rising East Asia Tri-Series, 2025)",
         "premium": false,
         "source": {
             "headers": {
