@@ -45,36 +45,6 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130948_5427_MRC_GEF_fc-Web.jpg",
-        "mobile": "on",
-        "name": "RCD Mallorca vs Getafe CF (LALIGA 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130948_english_hls_921c05f0ed75734_1adfreeta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130947_5427_VAL_RB_fc-Web.jpg",
-        "mobile": "on",
-        "name": "Valencia CF vs Real Betis (LALIGA 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130947_english_hls_20eb1d8aec21552_1adfreeta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
         "mobile": "on",
@@ -409,6 +379,36 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138021_5753_MYN_INA_FC-Web.jpg",
         "mobile": "on",
         "name": "Myanmar vs Indonesia (Rising East Asia Tri-Series, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137946_5744_MLC-W_LIO_fc-web.jpg",
+        "mobile": "on",
+        "name": "Melbourne City Women vs Lion City Sailors (AFC Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg",
+        "mobile": "on",
+        "name": "Day 1 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)",
         "premium": false,
         "source": {
             "headers": {
