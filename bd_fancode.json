@@ -1,21 +1,6 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Hong-Kong-China_Old.png",
-        "mobile": "on",
-        "name": "Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137852_english_hls_1467bb374653945_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Sixes-Final_Old-match-card_V2.jpg",
         "mobile": "on",
         "name": "Pakistan vs Kuwait (Hong Kong Sixes, 2025)",
@@ -40,21 +25,6 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/138016_english_hls_662895dd1731538_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137943_4795_OSK_VIS_fc-web.jpg",
-        "mobile": "on",
-        "name": "Gamba Osaka vs Vissel Kobe (J League 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137943_english_hls_fc46bf8fd03460_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -409,6 +379,36 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137562_5720_RM-W_PFC-W_fc-web.jpg",
         "mobile": "on",
         "name": "Real Madrid Women vs Paris FC Women (UEFA Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137561_5720_OLY-W_WOL-W_fc-web.jpg",
+        "mobile": "on",
+        "name": "Olympique Lyonnais Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138019_5753_MYN_TLS_FC-Web.jpg",
+        "mobile": "on",
+        "name": "Myanmar vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
         "premium": false,
         "source": {
             "headers": {
