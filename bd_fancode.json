@@ -16,21 +16,6 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130944_5427_RVL_RM_fc-Web.jpg",
-        "mobile": "on",
-        "name": "Rayo Vallecano vs Real Madrid (LALIGA 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130944_english_hls_63ee91f7cb12045_1adfreeta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/130948_5427_MRC_GEF_fc-Web.jpg",
         "mobile": "on",
         "name": "RCD Mallorca vs Getafe CF (LALIGA 2025-26)",
@@ -61,6 +46,21 @@
     },
     {
         "group": "Fancode | LIVE",
+        "logo": "https://images.fancode.com/aig/match/v2/137822_CASACARDS_APP.png",
+        "mobile": "on",
+        "name": "Granada vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137822_english_hls_a82bed8f2777796_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Kids_Brazil_GP_F1_Old_match-card.jpg",
         "mobile": "on",
         "name": "F1 Kids vs Brazil (F1 Kids)",
@@ -75,25 +75,25 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130944_5427_RVL_RM_fc-Web.jpg",
         "mobile": "on",
-        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+        "name": "Rayo Vallecano vs Real Madrid (LALIGA 2025-26)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130944_english_hls_63ee91f7cb12045_1adfreeta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://images.fancode.com/aig/match/v2/137822_CASACARDS_APP.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
         "mobile": "on",
-        "name": "Granada vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
         "premium": false,
         "source": {
             "headers": {
