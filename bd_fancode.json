@@ -1,24 +1,9 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/05_Australia-vs-Pakistan-(1).png",
-        "mobile": "on",
-        "name": "Pakistan vs Australia (Hong Kong Sixes, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137849_english_hls_b5c91f78e798348_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/06_England-vs-Kuwait-(1).png",
         "mobile": "on",
-        "name": "England vs Kuwait (Hong Kong Sixes, 2025)",
+        "name": "Kuwait vs England (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -63,7 +48,7 @@
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "mobile": "on",
-        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
+        "name": "Sri Lanka vs United Arab Emirates (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -109,6 +94,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
         "mobile": "on",
         "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137943_4795_OSK_VIS_fc-web.jpg",
+        "mobile": "on",
+        "name": "Gamba Osaka vs Vissel Kobe (J League 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -214,21 +214,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/134023_5609_NSW_VCT_fc-Web.jpg",
         "mobile": "on",
         "name": "New South Wales vs Victoria (Sheffield Shield, 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137943_4795_OSK_VIS_fc-web.jpg",
-        "mobile": "on",
-        "name": "Gamba Osaka vs Vissel Kobe (J League 2025)",
         "premium": false,
         "source": {
             "headers": {
