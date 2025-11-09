@@ -16,7 +16,7 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://images.fancode.com/aig/match/v1/137851_CASACARDS_APP.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Sixes-old-match-card_V2.jpg",
         "mobile": "on",
         "name": "Sri Lanka vs United Arab Emirates (Hong Kong Sixes, 2025)",
         "premium": false,
@@ -60,6 +60,21 @@
         "tv": "off"
     },
     {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137943_4795_OSK_VIS_fc-web.jpg",
+        "mobile": "on",
+        "name": "Gamba Osaka vs Vissel Kobe (J League 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137943_english_hls_fc46bf8fd03460_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Hong-Kong-China_Old.png",
         "mobile": "on",
@@ -94,21 +109,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
         "mobile": "on",
         "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137943_4795_OSK_VIS_fc-web.jpg",
-        "mobile": "on",
-        "name": "Gamba Osaka vs Vissel Kobe (J League 2025)",
         "premium": false,
         "source": {
             "headers": {
