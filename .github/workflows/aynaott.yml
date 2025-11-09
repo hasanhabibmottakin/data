@@ -1,0 +1,68 @@
+name: Auto Update AynaOTT 
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Generate AynaOTT JSON
+        run: |
+          php <<'PHP'
+          <?php
+          $url = "https://raw.githubusercontent.com/hasanhabibmottakin/AynaOTT/refs/heads/main/rest_api.json";
+          $json = file_get_contents($url);
+          $data = json_decode($json, true);
+
+          if (!$data || !isset($data['channels'])) {
+              echo "Invalid or empty data!";
+              exit(1);
+          }
+
+          $output = [];
+          foreach ($data['channels'] as $ch) {
+              $output[] = [
+                  "group" => "AynaOTT",
+                  "logo" => $ch['logo'],
+                  "mobile" => "on",
+                  "name" => $ch['title'],
+                  "premium" => false,
+                  "source" => [
+                      "headers" => [
+                          "Referer" => "https://web.aynaott.com/"
+                      ],
+                      "url" => $ch['url']
+                  ],
+                  "status" => "on",
+                  "tv" => "off"
+              ];
+          }
+
+          $out_json = json_encode($output, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
+          file_put_contents("aynaott_data.json", $out_json);
+
+          echo "File updated successfully\n";
+          PHP
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "AynaOTT Bot"
+          git config --global user.email "bot@afff.com"
+          git add aynaott_data.json
+          git commit -m "Auto update AynaOTT channels [$(date)]" || echo "No changes to commit"
+          git push
