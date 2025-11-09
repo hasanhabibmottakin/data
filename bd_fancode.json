@@ -1,21 +1,6 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/06_England-vs-Kuwait-(1).png",
-        "mobile": "on",
-        "name": "Kuwait vs England (Hong Kong Sixes, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137850_english_hls_1a0db4cd6579918_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Sixes-old-match-card_V2.jpg",
         "mobile": "on",
         "name": "Sri Lanka vs United Arab Emirates (Hong Kong Sixes, 2025)",
@@ -25,6 +10,21 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/137851_english_hls_c0533a6d5c81966_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Hong-Kong-China_Old.png",
+        "mobile": "on",
+        "name": "Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137852_english_hls_1467bb374653945_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -75,25 +75,25 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Hong-Kong-China_Old.png",
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
         "mobile": "on",
-        "name": "Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)",
+        "name": "Day 4 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137166_english_hls_5b54d9bbc484916_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Sixes-Final_Old-match-card_V2.jpg",
         "mobile": "on",
-        "name": "TBC vs TBC (Hong Kong Sixes, 2025)",
+        "name": "Pakistan vs Kuwait (Hong Kong Sixes, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -271,21 +271,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
-        "mobile": "on",
-        "name": "Day 4 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
         "mobile": "on",
         "name": "Race Day vs Aut\u00f3dromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
@@ -316,7 +301,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_Default_sporty_Practice_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Kids_Brazil_GP_F1_Old_match-card.jpg",
         "mobile": "on",
         "name": "F1 Kids vs Brazil (F1 Kids)",
         "premium": false,
