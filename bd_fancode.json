@@ -1,15 +1,15 @@
 [
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
         "mobile": "on",
-        "name": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
+        "name": "Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011429635_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -544,6 +544,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Generic-old-match-card_1741169482701.png",
         "mobile": "on",
         "name": "Day 2 vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137957_5744_NAE-W_ISP-W_fc-web.jpg",
+        "mobile": "on",
+        "name": "Naegohyang Women's FC vs ISPE WFC (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
