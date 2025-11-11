@@ -1,6 +1,6 @@
 [
     {
-        "group": "Fancode | LIVE",
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
         "mobile": "on",
         "name": "Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)",
@@ -9,7 +9,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011429635_1ta-di_h264/index.m3u8"
+            "url": ""
         },
         "status": "on",
         "tv": "off"
