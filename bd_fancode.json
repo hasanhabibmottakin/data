@@ -15,25 +15,25 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/134023_5609_NSW_VCT_fc-Web.jpg",
         "mobile": "on",
-        "name": "Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)",
+        "name": "Victoria vs New South Wales (Sheffield Shield, 2025-26)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/134023_english_hls_999dad716780712_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/134023_5609_NSW_VCT_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
         "mobile": "on",
-        "name": "Victoria vs New South Wales (Sheffield Shield, 2025-26)",
+        "name": "Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -106,9 +106,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137950_5744_ISP-W_VER-W_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
         "mobile": "on",
-        "name": "ISPE WFC vs Tokyo Verdy Beleza (AFC Women's Champions League 2025-26)",
+        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -121,9 +121,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137950_5744_ISP-W_VER-W_fc-web.jpg",
         "mobile": "on",
-        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+        "name": "ISPE WFC vs Tokyo Verdy Beleza (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
