@@ -60,7 +60,7 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138018_5753_INA_TLS_FC-Web.jpg",
         "mobile": "on",
         "name": "Indonesia vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
@@ -69,7 +69,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138018_english_hls_e9fad13ef638124_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
