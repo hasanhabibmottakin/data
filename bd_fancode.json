@@ -15,7 +15,7 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/134025_5609_WAU_QUN_fc-Web.jpg",
         "mobile": "on",
         "name": "Queensland vs Western Australia (Sheffield Shield, 2025-26)",
@@ -24,7 +24,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/134025_english_hls_f309bf13373429_1ta-di_h264/index.m3u8"
+            "url": ""
         },
         "status": "on",
         "tv": "off"
