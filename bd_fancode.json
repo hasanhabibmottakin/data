@@ -211,9 +211,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria_vs_Gabon_FC-Web.jpg",
         "mobile": "on",
-        "name": "Day 1 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)",
+        "name": "Nigeria vs Gabon (CAF World Cup Qualifiers)",
         "premium": false,
         "source": {
             "headers": {
@@ -226,9 +226,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria_vs_Gabon_FC-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg",
         "mobile": "on",
-        "name": "Nigeria vs Gabon (CAF World Cup Qualifiers)",
+        "name": "Day 1 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)",
         "premium": false,
         "source": {
             "headers": {
