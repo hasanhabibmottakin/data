@@ -1,6 +1,21 @@
 [
     {
         "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137568_5720_BEN-W_TWE-W_fc-web.jpg",
+        "mobile": "on",
+        "name": "Benfica Women vs FC Twente Women (UEFA Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137568_english_hls_c119c6243614568_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137567_5720_MUN-W_PSG-W_fc-web.jpg",
         "mobile": "on",
         "name": "Manchester United Women vs Paris Saint-Germain Women (UEFA Women's Champions League 2025-26)",
@@ -25,21 +40,6 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/137566_english_hls_04a04c349746552_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137568_5720_BEN-W_TWE-W_fc-web.jpg",
-        "mobile": "on",
-        "name": "Benfica Women vs FC Twente Women (UEFA Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137568_english_hls_c119c6243614568_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -196,9 +196,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138022_5753_TLS_MYN_FC-Web.jpg",
         "mobile": "on",
-        "name": "Day 1 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)",
+        "name": "Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -211,9 +211,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138022_5753_TLS_MYN_FC-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg",
         "mobile": "on",
-        "name": "Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)",
+        "name": "Day 1 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)",
         "premium": false,
         "source": {
             "headers": {
