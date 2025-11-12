@@ -16,21 +16,6 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/134024_5609_TAS_SAU_fc-Web.jpg",
-        "mobile": "on",
-        "name": "Tasmania vs South Australia (Sheffield Shield, 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/134024_english_hls_c2ef5f6f2f34837_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/134023_5609_NSW_VCT_fc-Web.jpg",
         "mobile": "on",
         "name": "Victoria vs New South Wales (Sheffield Shield, 2025-26)",
@@ -559,6 +544,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg",
         "mobile": "on",
         "name": "Day 4 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
         "premium": false,
         "source": {
             "headers": {
