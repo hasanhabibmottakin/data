@@ -553,5 +553,20 @@
         },
         "status": "on",
         "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://images.fancode.com/aig/match/v1/138064_CASACARDS_APP.png",
+        "mobile": "on",
+        "name": "Cultural Leonesa vs M\u00e1laga (LALIGA Hypermotion 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
     }
 ]
