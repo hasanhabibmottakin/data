@@ -1,5 +1,20 @@
 [
     {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
+        "mobile": "on",
+        "name": "Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
         "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/134024_5609_TAS_SAU_fc-Web.jpg",
         "mobile": "on",
@@ -30,22 +45,7 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
-        "mobile": "on",
-        "name": "Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138019_5753_MYN_TLS_FC-Web.jpg",
         "mobile": "on",
         "name": "Myanmar vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
@@ -54,13 +54,13 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138019_english_hls_54f17dd4311461_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/134025_5609_WAU_QUN_fc-Web.jpg",
         "mobile": "on",
         "name": "Queensland vs Western Australia (Sheffield Shield, 2025-26)",
@@ -69,7 +69,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/134025_english_hls_f309bf133777942_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
