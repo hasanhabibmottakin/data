@@ -106,9 +106,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria_vs_Gabon_FC-Web.jpg",
+        "logo": "https://images.fancode.com/aig/match/v1/138243_CASACARDS_APP.png",
         "mobile": "on",
-        "name": "Nigeria vs Gabon (CAF World Cup Qualifiers)",
+        "name": "India A vs United Arab Emirates (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -121,9 +121,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://images.fancode.com/aig/match/v1/138243_CASACARDS_APP.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria_vs_Gabon_FC-Web.jpg",
         "mobile": "on",
-        "name": "India A vs United Arab Emirates (ACC Asia Cup Rising Stars 2025)",
+        "name": "Nigeria vs Gabon (CAF World Cup Qualifiers)",
         "premium": false,
         "source": {
             "headers": {
