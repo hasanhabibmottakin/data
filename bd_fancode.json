@@ -1,21 +1,6 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
-        "mobile": "on",
-        "name": "Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011457026_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg",
         "mobile": "on",
         "name": "Day 1 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)",
@@ -25,6 +10,21 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/137167_english_hls_11108ed49784558_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
+        "mobile": "on",
+        "name": "Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
         },
         "status": "on",
         "tv": "off"
@@ -61,6 +61,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137947_5744_HCMC_SL_fc-web.jpg",
+        "mobile": "on",
+        "name": "Ho Chi Minh City Women\u2019s FC vs Stallion Laguna (AFC Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-Iraq_Old-match-card.jpg",
         "mobile": "on",
         "name": "United Arab Emirates vs Iraq (FIFA World Cup Asian Qualifiers)",
@@ -79,21 +94,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138022_5753_TLS_MYN_FC-Web.jpg",
         "mobile": "on",
         "name": "Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137947_5744_HCMC_SL_fc-web.jpg",
-        "mobile": "on",
-        "name": "Ho Chi Minh City Women\u2019s FC vs Stallion Laguna (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
