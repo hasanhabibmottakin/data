@@ -61,9 +61,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-Iraq_Old-match-card.jpg",
+        "logo": "https://images.fancode.com/aig/match/v1/138243_CASACARDS_APP.png",
         "mobile": "on",
-        "name": "United Arab Emirates vs Iraq (FIFA World Cup Asian Qualifiers)",
+        "name": "India A vs United Arab Emirates (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -76,9 +76,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://images.fancode.com/aig/match/v1/138243_CASACARDS_APP.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-Iraq_Old-match-card.jpg",
         "mobile": "on",
-        "name": "India A vs United Arab Emirates (ACC Asia Cup Rising Stars 2025)",
+        "name": "United Arab Emirates vs Iraq (FIFA World Cup Asian Qualifiers)",
         "premium": false,
         "source": {
             "headers": {
