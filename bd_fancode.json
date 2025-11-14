@@ -136,9 +136,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
         "mobile": "on",
-        "name": "Day 2 vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)",
+        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -151,9 +151,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png",
         "mobile": "on",
-        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+        "name": "Day 2 vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)",
         "premium": false,
         "source": {
             "headers": {
