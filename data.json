@@ -19,15 +19,15 @@
     }
   },
   {
-    "name": "LALIGA Live 2",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1758717245727.png",
+    "name": "Pakistan Idol",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1763053789825.png",
     "group": "AkashGO",
     "source": {
       "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd",
       "license": {
         "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic=e864851a-be2"
+        "url": "https://dth.nettv.fun/lic.php?ic="
       },
       "headers": {
         "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
@@ -535,24 +535,5 @@
     },
     "status": "on",
     "tv": "off"
-  },
-  {
-    "name": "Pakistan Idol",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1763053789825.png",
-    "group": "AkashGO",
-    "source": {
-      "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd",
-      "license": {
-        "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic="
-      },
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
-        "Referer": "",
-        "Origin": "",
-        "Cookie": ""
-      }
-    }
   }
 ]
