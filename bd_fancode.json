@@ -30,21 +30,6 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg",
-        "mobile": "on",
-        "name": "Day 2 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://india-mpv2.fancode.com/out/v1/ap-south-1/137168_english_137168/hls-h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138244_5765_BN-A_HK_fc-web_1763068128414.jpg",
         "mobile": "on",
@@ -529,6 +514,21 @@
         "logo": "https://images.fancode.com/aig/match/v1/138295_CASACARDS_APP.png",
         "mobile": "on",
         "name": "Biratnagar Kings vs Pokhara Avengers (Nepal Premier League, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138203_5763_QQY_NW_fc-web.png",
+        "mobile": "on",
+        "name": "Quetta Qavalry vs Northern Warriors (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
