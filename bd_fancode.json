@@ -136,6 +136,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137956_5744_SUW_VER-W_fc-web_1763103330946.jpg",
+        "mobile": "on",
+        "name": "Suwon FC vs Tokyo Verdy Beleza (AFC Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg",
         "mobile": "on",
         "name": "Day 2 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)",
@@ -151,22 +166,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137956_5744_SUW_VER-W_fc-web.jpg",
-        "mobile": "on",
-        "name": "Suwon FC vs Tokyo Verdy Beleza (AFC Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137957_5744_NAE-W_ISP-W_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137957_5744_NAE-W_ISP-W_fc-web_1763103330289.jpg",
         "mobile": "on",
         "name": "Naegohyang Women's FC vs ISPE WFC (AFC Women's Champions League 2025-26)",
         "premium": false,
@@ -286,7 +286,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137952_5744_SL_MLC-W_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137952_5744_SL_MLC-W_fc-web_1763103330221.jpg",
         "mobile": "on",
         "name": "Stallion Laguna vs Melbourne City Women (AFC Women's Champions League 2025-26)",
         "premium": false,
@@ -346,7 +346,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137953_5744_LIO_HCMC_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137953_5744_LIO_HCMC_fc-web_1763103330920.jpg",
         "mobile": "on",
         "name": "Lion City Sailors vs Ho Chi Minh City Women\u2019s FC (AFC Women's Champions League 2025-26)",
         "premium": false,
@@ -378,7 +378,7 @@
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
         "mobile": "on",
-        "name": "TBC vs TBC (CAF World Cup Qualifiers)",
+        "name": "Nigeria vs DR Congo (CAF World Cup Qualifiers)",
         "premium": false,
         "source": {
             "headers": {
@@ -436,7 +436,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137948_5744_BKFC_EBFC_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137948_5744_BKFC_EBFC_fc-web_1763103330908.jpg",
         "mobile": "on",
         "name": "Bam Khatoon FC vs East Bengal (AFC Women's Champions League 2025-26)",
         "premium": false,
@@ -466,7 +466,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137949_5744_WJ-W_NAS-W_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137949_5744_WJ-W_NAS-W_fc-web_1763103330280.jpg",
         "mobile": "on",
         "name": "Wuhan Jiangda Women vs PFC Nasaf (AFC Women's Champions League 2025-26)",
         "premium": false,
