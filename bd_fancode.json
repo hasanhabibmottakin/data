@@ -1,20 +1,5 @@
 [
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138242_5765_PKS_OMN_fc-web_1763068129160.jpg",
-        "mobile": "on",
-        "name": "Pakistan Shaheens vs Oman (ACC Asia Cup Rising Stars 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763144412~acl=/*~id=06646373310536344000332719277713~hmac=78fef2ad92b7406bbbc4757d4bb5ef93af5965d5c97fd4aa2b23f779d430e561"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138243_5765_IN-A_UAE_fc-web_1763068129174.jpg",
         "mobile": "on",
@@ -31,15 +16,15 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/134025_5609_WAU_QUN_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png",
         "mobile": "on",
-        "name": "Queensland vs Western Australia (Sheffield Shield, 2025-26)",
+        "name": "Day 1 vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/134025_english_hls_f309bf133729011_1ta-di_h264/index.m3u8"
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/119293_english_hls_db2cad252b95519_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -55,21 +40,6 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://india-mpv2.fancode.com/out/v1/ap-south-1/137168_english_137168/hls-h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png",
-        "mobile": "on",
-        "name": "Day 1 vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/119293_english_hls_db2cad252b95519_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -544,6 +514,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138250_5765_PKS_UAE_fc-web_1763068128496.jpg",
         "mobile": "on",
         "name": "Pakistan Shaheens vs United Arab Emirates (ACC Asia Cup Rising Stars 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://images.fancode.com/aig/match/v1/138295_CASACARDS_APP.png",
+        "mobile": "on",
+        "name": "Biratnagar Kings vs Pokhara Avengers (Nepal Premier League, 2025)",
         "premium": false,
         "source": {
             "headers": {
