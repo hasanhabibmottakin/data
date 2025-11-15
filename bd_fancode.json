@@ -1,6 +1,6 @@
 [
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138245_5765_SL-A_AF-A_fc-web_1763068128437.jpg",
         "mobile": "on",
         "name": "Sri Lanka A vs Afghanistan A (ACC Asia Cup Rising Stars 2025)",
@@ -9,7 +9,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763248840~acl=/*~id=52350084453702976945207356326394~hmac=ddd46cc4a490638c3301a8c48a6c8085379bd1ffcd92198631c3d2fe62761173"
         },
         "status": "on",
         "tv": "off"
@@ -241,9 +241,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg",
+        "logo": "https://images.fancode.com/aig/match/v1/138063_CASACARDS_APP.png",
         "mobile": "on",
-        "name": "Day 4 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)",
+        "name": "Real Zaragoza vs Huesca (LALIGA Hypermotion 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -256,9 +256,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://images.fancode.com/aig/match/v1/138063_CASACARDS_APP.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg",
         "mobile": "on",
-        "name": "Real Zaragoza vs Huesca (LALIGA Hypermotion 2025-26)",
+        "name": "Day 4 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)",
         "premium": false,
         "source": {
             "headers": {
