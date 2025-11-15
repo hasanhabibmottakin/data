@@ -16,15 +16,15 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/133941_5606_TAS_SAU_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg",
         "mobile": "on",
-        "name": "South Australia vs Tasmania (One Day Cup, 2025-26)",
+        "name": "Day 3 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/133941_english_hls_23fa5a5f2895880_1ta-di_h264/index.m3u8"
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137169_english_hls_6de9a985b168484_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -121,9 +121,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png",
         "mobile": "on",
-        "name": "Day 3 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)",
+        "name": "Day 2 vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)",
         "premium": false,
         "source": {
             "headers": {
@@ -139,21 +139,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138246_5765_UAE_OMN_fc-web_1763068129254.jpg",
         "mobile": "on",
         "name": "United Arab Emirates vs Oman (ACC Asia Cup Rising Stars 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png",
-        "mobile": "on",
-        "name": "Day 2 vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)",
         "premium": false,
         "source": {
             "headers": {
@@ -529,6 +514,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-Iraq_Old-match-card.jpg",
         "mobile": "on",
         "name": "Iraq vs United Arab Emirates (FIFA World Cup Asian Qualifiers)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
+        "mobile": "on",
+        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
         "premium": false,
         "source": {
             "headers": {
