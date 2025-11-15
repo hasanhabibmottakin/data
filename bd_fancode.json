@@ -1,21 +1,6 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138245_5765_SL-A_AF-A_fc-web_1763068128437.jpg",
-        "mobile": "on",
-        "name": "Sri Lanka A vs Afghanistan A (ACC Asia Cup Rising Stars 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763248840~acl=/*~id=52350084453702976945207356326394~hmac=ddd46cc4a490638c3301a8c48a6c8085379bd1ffcd92198631c3d2fe62761173"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg",
         "mobile": "on",
         "name": "Day 3 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)",
@@ -25,6 +10,21 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/137979_english_hls_56ebf2429f50745_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138245_5765_SL-A_AF-A_fc-web_1763068128437.jpg",
+        "mobile": "on",
+        "name": "Sri Lanka A vs Afghanistan A (ACC Asia Cup Rising Stars 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763248840~acl=/*~id=52350084453702976945207356326394~hmac=ddd46cc4a490638c3301a8c48a6c8085379bd1ffcd92198631c3d2fe62761173"
         },
         "status": "on",
         "tv": "off"
@@ -166,9 +166,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
         "mobile": "on",
-        "name": "Race Day vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)",
+        "name": "Nigeria vs DR Congo (CAF World Cup Qualifiers)",
         "premium": false,
         "source": {
             "headers": {
@@ -181,9 +181,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png",
         "mobile": "on",
-        "name": "Nigeria vs DR Congo (CAF World Cup Qualifiers)",
+        "name": "Race Day vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)",
         "premium": false,
         "source": {
             "headers": {
@@ -529,6 +529,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138205_5763_AST_NW_fc-web.png",
         "mobile": "on",
         "name": "Aspin Stallions vs Northern Warriors (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://images.fancode.com/aig/match/v1/138296_CASACARDS_APP.png",
+        "mobile": "on",
+        "name": "Kathmandu Gurkhas vs Sudurpaschim Royals (Nepal Premier League, 2025)",
         "premium": false,
         "source": {
             "headers": {
