@@ -1,15 +1,15 @@
 [
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138244_5765_BN-A_HK_fc-web_1763068128414.jpg",
         "mobile": "on",
-        "name": "Bangladesh A vs Hong Kong, China (ACC Asia Cup Rising Stars 2025)",
+        "name": "Hong Kong, China vs Bangladesh A (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763231115~acl=/*~id=45871726592580759643017348842107~hmac=e4e2fdbb60526e0cfe5bb3651fb3f92597dc06786ea6b584860ddb2356b4165d"
         },
         "status": "on",
         "tv": "off"
@@ -121,9 +121,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138246_5765_UAE_OMN_fc-web_1763068129254.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg",
         "mobile": "on",
-        "name": "United Arab Emirates vs Oman (ACC Asia Cup Rising Stars 2025)",
+        "name": "Day 3 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)",
         "premium": false,
         "source": {
             "headers": {
@@ -136,9 +136,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138246_5765_UAE_OMN_fc-web_1763068129254.jpg",
         "mobile": "on",
-        "name": "Day 3 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)",
+        "name": "United Arab Emirates vs Oman (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -514,6 +514,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asia-Cup-Qualifiers--old-.png",
         "mobile": "on",
         "name": "Bangladesh vs India (AFC Asia Cup Qualifiers)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-Iraq_Old-match-card.jpg",
+        "mobile": "on",
+        "name": "Iraq vs United Arab Emirates (FIFA World Cup Asian Qualifiers)",
         "premium": false,
         "source": {
             "headers": {
