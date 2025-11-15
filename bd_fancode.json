@@ -31,6 +31,21 @@
     },
     {
         "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137956_5744_SUW_VER-W_fc-web_1763103330946.jpg",
+        "mobile": "on",
+        "name": "Suwon FC vs Tokyo Verdy Beleza (AFC Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137956_english_hls_ee25e978801770_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg",
         "mobile": "on",
         "name": "Day 3 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)",
@@ -76,9 +91,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137956_5744_SUW_VER-W_fc-web_1763103330946.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137957_5744_NAE-W_ISP-W_fc-web_1763103330289.jpg",
         "mobile": "on",
-        "name": "Suwon FC vs Tokyo Verdy Beleza (AFC Women's Champions League 2025-26)",
+        "name": "Naegohyang Women's FC vs ISPE WFC (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -91,9 +106,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137957_5744_NAE-W_ISP-W_fc-web_1763103330289.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138246_5765_UAE_OMN_fc-web_1763068129254.jpg",
         "mobile": "on",
-        "name": "Naegohyang Women's FC vs ISPE WFC (AFC Women's Champions League 2025-26)",
+        "name": "United Arab Emirates vs Oman (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -124,21 +139,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Racing-Club_vs_Granada_Old.jpg",
         "mobile": "on",
         "name": "Racing Club vs Granada (LALIGA Hypermotion 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138246_5765_UAE_OMN_fc-web_1763068129254.jpg",
-        "mobile": "on",
-        "name": "United Arab Emirates vs Oman (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
