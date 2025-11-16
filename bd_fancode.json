@@ -1,6 +1,6 @@
 [
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-PAK_old.jpg",
         "mobile": "on",
         "name": "India A vs Pakistan Shaheens (ACC Asia Cup Rising Stars 2025)",
@@ -9,7 +9,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763345888~acl=/*~id=36948444863743181868704647829941~hmac=ef00ba7bf435c8cb0a35f6cdb007e44c89e075e76234d148aa8c049345e138c8"
         },
         "status": "on",
         "tv": "off"
@@ -40,21 +40,6 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/138037_english_hls_55a209b1dd3460_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137953_5744_LIO_HCMC_fc-web_1763103330920.jpg",
-        "mobile": "on",
-        "name": "Lion City Sailors vs Ho Chi Minh City Women\u2019s FC (AFC Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137953_english_hls_320b315ba392987_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -514,6 +499,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137959_5744_MLC-W_HCMC_fc-web_1763103330287.jpg",
         "mobile": "on",
         "name": "Melbourne City Women vs Ho Chi Minh City Women\u2019s FC (AFC Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138207_5763_AJT_QQY_fc-web.png",
+        "mobile": "on",
+        "name": "Ajman Titans vs Quetta Qavalry (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
