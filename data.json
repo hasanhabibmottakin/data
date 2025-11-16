@@ -38,6 +38,25 @@
     }
   },
   {
+    "name": "Star Sports Select 1 HD",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",
+    "group": "AkashGO",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=120d3fdc-8b3"
+      },
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
     "name": "Star Sports 1 HD",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1754631932246.png",
     "group": "AkashGO",
@@ -47,6 +66,70 @@
       "license": {
         "type": "widevine",
         "url": "https://dth.nettv.fun/lic.php?ic=f9e1c145-b66"
+      },
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "group": "AkashGO",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",
+    "mobile": "on",
+    "name": "Somoy TV",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "group": "AkashGO",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",
+    "mobile": "on",
+    "name": "Jamuna TV",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "group": "AkashGO",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",
+    "mobile": "on",
+    "name": "Deepto TV HD",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "name": "Sony Sports TEN 1",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1762853147045.png",
+    "group": "AkashGO",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=35fee7f3-d55"
       },
       "headers": {
         "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
@@ -76,104 +159,6 @@
     }
   },
   {
-    "group": "AkashGO",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png",
-    "mobile": "on",
-    "name": "BTV",
-    "premium": false,
-    "source": {
-      "headers": {
-        "Cookie": ""
-      },
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
-    },
-    "status": "on",
-    "tv": "off"
-  },
-  {
-    "group": "AkashGO",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",
-    "mobile": "on",
-    "name": "Deepto TV HD",
-    "premium": false,
-    "source": {
-      "headers": {
-        "Cookie": ""
-      },
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
-    },
-    "status": "on",
-    "tv": "off"
-  },
-  {
-    "group": "AkashGO",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",
-    "mobile": "on",
-    "name": "Jamuna TV",
-    "premium": false,
-    "source": {
-      "headers": {
-        "Cookie": ""
-      },
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
-    },
-    "status": "on",
-    "tv": "off"
-  },
-  {
-    "name": "Sony AATH",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png",
-    "group": "AkashGO",
-    "source": {
-      "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1732/output/index.mpd",
-      "license": {
-        "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic=70f9fa1f-38a"
-      },
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
-        "Referer": "",
-        "Origin": "",
-        "Cookie": ""
-      }
-    }
-  },
-  {
-    "name": "Star Sports Select 1 HD",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",
-    "group": "AkashGO",
-    "source": {
-      "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.mpd",
-      "license": {
-        "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic=120d3fdc-8b3"
-      },
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
-        "Referer": "",
-        "Origin": "",
-        "Cookie": ""
-      }
-    }
-  },
-  {
-    "group": "AkashGO",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",
-    "mobile": "on",
-    "name": "Al Jazeera",
-    "premium": false,
-    "source": {
-      "headers": {
-        "Cookie": ""
-      },
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"
-    },
-    "status": "on",
-    "tv": "off"
-  },
-  {
     "name": "Star Sports Select 2 HD",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",
     "group": "AkashGO",
@@ -193,53 +178,15 @@
     }
   },
   {
-    "name": "Sony Sports TEN 5",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png",
+    "name": "Euro Sports HD",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045577141.png",
     "group": "AkashGO",
     "source": {
       "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.mpd",
       "license": {
         "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic=2659ffb3-2b0"
-      },
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
-        "Referer": "",
-        "Origin": "",
-        "Cookie": ""
-      }
-    }
-  },
-  {
-    "name": "Sony Sports TEN 1",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1762853147045.png",
-    "group": "AkashGO",
-    "source": {
-      "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.mpd",
-      "license": {
-        "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic=35fee7f3-d55"
-      },
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
-        "Referer": "",
-        "Origin": "",
-        "Cookie": ""
-      }
-    }
-  },
-  {
-    "name": "ZEE BANGLA",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017182009.png",
-    "group": "AkashGO",
-    "source": {
-      "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd",
-      "license": {
-        "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic=8f95c9cd-694"
+        "url": "https://dth.nettv.fun/lic.php?ic=df67fc1a-01d"
       },
       "headers": {
         "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
@@ -269,15 +216,170 @@
     }
   },
   {
-    "name": "Zee Bangla Sonar",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017364619.png",
+    "name": "Sony AATH",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png",
     "group": "AkashGO",
     "source": {
       "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.mpd",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1732/output/index.mpd",
       "license": {
         "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic=35ec6c98-c95"
+        "url": "https://dth.nettv.fun/lic.php?ic=70f9fa1f-38a"
+      },
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "group": "AkashGO",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",
+    "mobile": "on",
+    "name": "Al Jazeera",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "name": "Sony Entertainment",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740380280065.png",
+    "group": "AkashGO",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=368f3847-ed5"
+      },
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "group": "AkashGO",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",
+    "mobile": "on",
+    "name": "Channel I HD",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "group": "AkashGO",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png",
+    "mobile": "on",
+    "name": "ATN Bangla",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "name": "STAR GOLD",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735554654688.png",
+    "group": "AkashGO",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic="
+      },
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "Star Jalsha HD",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740372275659.png",
+    "group": "AkashGO",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=3c65b579-582"
+      },
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "Jalsha Movies",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",
+    "group": "AkashGO",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=dd5030d1-5cc"
+      },
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "group": "AkashGO",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",
+    "mobile": "on",
+    "name": "Independent TV",
+    "premium": false,
+    "source": {
+      "headers": {
+        "Cookie": ""
+      },
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
+    },
+    "status": "on",
+    "tv": "off"
+  },
+  {
+    "name": "Star Movies HD",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735048740482.png",
+    "group": "AkashGO",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=0f2ba568-bf5"
       },
       "headers": {
         "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
@@ -301,6 +403,25 @@
     },
     "status": "on",
     "tv": "off"
+  },
+  {
+    "name": "Zee Bangla Sonar",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017364619.png",
+    "group": "AkashGO",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=35ec6c98-c95"
+      },
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
   },
   {
     "group": "AkashGO",
@@ -349,40 +470,6 @@
   },
   {
     "group": "AkashGO",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",
-    "mobile": "on",
-    "name": "Independent TV",
-    "premium": false,
-    "source": {
-      "headers": {
-        "Cookie": ""
-      },
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
-    },
-    "status": "on",
-    "tv": "off"
-  },
-  {
-    "name": "Jalsha Movies",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",
-    "group": "AkashGO",
-    "source": {
-      "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.mpd",
-      "license": {
-        "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic=dd5030d1-5cc"
-      },
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
-        "Referer": "",
-        "Origin": "",
-        "Cookie": ""
-      }
-    }
-  },
-  {
-    "group": "AkashGO",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",
     "mobile": "on",
     "name": "NTV",
@@ -398,29 +485,29 @@
   },
   {
     "group": "AkashGO",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png",
     "mobile": "on",
-    "name": "Somoy TV",
+    "name": "BTV",
     "premium": false,
     "source": {
       "headers": {
         "Cookie": ""
       },
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
     },
     "status": "on",
     "tv": "off"
   },
   {
-    "name": "STAR GOLD",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735554654688.png",
+    "name": "Sony Sports TEN 5",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png",
     "group": "AkashGO",
     "source": {
       "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.mpd",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd",
       "license": {
         "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic="
+        "url": "https://dth.nettv.fun/lic.php?ic=2659ffb3-2b0"
       },
       "headers": {
         "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
@@ -431,15 +518,15 @@
     }
   },
   {
-    "name": "Star Jalsha HD",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740372275659.png",
+    "name": "ZEE BANGLA",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017182009.png",
     "group": "AkashGO",
     "source": {
       "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.mpd",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd",
       "license": {
         "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic=3c65b579-582"
+        "url": "https://dth.nettv.fun/lic.php?ic=8f95c9cd-694"
       },
       "headers": {
         "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
@@ -448,92 +535,5 @@
         "Cookie": ""
       }
     }
-  },
-  {
-    "name": "Star Movies HD",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735048740482.png",
-    "group": "AkashGO",
-    "source": {
-      "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.mpd",
-      "license": {
-        "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic=0f2ba568-bf5"
-      },
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
-        "Referer": "",
-        "Origin": "",
-        "Cookie": ""
-      }
-    }
-  },
-  {
-    "name": "Euro Sports HD",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045577141.png",
-    "group": "AkashGO",
-    "source": {
-      "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.mpd",
-      "license": {
-        "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic=df67fc1a-01d"
-      },
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
-        "Referer": "",
-        "Origin": "",
-        "Cookie": ""
-      }
-    }
-  },
-  {
-    "name": "Sony Entertainment",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740380280065.png",
-    "group": "AkashGO",
-    "source": {
-      "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.mpd",
-      "license": {
-        "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic=368f3847-ed5"
-      },
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
-        "Referer": "",
-        "Origin": "",
-        "Cookie": ""
-      }
-    }
-  },
-  {
-    "group": "AkashGO",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png",
-    "mobile": "on",
-    "name": "ATN Bangla",
-    "premium": false,
-    "source": {
-      "headers": {
-        "Cookie": ""
-      },
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
-    },
-    "status": "on",
-    "tv": "off"
-  },
-  {
-    "group": "AkashGO",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",
-    "mobile": "on",
-    "name": "Channel I HD",
-    "premium": false,
-    "source": {
-      "headers": {
-        "Cookie": ""
-      },
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
-    },
-    "status": "on",
-    "tv": "off"
   }
 ]
