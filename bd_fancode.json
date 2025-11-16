@@ -31,6 +31,21 @@
     },
     {
         "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
+        "mobile": "on",
+        "name": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138037_english_hls_55a209b1dd3460_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137953_5744_LIO_HCMC_fc-web_1763103330920.jpg",
         "mobile": "on",
         "name": "Lion City Sailors vs Ho Chi Minh City Women\u2019s FC (AFC Women's Champions League 2025-26)",
@@ -91,21 +106,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
-        "mobile": "on",
-        "name": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://images.fancode.com/aig/match/v1/138152_CASACARDS_APP.png",
         "mobile": "on",
         "name": "Nigeria vs DR Congo (CAF World Cup Qualifiers)",
@@ -136,9 +136,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://images.fancode.com/aig/match/v1/138293_CASACARDS_APP.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138249_5765_BN-A_AF-A_fc-web_1763068128416.jpg",
         "mobile": "on",
-        "name": "Janakpur Bolts vs Kathmandu Gurkhas (Nepal Premier League, 2025)",
+        "name": "Bangladesh A vs Afghanistan A (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -151,9 +151,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138249_5765_BN-A_AF-A_fc-web_1763068128416.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Janakpur-Bolts_vs_Kathmandu-Gurkhas_Old_match-card_02.jpg",
         "mobile": "on",
-        "name": "Bangladesh A vs Afghanistan A (ACC Asia Cup Rising Stars 2025)",
+        "name": "Janakpur Bolts vs Kathmandu Gurkhas (Nepal Premier League, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -241,7 +241,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://images.fancode.com/aig/match/v1/138294_CASACARDS_APP.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Chitwan-Rhinos_vs_Karnali-Yaks_Old_match-card_02.jpg",
         "mobile": "on",
         "name": "Chitwan Rhinos vs Karnali Yaks (Nepal Premier League, 2025)",
         "premium": false,
@@ -271,7 +271,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://images.fancode.com/aig/match/v1/138295_CASACARDS_APP.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Biratnagar-Kings_vs_Pokhara-Avengers_Old_match-card_02.jpg",
         "mobile": "on",
         "name": "Biratnagar Kings vs Pokhara Avengers (Nepal Premier League, 2025)",
         "premium": false,
@@ -318,7 +318,7 @@
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138204_5763_DG_DB_fc-web.png",
         "mobile": "on",
-        "name": "Deccan Gladiators vs Delhi Bulls (Abu Dhabi T10, 2025)",
+        "name": "Deccan Gladiators vs UAE Bulls (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -451,7 +451,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://images.fancode.com/aig/match/v1/138296_CASACARDS_APP.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Kathmandu-Gurkhas_vs_Sudurpaschim-Royals_Old_match-card_02.jpg",
         "mobile": "on",
         "name": "Kathmandu Gurkhas vs Sudurpaschim Royals (Nepal Premier League, 2025)",
         "premium": false,
