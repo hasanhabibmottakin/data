@@ -1,6 +1,6 @@
 [
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
         "mobile": "on",
         "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
@@ -9,7 +9,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1763296465~acl=/*~id=98409059734577110065079482211140~hmac=c591d92790fb824800ff7c29ef4ef1f695e0cad28e36690e4c27853ea29dfda0"
         },
         "status": "on",
         "tv": "off"
@@ -91,7 +91,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+        "logo": "https://images.fancode.com/aig/match/v1/138152_CASACARDS_APP.png",
         "mobile": "on",
         "name": "Nigeria vs DR Congo (CAF World Cup Qualifiers)",
         "premium": false,
@@ -109,6 +109,21 @@
         "logo": "https://images.fancode.com/aig/match/v1/138063_CASACARDS_APP.png",
         "mobile": "on",
         "name": "Real Zaragoza vs Huesca (LALIGA Hypermotion 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138248_5765_SL-A_HK_fc-web_1763068128435.jpg",
+        "mobile": "on",
+        "name": "Sri Lanka A vs Hong Kong, China (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -154,21 +169,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg",
         "mobile": "on",
         "name": "Day 4 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138248_5765_SL-A_HK_fc-web_1763068128435.jpg",
-        "mobile": "on",
-        "name": "Sri Lanka A vs Hong Kong, China (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -256,7 +256,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "logo": "https://images.fancode.com/aig/match/v1/138008_CASACARDS_APP.png",
         "mobile": "on",
         "name": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
         "premium": false,
@@ -406,7 +406,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "logo": "https://images.fancode.com/aig/match/v1/138009_CASACARDS_APP.png",
         "mobile": "on",
         "name": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
         "premium": false,
