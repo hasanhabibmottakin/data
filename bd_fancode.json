@@ -16,9 +16,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138246_5765_UAE_OMN_fc-web_1763068129254.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-PAK_old.jpg",
         "mobile": "on",
-        "name": "United Arab Emirates vs Oman (ACC Asia Cup Rising Stars 2025)",
+        "name": "India A vs Pakistan Shaheens (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -31,9 +31,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-PAK_old.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138246_5765_UAE_OMN_fc-web_1763068129254.jpg",
         "mobile": "on",
-        "name": "India A vs Pakistan Shaheens (ACC Asia Cup Rising Stars 2025)",
+        "name": "United Arab Emirates vs Oman (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -106,9 +106,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://images.fancode.com/aig/match/v1/138063_CASACARDS_APP.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138248_5765_SL-A_HK_fc-web_1763068128435.jpg",
         "mobile": "on",
-        "name": "Real Zaragoza vs Huesca (LALIGA Hypermotion 2025-26)",
+        "name": "Sri Lanka A vs Hong Kong, China (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -121,9 +121,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138248_5765_SL-A_HK_fc-web_1763068128435.jpg",
+        "logo": "https://images.fancode.com/aig/match/v1/138063_CASACARDS_APP.png",
         "mobile": "on",
-        "name": "Sri Lanka A vs Hong Kong, China (ACC Asia Cup Rising Stars 2025)",
+        "name": "Real Zaragoza vs Huesca (LALIGA Hypermotion 2025-26)",
         "premium": false,
         "source": {
             "headers": {
