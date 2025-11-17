@@ -16,21 +16,6 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138248_5765_SL-A_HK_fc-web_1763068128435.jpg",
-        "mobile": "on",
-        "name": "Hong Kong, China vs Sri Lanka A (ACC Asia Cup Rising Stars 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763414809~acl=/*~id=54688182147175635238135803520556~hmac=3efedef36c06c4bbc9413782911f2f192035098ac8f9f237c67e4a965c00b813"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137949_5744_WJ-W_NAS-W_fc-web_1763103330280.jpg",
         "mobile": "on",
         "name": "Wuhan Jiangda Women vs PFC Nasaf (AFC Women's Champions League 2025-26)",
@@ -136,9 +121,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Biratnagar-Kings_vs_Pokhara-Avengers_Old_match-card_02.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138251_5765_IN-A_OMN_fc-web_1763068128430.jpg",
         "mobile": "on",
-        "name": "Biratnagar Kings vs Pokhara Avengers (Nepal Premier League, 2025)",
+        "name": "India A vs Oman (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -151,9 +136,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138251_5765_IN-A_OMN_fc-web_1763068128430.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Biratnagar-Kings_vs_Pokhara-Avengers_Old_match-card_02.jpg",
         "mobile": "on",
-        "name": "India A vs Oman (ACC Asia Cup Rising Stars 2025)",
+        "name": "Biratnagar Kings vs Pokhara Avengers (Nepal Premier League, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -529,6 +514,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "mobile": "on",
         "name": "Papua New Guinea Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "Thailand Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
         "premium": false,
         "source": {
             "headers": {
