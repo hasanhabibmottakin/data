@@ -61,9 +61,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Chitwan-Rhinos_vs_Karnali-Yaks_Old_match-card_02.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138204_5763_DG_DB_fc-web.png",
         "mobile": "on",
-        "name": "Chitwan Rhinos vs Karnali Yaks (Nepal Premier League, 2025)",
+        "name": "Deccan Gladiators vs UAE Bulls (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -76,9 +76,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138204_5763_DG_DB_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Chitwan-Rhinos_vs_Karnali-Yaks_Old_match-card_02.jpg",
         "mobile": "on",
-        "name": "Deccan Gladiators vs UAE Bulls (Abu Dhabi T10, 2025)",
+        "name": "Chitwan Rhinos vs Karnali Yaks (Nepal Premier League, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -514,6 +514,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "mobile": "on",
         "name": "Namibia Women vs Tanzania Women (ICC Women's Emerging Nations Trophy, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137954_5744_EBFC_WJ-W_fc-web_1763103330300.jpg",
+        "mobile": "on",
+        "name": "East Bengal vs Wuhan Jiangda Women (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
