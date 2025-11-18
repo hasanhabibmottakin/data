@@ -15,25 +15,10 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138250_5765_PKS_UAE_fc-web_1763068128496.jpg",
-        "mobile": "on",
-        "name": "United Arab Emirates vs Pakistan Shaheens (ACC Asia Cup Rising Stars 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763501016~acl=/*~id=18321088492899604655667070905573~hmac=848e5c057d7372ec733d86ef085cba009fbaee32190d87404ab6353064e3efa0"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138203_5763_QQY_NW_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asia-Cup-Qualifiers--old-.png",
         "mobile": "on",
-        "name": "Quetta Qavalry vs Northern Warriors (Abu Dhabi T10, 2025)",
+        "name": "Bangladesh vs India (AFC Asia Cup Qualifiers)",
         "premium": false,
         "source": {
             "headers": {
@@ -61,7 +46,22 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138204_5763_DG_DB_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138203_5763_QQY_NW_fc-web.png",
+        "mobile": "on",
+        "name": "Quetta Qavalry vs Northern Warriors (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138204_5763_DG_DB_fc-web_1763465215326.png",
         "mobile": "on",
         "name": "Deccan Gladiators vs UAE Bulls (Abu Dhabi T10, 2025)",
         "premium": false,
@@ -109,21 +109,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138252_5765_AF-A_HK_fc-web_1763068128432.jpg",
         "mobile": "on",
         "name": "Afghanistan A vs Hong Kong, China (ACC Asia Cup Rising Stars 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asia-Cup-Qualifiers--old-.png",
-        "mobile": "on",
-        "name": "Bangladesh vs India (AFC Asia Cup Qualifiers)",
         "premium": false,
         "source": {
             "headers": {
@@ -196,9 +181,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Kathmandu-Gurkhas_vs_Sudurpaschim-Royals_Old_match-card_02.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-web_1763068129266.jpg",
         "mobile": "on",
-        "name": "Kathmandu Gorkhas vs Sudurpaschim Royals (Nepal Premier League, 2025)",
+        "name": "Sri Lanka A vs Bangladesh A (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -211,9 +196,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-web_1763068129266.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Kathmandu-Gurkhas_vs_Sudurpaschim-Royals_Old_match-card_02.jpg",
         "mobile": "on",
-        "name": "Sri Lanka A vs Bangladesh A (ACC Asia Cup Rising Stars 2025)",
+        "name": "Kathmandu Gorkhas vs Sudurpaschim Royals (Nepal Premier League, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -526,9 +511,24 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138209_5763_DB_VTR_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138209_5763_DB_VTR_fc-web_1763465215308.png",
         "mobile": "on",
         "name": "UAE Bulls vs Vista Riders (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137955_5744_NAS-W_BKFC_fc-web_1763103330257.jpg",
+        "mobile": "on",
+        "name": "PFC Nasaf vs Bam Khatoon FC (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
