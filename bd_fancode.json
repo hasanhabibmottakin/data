@@ -1,35 +1,5 @@
 [
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138204_5763_DG_DB_fc-web_1763465215326.png",
-        "mobile": "on",
-        "name": "Deccan Gladiators vs UAE Bulls (Abu Dhabi T10, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138204_english_hls_b7bba5469b57523_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-Iraq_Old-match-card.jpg",
-        "mobile": "on",
-        "name": "Iraq vs United Arab Emirates (FIFA World Cup Asian Qualifiers)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138102_english_hls_f1ab344ea05289_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
         "mobile": "on",
@@ -121,9 +91,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138207_5763_AJT_QQY_fc-web.png",
         "mobile": "on",
-        "name": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
+        "name": "Ajman Titans vs Quetta Qavalry (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -136,9 +106,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138207_5763_AJT_QQY_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg",
         "mobile": "on",
-        "name": "Ajman Titans vs Quetta Qavalry (Abu Dhabi T10, 2025)",
+        "name": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -514,6 +484,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137589_5720_CHE-W_BAR-W_fc-web.jpg",
         "mobile": "on",
         "name": "Chelsea F.C. Women vs Barcelona Women (UEFA Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137591_5720_OHL-W_ROM-W_fc-web.jpg",
+        "mobile": "on",
+        "name": "Oud-Heverlee Leuven Women vs Roma Women (UEFA Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
