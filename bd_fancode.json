@@ -15,6 +15,21 @@
         "tv": "off"
     },
     {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Biratnagar-Kings_vs_Pokhara-Avengers_Old_match-card_02.jpg",
+        "mobile": "on",
+        "name": "Biratnagar Kings vs Pokhara Avengers (Nepal Premier League, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
         "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138250_5765_PKS_UAE_fc-web_1763068128496.jpg",
         "mobile": "on",
@@ -79,21 +94,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
         "mobile": "on",
         "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Biratnagar-Kings_vs_Pokhara-Avengers_Old_match-card_02.jpg",
-        "mobile": "on",
-        "name": "Biratnagar Kings vs Pokhara Avengers (Nepal Premier League, 2025)",
         "premium": false,
         "source": {
             "headers": {
