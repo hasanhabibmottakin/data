@@ -178,6 +178,25 @@
     }
   },
   {
+    "name": "Sony Sports TEN 5",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png",
+    "group": "AkashGO",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=2659ffb3-2b0"
+      },
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
     "name": "Euro Sports HD",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045577141.png",
     "group": "AkashGO",
@@ -308,6 +327,25 @@
       "license": {
         "type": "widevine",
         "url": "https://dth.nettv.fun/lic.php?ic="
+      },
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
+        "Referer": "",
+        "Origin": "",
+        "Cookie": ""
+      }
+    }
+  },
+  {
+    "name": "ZEE BANGLA",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017182009.png",
+    "group": "AkashGO",
+    "source": {
+      "type": "dash",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd",
+      "license": {
+        "type": "widevine",
+        "url": "https://dth.nettv.fun/lic.php?ic=8f95c9cd-694"
       },
       "headers": {
         "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
@@ -497,43 +535,5 @@
     },
     "status": "on",
     "tv": "off"
-  },
-  {
-    "name": "Sony Sports TEN 5",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png",
-    "group": "AkashGO",
-    "source": {
-      "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd",
-      "license": {
-        "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic=2659ffb3-2b0"
-      },
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
-        "Referer": "",
-        "Origin": "",
-        "Cookie": ""
-      }
-    }
-  },
-  {
-    "name": "ZEE BANGLA",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017182009.png",
-    "group": "AkashGO",
-    "source": {
-      "type": "dash",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd",
-      "license": {
-        "type": "widevine",
-        "url": "https://dth.nettv.fun/lic.php?ic=8f95c9cd-694"
-      },
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001)",
-        "Referer": "",
-        "Origin": "",
-        "Cookie": ""
-      }
-    }
   }
 ]
