@@ -16,6 +16,21 @@
     },
     {
         "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138205_5763_AST_NW_fc-web.png",
+        "mobile": "on",
+        "name": "Northern Warriors vs Aspin Stallions (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138205_english_hls_d408a6174261368_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138252_5765_AF-A_HK_fc-web_1763068128432.jpg",
         "mobile": "on",
         "name": "Afghanistan A vs Hong Kong, China (ACC Asia Cup Rising Stars 2025)",
@@ -25,21 +40,6 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763586985~acl=/*~id=93236291781331326409952213506621~hmac=1d400d32f052bb7ea9996ab2e69745feccb416b4d1a66a2dd64e11a3279056f7"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138205_5763_AST_NW_fc-web.png",
-        "mobile": "on",
-        "name": "Aspin Stallions vs Northern Warriors (Abu Dhabi T10, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
         },
         "status": "on",
         "tv": "off"
@@ -94,6 +94,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138207_5763_AJT_QQY_fc-web.png",
         "mobile": "on",
         "name": "Ajman Titans vs Quetta Qavalry (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137959_5744_MLC-W_HCMC_fc-web_1763103330287.jpg",
+        "mobile": "on",
+        "name": "Melbourne City Women vs Ho Chi Minh City Women\u2019s FC (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -259,21 +274,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138073_5758_TL-W_ND-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Thailand Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137959_5744_MLC-W_HCMC_fc-web_1763103330287.jpg",
-        "mobile": "on",
-        "name": "Melbourne City Women vs Ho Chi Minh City Women\u2019s FC (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
