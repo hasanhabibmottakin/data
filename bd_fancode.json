@@ -30,6 +30,21 @@
         "tv": "off"
     },
     {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137583_5720_WOL-W_MUN-W_fc-web.jpg",
+        "mobile": "on",
+        "name": "VfL Wolfsburg Women vs Manchester United Women (UEFA Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
         "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
         "mobile": "on",
@@ -91,9 +106,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137584_5720_JUV-W_OLY-W_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
         "mobile": "on",
-        "name": "Juventus Women vs Olympique Lyonnais Women (UEFA Women's Champions League 2025-26)",
+        "name": "Leeward Islands Hurricanes vs Windward Islands Volcanoes (CG United Super50 Cup, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -106,9 +121,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137583_5720_WOL-W_MUN-W_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137584_5720_JUV-W_OLY-W_fc-web.jpg",
         "mobile": "on",
-        "name": "VfL Wolfsburg Women vs Manchester United Women (UEFA Women's Champions League 2025-26)",
+        "name": "Juventus Women vs Olympique Lyonnais Women (UEFA Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -139,21 +154,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138209_5763_DB_VTR_fc-web_1763465215308.png",
         "mobile": "on",
         "name": "UAE Bulls vs Vista Riders (Abu Dhabi T10, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-        "mobile": "on",
-        "name": "Leeward Islands Hurricanes vs Windward Islands Volcanoes (CG United Super50 Cup, 2025)",
         "premium": false,
         "source": {
             "headers": {
