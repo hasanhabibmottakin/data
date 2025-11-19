@@ -1,21 +1,6 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
-        "mobile": "on",
-        "name": "England Under-19 vs West Indies Under-19 (England Under-19 tour of West Indies, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138042_english_hls_37719ef62380360_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
         "mobile": "on",
         "name": "Leeward Islands Hurricanes vs Windward Islands Volcanoes (CG United Super50 Cup, 2025)",
@@ -25,51 +10,6 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/138046_english_hls_396bb5eb2159172_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137587_5720_PFC-W_BEN-W_fc-web.jpg",
-        "mobile": "on",
-        "name": "Paris FC Women vs Benfica Women (UEFA Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137587_english_hls_daf48bb8fd61320_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137586_5720_ARS-W_RM-W_fc-web.jpg",
-        "mobile": "on",
-        "name": "Arsenal Women vs Real Madrid Women (UEFA Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137586_english_hls_8a6f3b494730331_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137585_5720_VAL-W_POL-W_fc-web.jpg",
-        "mobile": "on",
-        "name": "Valerenga Fotball Women vs SKN St. Polten Women (UEFA Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137585_english_hls_7dc73b1c5450787_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -469,6 +409,66 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138211_5763_DG_QQY_fc-web.png",
         "mobile": "on",
         "name": "Deccan Gladiators vs Quetta Qavalry (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
+        "mobile": "on",
+        "name": "Practice 2 vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Pokhara-Avengers_vs_Sudurpaschim-Royals_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "Pokhara Avengers vs Sudurpaschim Royals (Nepal Premier League, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "Qualifying Session vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138212_5763_NW_AJT_fc-web.png",
+        "mobile": "on",
+        "name": "Northern Warriors vs Ajman Titans (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
