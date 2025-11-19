@@ -31,15 +31,15 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138206_5763_ROC_VTR_fc-web.png",
         "mobile": "on",
-        "name": "England Under-19 vs West Indies Under-19 (England Under-19 tour of West Indies, 2025)",
+        "name": "Royal Champs vs Vista Riders (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138042_english_hls_37719ef62380360_1ta-di_h264/index.m3u8"
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138206_english_hls_9860bc688230231_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -76,6 +76,21 @@
     },
     {
         "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
+        "mobile": "on",
+        "name": "England Under-19 vs West Indies Under-19 (England Under-19 tour of West Indies, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138042_english_hls_37719ef62380360_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137959_5744_MLC-W_HCMC_fc-web_1763103330287.jpg",
         "mobile": "on",
         "name": "Melbourne City Women vs Ho Chi Minh City Women\u2019s FC (AFC Women's Champions League 2025-26)",
@@ -90,25 +105,10 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138252_5765_AF-A_HK_fc-web_1763068128432.jpg",
-        "mobile": "on",
-        "name": "Afghanistan A vs Hong Kong, China (ACC Asia Cup Rising Stars 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763586985~acl=/*~id=93236291781331326409952213506621~hmac=1d400d32f052bb7ea9996ab2e69745feccb416b4d1a66a2dd64e11a3279056f7"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138206_5763_ROC_VTR_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-web_1763068129266.jpg",
         "mobile": "on",
-        "name": "Royal Champs vs Vista Riders (Abu Dhabi T10, 2025)",
+        "name": "Sri Lanka A vs Bangladesh A (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -124,21 +124,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
         "mobile": "on",
         "name": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-web_1763068129266.jpg",
-        "mobile": "on",
-        "name": "Sri Lanka A vs Bangladesh A (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -211,6 +196,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138208_5763_ROC_DG_fc-web.png",
+        "mobile": "on",
+        "name": "Royal Champs vs Deccan Gladiators (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137587_5720_PFC-W_BEN-W_fc-web.jpg",
         "mobile": "on",
         "name": "Paris FC Women vs Benfica Women (UEFA Women's Champions League 2025-26)",
@@ -244,21 +244,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137585_5720_VAL-W_POL-W_fc-web.jpg",
         "mobile": "on",
         "name": "Valerenga Fotball Women vs SKN St. Polten Women (UEFA Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138208_5763_ROC_DG_fc-web.png",
-        "mobile": "on",
-        "name": "Royal Champs vs Deccan Gladiators (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -361,9 +346,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137954_5744_EBFC_WJ-W_fc-web_1763103330300.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138210_5763_AST_AJT_fc-web.png",
         "mobile": "on",
-        "name": "East Bengal vs Wuhan Jiangda Women (AFC Women's Champions League 2025-26)",
+        "name": "Aspin Stallions vs Ajman Titans (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -376,9 +361,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138210_5763_AST_AJT_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137954_5744_EBFC_WJ-W_fc-web_1763103330300.jpg",
         "mobile": "on",
-        "name": "Aspin Stallions vs Ajman Titans (Abu Dhabi T10, 2025)",
+        "name": "East Bengal vs Wuhan Jiangda Women (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
