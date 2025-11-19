@@ -15,6 +15,21 @@
         "tv": "off"
     },
     {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "Bahrain vs Indonesia (Bahrain tour of Indonesia, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138009_english_hls_d08e92005335746_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
         "mobile": "on",
@@ -94,21 +109,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138207_5763_AJT_QQY_fc-web.png",
         "mobile": "on",
         "name": "Ajman Titans vs Quetta Qavalry (Abu Dhabi T10, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg",
-        "mobile": "on",
-        "name": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -226,21 +226,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137958_5744_SL_LIO_fc-web_1763103330940.jpg",
-        "mobile": "on",
-        "name": "Stallion Laguna vs Lion City Sailors (AFC Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137587_5720_PFC-W_BEN-W_fc-web.jpg",
         "mobile": "on",
         "name": "Paris FC Women vs Benfica Women (UEFA Women's Champions League 2025-26)",
@@ -274,6 +259,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137585_5720_VAL-W_POL-W_fc-web.jpg",
         "mobile": "on",
         "name": "Valerenga Fotball Women vs SKN St. Polten Women (UEFA Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137958_5744_SL_LIO_fc-web_1763103330940.jpg",
+        "mobile": "on",
+        "name": "Stallion Laguna vs Lion City Sailors (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
