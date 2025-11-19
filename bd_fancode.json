@@ -1,21 +1,6 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137586_5720_ARS-W_RM-W_fc-web.jpg",
-        "mobile": "on",
-        "name": "Arsenal Women vs Real Madrid Women (UEFA Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137586_english_hls_8a6f3b494730331_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
         "mobile": "on",
         "name": "England Under-19 vs West Indies Under-19 (England Under-19 tour of West Indies, 2025)",
@@ -55,6 +40,21 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/137587_english_hls_daf48bb8fd61320_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137586_5720_ARS-W_RM-W_fc-web.jpg",
+        "mobile": "on",
+        "name": "Arsenal Women vs Real Madrid Women (UEFA Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137586_english_hls_8a6f3b494730331_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -211,9 +211,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137954_5744_EBFC_WJ-W_fc-web_1763103330300.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137588_5720_TWE-W_ATL-W_fc-web.jpg",
         "mobile": "on",
-        "name": "East Bengal vs Wuhan Jiangda Women (AFC Women's Champions League 2025-26)",
+        "name": "FC Twente Women vs Club Atletico de Madrid Femenino (UEFA Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -226,9 +226,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137588_5720_TWE-W_ATL-W_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137954_5744_EBFC_WJ-W_fc-web_1763103330300.jpg",
         "mobile": "on",
-        "name": "FC Twente Women vs Club Atletico de Madrid Femenino (UEFA Women's Champions League 2025-26)",
+        "name": "East Bengal vs Wuhan Jiangda Women (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -331,21 +331,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
-        "mobile": "on",
-        "name": "Featured Groups - Day 1 vs Sea Island Golf Club (The RSM Classic)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138088_5758_TL-W_PN-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Thailand Women vs Papua New Guinea Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -364,6 +349,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138075_5758_ND-W_UAE-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Netherlands Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+        "mobile": "on",
+        "name": "Featured Groups - Day 1 vs Sea Island Golf Club (The RSM Classic)",
         "premium": false,
         "source": {
             "headers": {
@@ -466,9 +466,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138211_5763_DG_QQY_fc-web.png",
         "mobile": "on",
-        "name": "Practice 2 vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
+        "name": "Deccan Gladiators vs Quetta Qavalry (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
