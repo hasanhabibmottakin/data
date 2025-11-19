@@ -75,36 +75,6 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137584_5720_JUV-W_OLY-W_fc-web.jpg",
-        "mobile": "on",
-        "name": "Juventus Women vs Olympique Lyonnais Women (UEFA Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137584_english_hls_c460e9f6ec94769_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137583_5720_WOL-W_MUN-W_fc-web.jpg",
-        "mobile": "on",
-        "name": "VfL Wolfsburg Women vs Manchester United Women (UEFA Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137583_english_hls_04c50fde5622470_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
         "mobile": "on",
@@ -361,9 +331,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg",
         "mobile": "on",
-        "name": "World Feed - Day 1 vs Sea Island Golf Club (The RSM Classic)",
+        "name": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -376,9 +346,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
         "mobile": "on",
-        "name": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
+        "name": "World Feed - Day 1 vs Sea Island Golf Club (The RSM Classic)",
         "premium": false,
         "source": {
             "headers": {
@@ -466,9 +436,39 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "TBC vs India A (ACC Asia Cup Rising Stars 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
         "mobile": "on",
         "name": "Free Practice vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
+        "mobile": "on",
+        "name": "Practice 2 vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
         "premium": false,
         "source": {
             "headers": {
