@@ -30,7 +30,7 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138207_5763_AJT_QQY_fc-web.png",
         "mobile": "on",
         "name": "Ajman Titans vs Quetta Qavalry (Abu Dhabi T10, 2025)",
@@ -39,7 +39,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138207_english_hls_5230361d2f54310_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -211,6 +211,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138209_5763_DB_VTR_fc-web_1763465215308.png",
+        "mobile": "on",
+        "name": "UAE Bulls vs Vista Riders (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138086_5758_PN-W_UAE-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Papua New Guinea Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -229,21 +244,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138073_5758_TL-W_ND-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Thailand Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138209_5763_DB_VTR_fc-web_1763465215308.png",
-        "mobile": "on",
-        "name": "UAE Bulls vs Vista Riders (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -469,6 +469,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138088_5758_TL-W_PN-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Thailand Women vs Papua New Guinea Women (ICC Women's Emerging Nations Trophy, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138075_5758_ND-W_UAE-W_FC-Web.jpg",
+        "mobile": "on",
+        "name": "Netherlands Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
         "premium": false,
         "source": {
             "headers": {
