@@ -1,45 +1,60 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137589_5720_CHE-W_BAR-W_fc-web.jpg",
         "mobile": "on",
-        "name": "Featured Groups - Day 1 vs Sea Island Golf Club (The RSM Classic)",
+        "name": "Chelsea F.C. Women vs Barcelona Women (UEFA Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138271_english_hls_20b7376b0731538_1ta-di_h264/index.m3u8"
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137589_english_hls_3047f086a376998_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137591_5720_OHL-W_ROM-W_fc-web.jpg",
         "mobile": "on",
-        "name": "World Feed - Day 1 vs Sea Island Golf Club (The RSM Classic)",
+        "name": "Oud-Heverlee Leuven Women vs Roma Women (UEFA Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138270_english_hls_b108af771a22222_1ta-di_h264/index.m3u8"
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137591_english_hls_eb03f36c9858649_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137588_5720_TWE-W_ATL-W_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137590_5720_PSG-W_BAY-W_fc-web.jpg",
         "mobile": "on",
-        "name": "FC Twente Women vs Club Atletico de Madrid Femenino (UEFA Women's Champions League 2025-26)",
+        "name": "Paris Saint-Germain Women vs Bayern Munich Women (UEFA Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137588_english_hls_92c6dd934059069_1ta-di_h264/index.m3u8"
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/137590_english_hls_4d0e05cc6155233_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://images.fancode.com/aig/match/v1/135965_CASACARDS_APP.png",
+        "mobile": "on",
+        "name": "Peterborough United vs Stockport County (League One 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/135965_english_hls_a9d4f7991376689_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -91,51 +106,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137589_5720_CHE-W_BAR-W_fc-web.jpg",
-        "mobile": "on",
-        "name": "Chelsea F.C. Women vs Barcelona Women (UEFA Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137591_5720_OHL-W_ROM-W_fc-web.jpg",
-        "mobile": "on",
-        "name": "Oud-Heverlee Leuven Women vs Roma Women (UEFA Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137590_5720_PSG-W_BAY-W_fc-web.jpg",
-        "mobile": "on",
-        "name": "Paris Saint-Germain Women vs Bayern Munich Women (UEFA Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138212_5763_NW_AJT_fc-web.png",
         "mobile": "on",
         "name": "Northern Warriors vs Ajman Titans (Abu Dhabi T10, 2025)",
@@ -169,21 +139,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138213_5763_DB_ROC_fc-web_1763465215305.png",
         "mobile": "on",
         "name": "UAE Bulls vs Royal Champs (Abu Dhabi T10, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://images.fancode.com/aig/match/v1/135965_CASACARDS_APP.png",
-        "mobile": "on",
-        "name": "Peterborough United vs Stockport County (League One 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -514,6 +469,51 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
         "mobile": "on",
         "name": "World Feed - Day 2 vs Sea Island Golf Club (The RSM Classic)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/134028_5609_SAU_WAU_fc-Web.jpg",
+        "mobile": "on",
+        "name": "South Australia vs Western Australia (Sheffield Shield, 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/134027_5609_QUN_VCT_fc-Web.jpg",
+        "mobile": "on",
+        "name": "Queensland vs Victoria (Sheffield Shield, 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Karnali-Yaks_vs_Lumbini-lions_Old_match-card_02.jpg",
+        "mobile": "on",
+        "name": "Karnali Yaks vs Lumbini Lions (Nepal Premier League, 2025)",
         "premium": false,
         "source": {
             "headers": {
