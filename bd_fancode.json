@@ -16,21 +16,6 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138086_5758_PN-W_UAE-W_FC-Web.jpg",
-        "mobile": "on",
-        "name": "Papua New Guinea Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138086_english_hls_602fbb0b881981_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138073_5758_TL-W_ND-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Thailand Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -40,6 +25,51 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/138073_english_hls_07d50909df94591_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138087_5758_SC-W_UG-W_FC-Web.jpg",
+        "mobile": "on",
+        "name": "Scotland Women vs Uganda Women (ICC Women's Emerging Nations Trophy, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138087_english_hls_8f81cf409f65405_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138074_5758_NAM-W_TANW_FC-Web.jpg",
+        "mobile": "on",
+        "name": "Namibia Women vs Tanzania Women (ICC Women's Emerging Nations Trophy, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138086_5758_PN-W_UAE-W_FC-Web.jpg",
+        "mobile": "on",
+        "name": "Papua New Guinea Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138086_english_hls_602fbb0b881981_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -79,36 +109,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138210_5763_AST_AJT_fc-web.png",
         "mobile": "on",
         "name": "Aspin Stallions vs Ajman Titans (Abu Dhabi T10, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138087_5758_SC-W_UG-W_FC-Web.jpg",
-        "mobile": "on",
-        "name": "Scotland Women vs Uganda Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138074_5758_NAM-W_TANW_FC-Web.jpg",
-        "mobile": "on",
-        "name": "Namibia Women vs Tanzania Women (ICC Women's Emerging Nations Trophy, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -346,21 +346,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
-        "mobile": "on",
-        "name": "World Feed - Day 1 vs Sea Island Golf Club (The RSM Classic)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138211_5763_DG_QQY_fc-web.png",
         "mobile": "on",
         "name": "Deccan Gladiators vs Quetta Qavalry (Abu Dhabi T10, 2025)",
@@ -376,9 +361,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
         "mobile": "on",
-        "name": "Practice 1 vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
+        "name": "World Feed - Day 1 vs Sea Island Golf Club (The RSM Classic)",
         "premium": false,
         "source": {
             "headers": {
@@ -394,6 +379,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Pokhara-Avengers_vs_Sudurpaschim-Royals_Old_match-card.jpg",
         "mobile": "on",
         "name": "Pokhara Avengers vs Sudurpaschim Royals (Nepal Premier League, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
+        "mobile": "on",
+        "name": "Practice 1 vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -439,21 +439,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
         "mobile": "on",
         "name": "Practice 2 vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-        "mobile": "on",
-        "name": "Pakistan Shaheens vs Sri Lanka A (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
