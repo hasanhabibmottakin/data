@@ -106,6 +106,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN_A-vs-IND_A_old-(1).jpg",
+        "mobile": "on",
+        "name": "Bangladesh A vs India A (ACC Asia Cup Rising Stars 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137589_5720_CHE-W_BAR-W_fc-web.jpg",
         "mobile": "on",
         "name": "Chelsea F.C. Women vs Barcelona Women (UEFA Women's Champions League 2025-26)",
@@ -139,21 +154,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137590_5720_PSG-W_BAY-W_fc-web.jpg",
         "mobile": "on",
         "name": "Paris Saint-Germain Women vs Bayern Munich Women (UEFA Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN_A-vs-IND_A_old-(1).jpg",
-        "mobile": "on",
-        "name": "Bangladesh A vs India A (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
