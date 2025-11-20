@@ -1,21 +1,6 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138209_5763_DB_VTR_fc-web_1763465215308.png",
-        "mobile": "on",
-        "name": "Vista Riders vs UAE Bulls (Abu Dhabi T10, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138209_english_hls_b61cafe4e045589_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
         "mobile": "on",
         "name": "Featured Groups - Day 1 vs Sea Island Golf Club (The RSM Classic)",
@@ -211,6 +196,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/PAK_A-vs-SRI_A_old.jpg",
+        "mobile": "on",
+        "name": "Pakistan Shaheens vs Sri Lanka A (ACC Asia Cup Rising Stars 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138089_5758_SC-W_TANW_FC-Web.jpg",
         "mobile": "on",
         "name": "Scotland Women vs Tanzania Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -241,21 +241,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/PAK_A-vs-SRI_A_old.jpg",
-        "mobile": "on",
-        "name": "Pakistan Shaheens vs Sri Lanka A (ACC Asia Cup Rising Stars 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Pokhara-Avengers_vs_Sudurpaschim-Royals_Old_match-card.jpg",
         "mobile": "on",
         "name": "Pokhara Avengers vs Sudurpaschim Royals (Nepal Premier League, 2025)",
@@ -271,9 +256,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://images.fancode.com/aig/match/v1/135965_CASACARDS_APP.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138213_5763_DB_ROC_fc-web_1763465215305.png",
         "mobile": "on",
-        "name": "Peterborough United vs Stockport County (League One 2025-26)",
+        "name": "UAE Bulls vs Royal Champs (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -286,9 +271,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138213_5763_DB_ROC_fc-web_1763465215305.png",
+        "logo": "https://images.fancode.com/aig/match/v1/135965_CASACARDS_APP.png",
         "mobile": "on",
-        "name": "UAE Bulls vs Royal Champs (Abu Dhabi T10, 2025)",
+        "name": "Peterborough United vs Stockport County (League One 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -481,9 +466,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+        "logo": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_APP.png",
         "mobile": "on",
-        "name": "Featured Groups - Day 2 vs Sea Island Golf Club (The RSM Classic)",
+        "name": "Las Palmas vs Albacete (LALIGA Hypermotion 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -496,9 +481,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_APP.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
         "mobile": "on",
-        "name": "Las Palmas vs Albacete (LALIGA Hypermotion 2025-26)",
+        "name": "Featured Groups - Day 2 vs Sea Island Golf Club (The RSM Classic)",
         "premium": false,
         "source": {
             "headers": {
