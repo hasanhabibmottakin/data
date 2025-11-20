@@ -1,6 +1,6 @@
 [
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Lumbini-Lions_vs_Chitwan-Rhinos_Old_match-card_02.jpg",
         "mobile": "on",
         "name": "Lumbini Lions vs Chitwan Rhinos (Nepal Premier League, 2025)",
@@ -9,7 +9,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138297_english_hls_d43d2c886c67988_1adfreeta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -25,36 +25,6 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c31988_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138087_5758_SC-W_UG-W_FC-Web.jpg",
-        "mobile": "on",
-        "name": "Scotland Women vs Uganda Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138087_english_hls_8f81cf409f65405_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138074_5758_NAM-W_TANW_FC-Web.jpg",
-        "mobile": "on",
-        "name": "Namibia Women vs Tanzania Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138074_english_hls_dedebee81521238_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -94,6 +64,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138210_5763_AST_AJT_fc-web.png",
         "mobile": "on",
         "name": "Aspin Stallions vs Ajman Titans (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137955_5744_NAS-W_BKFC_fc-web_1763103330257.jpg",
+        "mobile": "on",
+        "name": "PFC Nasaf vs Bam Khatoon FC (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -214,21 +199,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN_A-vs-IND_A_old-(1).jpg",
         "mobile": "on",
         "name": "Bangladesh A vs India A (ACC Asia Cup Rising Stars 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137955_5744_NAS-W_BKFC_fc-web_1763103330257.jpg",
-        "mobile": "on",
-        "name": "PFC Nasaf vs Bam Khatoon FC (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -484,6 +454,36 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
         "mobile": "on",
         "name": "Leeward Islands Hurricanes vs Barbados Pride (CG United Super50 Cup, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-Saudi-FC-VS-Al-Qadsiah-FC_old.jpg",
+        "mobile": "on",
+        "name": "Al-Ahli Saudi FC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+        "mobile": "on",
+        "name": "Featured Groups - Day 2 vs Sea Island Golf Club (The RSM Classic)",
         "premium": false,
         "source": {
             "headers": {
