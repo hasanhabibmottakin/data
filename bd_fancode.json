@@ -45,21 +45,6 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138210_5763_AST_AJT_fc-web.png",
-        "mobile": "on",
-        "name": "Aspin Stallions vs Ajman Titans (Abu Dhabi T10, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138210_english_hls_bef25f35d629850_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
         "mobile": "on",
@@ -136,6 +121,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138213_5763_DB_ROC_fc-web_1763465215305.png",
+        "mobile": "on",
+        "name": "UAE Bulls vs Royal Champs (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg",
         "mobile": "on",
         "name": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
@@ -151,9 +151,24 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138213_5763_DB_ROC_fc-web_1763465215305.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138088_5758_TL-W_PN-W_FC-Web.jpg",
         "mobile": "on",
-        "name": "UAE Bulls vs Royal Champs (Abu Dhabi T10, 2025)",
+        "name": "Thailand Women vs Papua New Guinea Women (ICC Women's Emerging Nations Trophy, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138075_5758_ND-W_UAE-W_FC-Web.jpg",
+        "mobile": "on",
+        "name": "Netherlands Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -199,36 +214,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/137590_5720_PSG-W_BAY-W_fc-web.jpg",
         "mobile": "on",
         "name": "Paris Saint-Germain Women vs Bayern Munich Women (UEFA Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138088_5758_TL-W_PN-W_FC-Web.jpg",
-        "mobile": "on",
-        "name": "Thailand Women vs Papua New Guinea Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138075_5758_ND-W_UAE-W_FC-Web.jpg",
-        "mobile": "on",
-        "name": "Netherlands Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
         "premium": false,
         "source": {
             "headers": {
