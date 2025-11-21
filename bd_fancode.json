@@ -31,6 +31,21 @@
     },
     {
         "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Pokhara-Avengers_vs_Sudurpaschim-Royals_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "Sudurpaschim Royals vs Pokhara Avengers (Nepal Premier League, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138298_english_hls_52c4b68cc781324_1adfreeta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138089_5758_SC-W_TANW_FC-Web.jpg",
         "mobile": "on",
         "name": "Scotland Women vs Tanzania Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -40,21 +55,6 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/138089_english_hls_99622bbdab78958_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138076_5758_UG-W_NAM-W_FC-Web.jpg",
-        "mobile": "on",
-        "name": "Namibia Women vs Uganda Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138076_english_hls_3ccece3a096577_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -124,21 +124,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
         "mobile": "on",
         "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Pokhara-Avengers_vs_Sudurpaschim-Royals_Old_match-card.jpg",
-        "mobile": "on",
-        "name": "Pokhara Avengers vs Sudurpaschim Royals (Nepal Premier League, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -256,6 +241,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Karnali-Yaks_vs_Lumbini-lions_Old_match-card_02.jpg",
+        "mobile": "on",
+        "name": "Karnali Yaks vs Lumbini Lions (Nepal Premier League, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
         "mobile": "on",
         "name": "Windward Islands Volcanoes vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)",
@@ -274,21 +274,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
         "mobile": "on",
         "name": "Leeward Islands Hurricanes vs Barbados Pride (CG United Super50 Cup, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Karnali-Yaks_vs_Lumbini-lions_Old_match-card_02.jpg",
-        "mobile": "on",
-        "name": "Karnali Yaks vs Lumbini Lions (Nepal Premier League, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -376,36 +361,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
-        "mobile": "on",
-        "name": "Featured Groups - Day 2 vs Sea Island Golf Club (The RSM Classic)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
-        "mobile": "on",
-        "name": "World Feed - Day 2 vs Sea Island Golf Club (The RSM Classic)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136965_5489_CVC_WBA_fc-web.jpg",
         "mobile": "on",
         "name": "Coventry City Football Club vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
@@ -421,9 +376,39 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+        "mobile": "on",
+        "name": "Featured Groups - Day 2 vs Sea Island Golf Club (The RSM Classic)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763465215313.png",
         "mobile": "on",
         "name": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+        "mobile": "on",
+        "name": "World Feed - Day 2 vs Sea Island Golf Club (The RSM Classic)",
         "premium": false,
         "source": {
             "headers": {
@@ -514,6 +499,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/130955_5427_BAR_ATH_fc-Web.jpg",
         "mobile": "on",
         "name": "FC Barcelona vs Athletic Club (LALIGA 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130953_5427_OSN_RS_fc-Web.jpg",
+        "mobile": "on",
+        "name": "CA Osasuna vs Real Sociedad (LALIGA 2025-26)",
         "premium": false,
         "source": {
             "headers": {
