@@ -406,21 +406,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
-        "mobile": "on",
-        "name": "Practice 3 vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://images.fancode.com/aig/match/v1/136965_CASACARDS_APP.png",
         "mobile": "on",
         "name": "Coventry City Football Club vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
@@ -436,9 +421,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
         "mobile": "on",
-        "name": "First Race vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
+        "name": "Practice 3 vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -454,6 +439,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/130959_5427_ALA_CEV_fc-web.jpg",
         "mobile": "on",
         "name": "Deportivo Alaves vs RC Celta (LALIGA 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "First Race vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
         "premium": false,
         "source": {
             "headers": {
