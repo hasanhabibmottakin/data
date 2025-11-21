@@ -31,21 +31,6 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg",
-        "mobile": "on",
-        "name": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138010_english_hls_7c0c47af7a28899_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138088_5758_TL-W_PN-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Papua New Guinea Women vs Thailand Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -70,6 +55,21 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/138075_english_hls_05dfc061c844686_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138010_english_hls_7c0c47af7a28899_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -331,6 +331,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
+        "mobile": "on",
+        "name": "Qualifying Session vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_APP.png",
         "mobile": "on",
         "name": "Las Palmas vs Albacete (LALIGA Hypermotion 2025-26)",
@@ -379,21 +394,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Karnali-Yaks_vs_Lumbini-lions_Old_match-card_02.jpg",
         "mobile": "on",
         "name": "Karnali Yaks vs Lumbini Lions (Nepal Premier League, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
-        "mobile": "on",
-        "name": "Qualifying Session vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -496,9 +496,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138215_5763_NW_DG_fc-web.png",
         "mobile": "on",
-        "name": "Qualifying vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
+        "name": "Northern Warriors vs Deccan Gladiators (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -511,9 +511,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138215_5763_NW_DG_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
         "mobile": "on",
-        "name": "Northern Warriors vs Deccan Gladiators (Abu Dhabi T10, 2025)",
+        "name": "Qualifying vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
         "premium": false,
         "source": {
             "headers": {
