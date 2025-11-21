@@ -16,7 +16,7 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138211_5763_DG_QQY_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138211_5763_DG_QQY_fc-web_1763728589837.png",
         "mobile": "on",
         "name": "Quetta Qavalry vs Deccan Gladiators (Abu Dhabi T10, 2025)",
         "premium": false,
@@ -45,10 +45,55 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
         "mobile": "on",
-        "name": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
+        "name": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138038_english_hls_89da8f216a93150_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+        "mobile": "on",
+        "name": "Windward Islands Volcanoes vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138048_english_hls_144338fc9025105_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+        "mobile": "on",
+        "name": "Leeward Islands Hurricanes vs Barbados Pride (CG United Super50 Cup, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138047_english_hls_e7e8e9296023681_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138212_5763_NW_AJT_fc-web_1763728589900.png",
+        "mobile": "on",
+        "name": "Northern Warriors vs Ajman Titans (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -61,9 +106,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138212_5763_NW_AJT_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
         "mobile": "on",
-        "name": "Northern Warriors vs Ajman Titans (Abu Dhabi T10, 2025)",
+        "name": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -91,7 +136,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138213_5763_DB_ROC_fc-web_1763465215305.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138213_5763_DB_ROC_fc-web_1763728589891.png",
         "mobile": "on",
         "name": "UAE Bulls vs Royal Champs (Abu Dhabi T10, 2025)",
         "premium": false,
@@ -109,21 +154,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
         "mobile": "on",
         "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
-        "mobile": "on",
-        "name": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -196,6 +226,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138214_5763_AST_VTR_fc-web_1763728589853.png",
+        "mobile": "on",
+        "name": "Aspin Stallions vs Vista Riders (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/134028_5609_SAU_WAU_fc-Web.jpg",
         "mobile": "on",
         "name": "South Australia vs Western Australia (Sheffield Shield, 2025-26)",
@@ -226,54 +271,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138214_5763_AST_VTR_fc-web.png",
-        "mobile": "on",
-        "name": "Aspin Stallions vs Vista Riders (Abu Dhabi T10, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Karnali-Yaks_vs_Lumbini-lions_Old_match-card_02.jpg",
         "mobile": "on",
         "name": "Karnali Yaks vs Lumbini Lions (Nepal Premier League, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-        "mobile": "on",
-        "name": "Windward Islands Volcanoes vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-        "mobile": "on",
-        "name": "Leeward Islands Hurricanes vs Barbados Pride (CG United Super50 Cup, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -316,7 +316,7 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138215_5763_NW_DG_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138215_5763_NW_DG_fc-web_1763728590016.png",
         "mobile": "on",
         "name": "Northern Warriors vs Deccan Gladiators (Abu Dhabi T10, 2025)",
         "premium": false,
@@ -346,7 +346,22 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763465215313.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+        "mobile": "on",
+        "name": "Featured Groups - Day 2 vs Sea Island Golf Club (The RSM Classic)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763728589864.png",
         "mobile": "on",
         "name": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
         "premium": false,
@@ -391,9 +406,24 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136964_5489_BIR_NOR_fc-web.jpg",
         "mobile": "on",
-        "name": "Featured Groups - Day 2 vs Sea Island Golf Club (The RSM Classic)",
+        "name": "Birmingham City F.C. vs Norwich City F.C. (EFL Championship 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130955_5427_BAR_ATH_fc-Web.jpg",
+        "mobile": "on",
+        "name": "FC Barcelona vs Athletic Club (LALIGA 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -436,39 +466,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136964_5489_BIR_NOR_fc-web.jpg",
-        "mobile": "on",
-        "name": "Birmingham City F.C. vs Norwich City F.C. (EFL Championship 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
         "mobile": "on",
         "name": "First Race vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130955_5427_BAR_ATH_fc-Web.jpg",
-        "mobile": "on",
-        "name": "FC Barcelona vs Athletic Club (LALIGA 2025-26)",
         "premium": false,
         "source": {
             "headers": {
