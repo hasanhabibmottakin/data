@@ -15,21 +15,6 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130957_5427_VAL_LE_fc-Web.jpg",
-        "mobile": "on",
-        "name": "Valencia CF vs Levante (LALIGA 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130957_english_hls_632814f62c63409_1adfreeta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
         "mobile": "on",
@@ -91,9 +76,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763728589864.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
         "mobile": "on",
-        "name": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
+        "name": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -106,9 +91,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763728589864.png",
         "mobile": "on",
-        "name": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
+        "name": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -484,6 +469,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
         "mobile": "on",
         "name": "Race vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Hockey-1440-x-360.jpg",
+        "mobile": "on",
+        "name": "New Zealand vs Malaysia (Sultan Azlan Shah Cup)",
         "premium": false,
         "source": {
             "headers": {
