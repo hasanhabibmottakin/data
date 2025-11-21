@@ -16,6 +16,21 @@
     },
     {
         "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136966_5489_PST_BLK_fc-web.jpg",
+        "mobile": "on",
+        "name": "Preston North End F.C. vs Blackburn Rovers F.C. (EFL Championship 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/136966_english_hls_648c635fbc45265_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
         "mobile": "on",
         "name": "Trinidad & Tobago Red Force vs Jamaica Scorpions (CG United Super50 Cup, 2025)",
@@ -124,21 +139,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138214_5763_AST_VTR_fc-web_1763728589853.png",
         "mobile": "on",
         "name": "Aspin Stallions vs Vista Riders (Abu Dhabi T10, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136966_5489_PST_BLK_fc-web.jpg",
-        "mobile": "on",
-        "name": "Preston North End F.C. vs Blackburn Rovers F.C. (EFL Championship 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -469,6 +469,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138091_5758_TL-W_NAM-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Thailand Women vs Namibia Women (ICC Women's Emerging Nations Trophy, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138090_5758_UAE-W_SC-W_FC-Web.jpg",
+        "mobile": "on",
+        "name": "United Arab Emirates Women vs Scotland Women (ICC Women's Emerging Nations Trophy, 2025)",
         "premium": false,
         "source": {
             "headers": {
