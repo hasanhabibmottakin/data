@@ -1,6 +1,6 @@
 [
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
         "mobile": "on",
         "name": "Practice 2 vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
@@ -9,7 +9,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://d1ee2klw5nxf97.cloudfront.net/out/v1/77458792a51340a2ac1571bfe26f01f7/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -151,6 +151,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
+        "mobile": "on",
+        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138089_5758_SC-W_TANW_FC-Web.jpg",
         "mobile": "on",
         "name": "Scotland Women vs Tanzania Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -169,21 +184,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138076_5758_UG-W_NAM-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Uganda Women vs Namibia Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
-        "mobile": "on",
-        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -271,6 +271,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
+        "mobile": "on",
+        "name": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
         "mobile": "on",
         "name": "Windward Islands Volcanoes vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)",
@@ -289,21 +304,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
         "mobile": "on",
         "name": "Leeward Islands Hurricanes vs Barbados Pride (CG United Super50 Cup, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
-        "mobile": "on",
-        "name": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
         "premium": false,
         "source": {
             "headers": {
