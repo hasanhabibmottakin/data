@@ -1,6 +1,6 @@
 [
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN_A-vs-IND_A_old-(1).jpg",
         "mobile": "on",
         "name": "Bangladesh A vs India A (ACC Asia Cup Rising Stars 2025)",
@@ -9,7 +9,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763759850~acl=/*~id=82511365334357025015447612795809~hmac=31fc916bf06f11b65f7bb55725e918f70b1767cd06d51a415536b8fa8c89ab6f"
         },
         "status": "on",
         "tv": "off"
@@ -451,9 +451,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763465215313.png",
         "mobile": "on",
-        "name": "First Race vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
+        "name": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -466,9 +466,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763465215313.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
         "mobile": "on",
-        "name": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
+        "name": "First Race vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
         "premium": false,
         "source": {
             "headers": {
