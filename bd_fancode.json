@@ -1,36 +1,6 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/PAK_A-vs-SRI_A_old.jpg",
-        "mobile": "on",
-        "name": "Pakistan Shaheens vs Sri Lanka A (ACC Asia Cup Rising Stars 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763778168~acl=/*~id=41815704819752864819362985217951~hmac=9617a48b78cb8bb3cb5737fa072e645a3dbdcfd5edcf2ed965b545f7f4faf42a"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138213_5763_DB_ROC_fc-web_1763728589891.png",
-        "mobile": "on",
-        "name": "UAE Bulls vs Royal Champs (Abu Dhabi T10, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138213_english_hls_d53cac4a6173665_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
         "mobile": "on",
         "name": "England Under-19 vs West Indies Under-19 (England Under-19 tour of West Indies, 2025)",
@@ -166,6 +136,36 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_APP.png",
+        "mobile": "on",
+        "name": "Las Palmas vs Albacete (LALIGA Hypermotion 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763728589864.png",
+        "mobile": "on",
+        "name": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
         "mobile": "on",
         "name": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
@@ -199,21 +199,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136966_5489_PST_BLK_fc-web.jpg",
         "mobile": "on",
         "name": "Preston North End F.C. vs Blackburn Rovers F.C. (EFL Championship 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763728589864.png",
-        "mobile": "on",
-        "name": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -289,21 +274,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136965_5489_CVC_WBA_fc-web.jpg",
         "mobile": "on",
         "name": "Coventry City Football Club vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_APP.png",
-        "mobile": "on",
-        "name": "Las Palmas vs Albacete (LALIGA Hypermotion 2025-26)",
         "premium": false,
         "source": {
             "headers": {
