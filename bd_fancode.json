@@ -30,21 +30,6 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138088_5758_TL-W_PN-W_FC-Web.jpg",
-        "mobile": "on",
-        "name": "Papua New Guinea Women vs Thailand Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138088_english_hls_fb1abb342e94849_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN_A-vs-IND_A_old-(1).jpg",
         "mobile": "on",
@@ -121,21 +106,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
-        "mobile": "on",
-        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138089_5758_SC-W_TANW_FC-Web.jpg",
         "mobile": "on",
         "name": "Scotland Women vs Tanzania Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -154,6 +124,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138076_5758_UG-W_NAM-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Uganda Women vs Namibia Women (ICC Women's Emerging Nations Trophy, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
+        "mobile": "on",
+        "name": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -499,6 +484,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/130959_5427_ALA_CEV_fc-web.jpg",
         "mobile": "on",
         "name": "Deportivo Alaves vs RC Celta (LALIGA 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763465215313.png",
+        "mobile": "on",
+        "name": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
