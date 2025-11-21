@@ -15,7 +15,7 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
         "mobile": "on",
         "name": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
@@ -24,7 +24,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c58850_1ta-di_h264/index.m3u8"
+            "url": ""
         },
         "status": "on",
         "tv": "off"
@@ -271,9 +271,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138214_5763_AST_VTR_fc-web.png",
         "mobile": "on",
-        "name": "Trinidad & Tobago Red Force vs Jamaica Scorpions (CG United Super50 Cup, 2025)",
+        "name": "Aspin Stallions vs Vista Riders (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -286,9 +286,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138214_5763_AST_VTR_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
         "mobile": "on",
-        "name": "Aspin Stallions vs Vista Riders (Abu Dhabi T10, 2025)",
+        "name": "Trinidad & Tobago Red Force vs Jamaica Scorpions (CG United Super50 Cup, 2025)",
         "premium": false,
         "source": {
             "headers": {
