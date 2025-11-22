@@ -45,21 +45,6 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763728589864.png",
-        "mobile": "on",
-        "name": "UAE Bulls vs Quetta Qavalry (Abu Dhabi T10, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138216_english_hls_23827d0dc475773_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
         "mobile": "on",
@@ -136,6 +121,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138219_5763_NW_VTR_fc-web_1763728589858.png",
+        "mobile": "on",
+        "name": "Northern Warriors vs Vista Riders (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/130958_5427_VIL_MRC_fc-Web.jpg",
         "mobile": "on",
         "name": "Villarreal CF vs RCD Mallorca (LALIGA 2025-26)",
@@ -169,21 +169,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138077_5758_TANW_ND-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Tanzania Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138219_5763_NW_VTR_fc-web_1763728589858.png",
-        "mobile": "on",
-        "name": "Northern Warriors vs Vista Riders (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
