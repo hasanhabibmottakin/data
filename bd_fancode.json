@@ -60,25 +60,10 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130959_5427_ALA_CEV_fc-web.jpg",
-        "mobile": "on",
-        "name": "Deportivo Alaves vs RC Celta (LALIGA 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130959_english_hls_8be2be9d7b94454_1adfreeta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763728589864.png",
         "mobile": "on",
-        "name": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
+        "name": "UAE Bulls vs Quetta Qavalry (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -211,6 +196,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-A-vs-PAk-A_old.jpg",
+        "mobile": "on",
+        "name": "Bangladesh A vs Pakistan Shaheens (ACC Asia Cup Rising Stars 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138091_5758_TL-W_NAM-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Thailand Women vs Namibia Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -229,21 +229,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138090_5758_UAE-W_SC-W_FC-Web.jpg",
         "mobile": "on",
         "name": "United Arab Emirates Women vs Scotland Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-A-vs-PAk-A_old.jpg",
-        "mobile": "on",
-        "name": "Bangladesh A vs Pakistan Shaheens (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -286,9 +271,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Eibar_vs_Real-Zaragoza_Old.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138219_5763_NW_VTR_fc-web_1763728589858.png",
         "mobile": "on",
-        "name": "Eibar vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+        "name": "Northern Warriors vs Vista Riders (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -301,9 +286,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138219_5763_NW_VTR_fc-web_1763728589858.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Eibar_vs_Real-Zaragoza_Old.jpg",
         "mobile": "on",
-        "name": "Northern Warriors vs Vista Riders (Abu Dhabi T10, 2025)",
+        "name": "Eibar vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -331,9 +316,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138412_5777_NZ_ML_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136967_5489_SHFF_SHF_fc-web.jpg",
         "mobile": "on",
-        "name": "New Zealand vs Malaysia (Sultan Azlan Shah Cup)",
+        "name": "Sheffield Wednesday F.C. vs Sheffield United F.C. (EFL Championship 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -346,9 +331,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136967_5489_SHFF_SHF_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138412_5777_NZ_ML_fc-Web.jpg",
         "mobile": "on",
-        "name": "Sheffield Wednesday F.C. vs Sheffield United F.C. (EFL Championship 2025-26)",
+        "name": "New Zealand vs Malaysia (Sultan Azlan Shah Cup)",
         "premium": false,
         "source": {
             "headers": {
