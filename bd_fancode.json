@@ -16,21 +16,6 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130955_5427_BAR_ATH_fc-Web.jpg",
-        "mobile": "on",
-        "name": "FC Barcelona vs Athletic Club (LALIGA 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130955_english_hls_307be9070145264_1adfreeta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/130953_5427_OSN_RS_fc-Web.jpg",
         "mobile": "on",
         "name": "CA Osasuna vs Real Sociedad (LALIGA 2025-26)",
@@ -55,6 +40,21 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/138065_english_hls_d9c869bd1e70688_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130955_5427_BAR_ATH_fc-Web.jpg",
+        "mobile": "on",
+        "name": "FC Barcelona vs Athletic Club (LALIGA 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130955_english_hls_307be9070145264_1adfreeta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -331,9 +331,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138413_5777_BEL_CAN_fc-Web.jpg",
         "mobile": "on",
-        "name": "World Feed - Day 3 vs Sea Island Golf Club (The RSM Classic)",
+        "name": "Belgium vs Canada (Sultan Azlan Shah Cup)",
         "premium": false,
         "source": {
             "headers": {
@@ -346,9 +346,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138413_5777_BEL_CAN_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
         "mobile": "on",
-        "name": "Belgium vs Canada (Sultan Azlan Shah Cup)",
+        "name": "World Feed - Day 3 vs Sea Island Golf Club (The RSM Classic)",
         "premium": false,
         "source": {
             "headers": {
