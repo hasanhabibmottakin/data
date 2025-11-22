@@ -60,21 +60,6 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
-        "mobile": "on",
-        "name": "West Indies vs New Zealand (West Indies tour of New Zealand, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1763814887~acl=/*~id=28039590845313105395996600919385~hmac=2e6be72e04c061ffbde225dce424904c4f9cc59b78721249ff95f47b8ad0b993"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138214_5763_AST_VTR_fc-web_1763728589853.png",
         "mobile": "on",
@@ -438,7 +423,7 @@
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-A-vs-PAk-A_old.jpg",
         "mobile": "on",
-        "name": "Bangladesh A vs Pakistan A (ACC Asia Cup Rising Stars 2025)",
+        "name": "Bangladesh A vs Pakistan Shaheens (ACC Asia Cup Rising Stars 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -466,9 +451,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Hockey-1440-x-360.jpg",
         "mobile": "on",
-        "name": "Race vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
+        "name": "Belgium vs Canada (Sultan Azlan Shah Cup)",
         "premium": false,
         "source": {
             "headers": {
@@ -481,9 +466,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Hockey-1440-x-360.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
         "mobile": "on",
-        "name": "Belgium vs Canada (Sultan Azlan Shah Cup)",
+        "name": "Race vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
         "premium": false,
         "source": {
             "headers": {
