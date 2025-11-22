@@ -316,21 +316,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137961_5744_WJ-W_BKFC_fc-web_1763103330898.jpg",
-        "mobile": "on",
-        "name": "Wuhan Jiangda Women vs Bam Khatoon FC (AFC Women's Champions League 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/130956_5427_GEF_ATL_fc-Web.jpg",
         "mobile": "on",
         "name": "Getafe CF vs Atletico de Madrid (LALIGA 2025-26)",
@@ -349,6 +334,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
         "mobile": "on",
         "name": "Al-Nassr FC vs Al-Khaleej (Roshn Saudi League 2025-2026)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137961_5744_WJ-W_BKFC_fc-web_1763103330898.jpg",
+        "mobile": "on",
+        "name": "Wuhan Jiangda Women vs Bam Khatoon FC (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
