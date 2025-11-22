@@ -451,9 +451,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Malaga_vs_Mirandes-old.jpg",
         "mobile": "on",
-        "name": "Second Race vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
+        "name": "M\u00e1laga vs Mirand\u00e9s (LALIGA Hypermotion 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -466,9 +466,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Malaga_vs_Mirandes-old.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
         "mobile": "on",
-        "name": "M\u00e1laga vs Mirand\u00e9s (LALIGA Hypermotion 2025-26)",
+        "name": "Second Race vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
         "premium": false,
         "source": {
             "headers": {
