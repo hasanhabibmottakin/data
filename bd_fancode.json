@@ -16,15 +16,15 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
         "mobile": "on",
-        "name": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
+        "name": "West Indies vs New Zealand (West Indies tour of New Zealand, 2025)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/134026_english_hls_afdc2d131e78939_1ta-di_h264/index.m3u8"
+            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1763814887~acl=/*~id=28039590845313105395996600919385~hmac=2e6be72e04c061ffbde225dce424904c4f9cc59b78721249ff95f47b8ad0b993"
         },
         "status": "on",
         "tv": "off"
@@ -75,21 +75,6 @@
         "tv": "off"
     },
     {
-        "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
-        "mobile": "on",
-        "name": "West Indies vs New Zealand (West Indies tour of New Zealand, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1763814887~acl=/*~id=28039590845313105395996600919385~hmac=2e6be72e04c061ffbde225dce424904c4f9cc59b78721249ff95f47b8ad0b993"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138214_5763_AST_VTR_fc-web_1763728589853.png",
         "mobile": "on",
@@ -124,6 +109,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763728589864.png",
         "mobile": "on",
         "name": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
+        "mobile": "on",
+        "name": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -391,9 +391,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Hockey-1440-x-360.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138218_5763_QQY_AST_fc-web.png",
         "mobile": "on",
-        "name": "New Zealand vs Malaysia (Sultan Azlan Shah Cup)",
+        "name": "Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -406,9 +406,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138218_5763_QQY_AST_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Hockey-1440-x-360.jpg",
         "mobile": "on",
-        "name": "Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)",
+        "name": "New Zealand vs Malaysia (Sultan Azlan Shah Cup)",
         "premium": false,
         "source": {
             "headers": {
