@@ -45,6 +45,21 @@
         "tv": "off"
     },
     {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
+        "mobile": "on",
+        "name": "Qualifying vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://d3seoyp01tmqda.cloudfront.net/out/v1/6c2d5192a8b44125819a58894b0411b0/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
         "mobile": "on",
@@ -304,21 +319,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138077_5758_TANW_ND-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Tanzania Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
-        "mobile": "on",
-        "name": "Qualifying vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
         "premium": false,
         "source": {
             "headers": {
