@@ -406,21 +406,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138413_5777_BEL_CAN_fc-Web.jpg",
-        "mobile": "on",
-        "name": "Belgium vs Canada (Sultan Azlan Shah Cup)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138219_5763_NW_VTR_fc-web_1763728589858.png",
         "mobile": "on",
         "name": "Northern Warriors vs Vista Riders (Abu Dhabi T10, 2025)",
@@ -436,9 +421,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138413_5777_BEL_CAN_fc-Web.jpg",
         "mobile": "on",
-        "name": "World Feed - Day 3 vs Sea Island Golf Club (The RSM Classic)",
+        "name": "Belgium vs Canada (Sultan Azlan Shah Cup)",
         "premium": false,
         "source": {
             "headers": {
@@ -454,6 +439,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/130954_5427_RO_RVL_fc-Web.jpg",
         "mobile": "on",
         "name": "Real Oviedo vs Rayo Vallecano (LALIGA 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+        "mobile": "on",
+        "name": "World Feed - Day 3 vs Sea Island Golf Club (The RSM Classic)",
         "premium": false,
         "source": {
             "headers": {
