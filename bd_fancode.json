@@ -16,21 +16,6 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Biratnagar_Kings_left_Old_match-card_02.jpg",
-        "mobile": "on",
-        "name": "Kathmandu Gorkhas vs Biratnagar Kings (Nepal Premier League, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138300_english_hls_c2e4781ce661512_1adfreeta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136965_5489_CVC_WBA_fc-web.jpg",
         "mobile": "on",
         "name": "Coventry City Football Club vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
@@ -60,10 +45,25 @@
         "tv": "off"
     },
     {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Biratnagar_Kings_left_Old_match-card_02.jpg",
+        "mobile": "on",
+        "name": "Kathmandu Gorkhas vs Biratnagar Kings (Nepal Premier League, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138300_english_hls_c2e4781ce661512_1adfreeta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138215_5763_NW_DG_fc-web_1763728590016.png",
         "mobile": "on",
-        "name": "Northern Warriors vs Deccan Gladiators (Abu Dhabi T10, 2025)",
+        "name": "Deccan Gladiators vs Northern Warriors (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -196,6 +196,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138217_5763_AJT_ROC_fc-web_1763728590035.png",
+        "mobile": "on",
+        "name": "Ajman Titans vs Royal Champs (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138078_5758_UG-W_PN-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Uganda Women vs Papua New Guinea Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -214,21 +229,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138077_5758_TANW_ND-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Tanzania Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138217_5763_AJT_ROC_fc-web_1763728590035.png",
-        "mobile": "on",
-        "name": "Ajman Titans vs Royal Champs (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -301,9 +301,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Eibar_vs_Real-Zaragoza_Old.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138218_5763_QQY_AST_fc-web.png",
         "mobile": "on",
-        "name": "Eibar vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+        "name": "Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -316,9 +316,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138218_5763_QQY_AST_fc-web.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Eibar_vs_Real-Zaragoza_Old.jpg",
         "mobile": "on",
-        "name": "Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)",
+        "name": "Eibar vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -361,9 +361,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137960_5744_EBFC_NAS-W_fc-web_1763103330276.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138412_5777_NZ_ML_fc-Web.jpg",
         "mobile": "on",
-        "name": "East Bengal vs PFC Nasaf (AFC Women's Champions League 2025-26)",
+        "name": "New Zealand vs Malaysia (Sultan Azlan Shah Cup)",
         "premium": false,
         "source": {
             "headers": {
@@ -376,9 +376,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138412_5777_NZ_ML_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137960_5744_EBFC_NAS-W_fc-web_1763103330276.jpg",
         "mobile": "on",
-        "name": "New Zealand vs Malaysia (Sultan Azlan Shah Cup)",
+        "name": "East Bengal vs PFC Nasaf (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
