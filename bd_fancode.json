@@ -136,21 +136,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130958_5427_VIL_MRC_fc-Web.jpg",
-        "mobile": "on",
-        "name": "Villarreal CF vs RCD Mallorca (LALIGA 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138078_5758_UG-W_PN-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Uganda Women vs Papua New Guinea Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -169,6 +154,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138077_5758_TANW_ND-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Tanzania Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130958_5427_VIL_MRC_fc-Web.jpg",
+        "mobile": "on",
+        "name": "Villarreal CF vs RCD Mallorca (LALIGA 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -241,21 +241,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138411_5777_IND_KOR_fc-Web.jpg",
-        "mobile": "on",
-        "name": "India vs Korea (Sultan Azlan Shah Cup)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136967_5489_SHFF_SHF_fc-web.jpg",
         "mobile": "on",
         "name": "Sheffield Wednesday F.C. vs Sheffield United F.C. (EFL Championship 2025-26)",
@@ -271,9 +256,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138412_5777_NZ_ML_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138411_5777_IND_KOR_fc-Web.jpg",
         "mobile": "on",
-        "name": "New Zealand vs Malaysia (Sultan Azlan Shah Cup)",
+        "name": "India vs Korea (Sultan Azlan Shah Cup)",
         "premium": false,
         "source": {
             "headers": {
@@ -289,6 +274,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/130954_5427_RO_RVL_fc-Web.jpg",
         "mobile": "on",
         "name": "Real Oviedo vs Rayo Vallecano (LALIGA 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138412_5777_NZ_ML_fc-Web.jpg",
+        "mobile": "on",
+        "name": "New Zealand vs Malaysia (Sultan Azlan Shah Cup)",
         "premium": false,
         "source": {
             "headers": {
