@@ -1,15 +1,15 @@
 [
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130953_5427_OSN_RS_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130958_5427_VIL_MRC_fc-Web.jpg",
         "mobile": "on",
-        "name": "CA Osasuna vs Real Sociedad (LALIGA 2025-26)",
+        "name": "Villarreal CF vs RCD Mallorca (LALIGA 2025-26)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130953_english_hls_b95bc93bde73684_1adfreeta-di_h264/index.m3u8"
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130958_english_hls_725c0bef3b63390_1adfreeta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -40,6 +40,21 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/138274_english_hls_4bd40f09823651_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130953_5427_OSN_RS_fc-Web.jpg",
+        "mobile": "on",
+        "name": "CA Osasuna vs Real Sociedad (LALIGA 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/130953_english_hls_b95bc93bde73684_1adfreeta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -76,9 +91,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130958_5427_VIL_MRC_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138218_5763_QQY_AST_fc-web.png",
         "mobile": "on",
-        "name": "Villarreal CF vs RCD Mallorca (LALIGA 2025-26)",
+        "name": "Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -94,21 +109,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/134028_5609_SAU_WAU_fc-Web.jpg",
         "mobile": "on",
         "name": "South Australia vs Western Australia (Sheffield Shield, 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138218_5763_QQY_AST_fc-web.png",
-        "mobile": "on",
-        "name": "Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -466,9 +466,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Malaga_vs_Mirandes-old.jpg",
         "mobile": "on",
-        "name": "Race vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
+        "name": "M\u00e1laga vs Mirand\u00e9s (LALIGA Hypermotion 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -481,9 +481,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Malaga_vs_Mirandes-old.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
         "mobile": "on",
-        "name": "M\u00e1laga vs Mirand\u00e9s (LALIGA Hypermotion 2025-26)",
+        "name": "Race vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
         "premium": false,
         "source": {
             "headers": {
