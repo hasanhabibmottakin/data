@@ -31,6 +31,21 @@
     },
     {
         "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763728589864.png",
+        "mobile": "on",
+        "name": "UAE Bulls vs Quetta Qavalry (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-VS-Image-Al-Fateh-SC_old.jpg",
         "mobile": "on",
         "name": "Al Hilal SFC vs Al-Fateh SC (Roshn Saudi League 2025-2026)",
@@ -55,21 +70,6 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": "https://bd-mc-fdlive.fancode.com/mumbai/136964_english_hls_bbfdc0a39913448_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763728589864.png",
-        "mobile": "on",
-        "name": "UAE Bulls vs Quetta Qavalry (Abu Dhabi T10, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
         },
         "status": "on",
         "tv": "off"
@@ -151,6 +151,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138218_5763_QQY_AST_fc-web.png",
+        "mobile": "on",
+        "name": "Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138078_5758_UG-W_PN-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Uganda Women vs Papua New Guinea Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -169,21 +184,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138077_5758_TANW_ND-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Tanzania Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138218_5763_QQY_AST_fc-web.png",
-        "mobile": "on",
-        "name": "Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
