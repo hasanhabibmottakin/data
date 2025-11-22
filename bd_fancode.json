@@ -60,6 +60,21 @@
         "tv": "off"
     },
     {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-VS-Image-Al-Fateh-SC_old.jpg",
+        "mobile": "on",
+        "name": "Al Hilal SFC vs Al-Fateh SC (Roshn Saudi League 2025-2026)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138430_english_hls_0da5a85fef46495_1ta-di_h264/index.m3u8"
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
         "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
         "mobile": "on",
@@ -79,21 +94,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763728589864.png",
         "mobile": "on",
         "name": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-VS-Image-Al-Fateh-SC_old.jpg",
-        "mobile": "on",
-        "name": "Al Hilal SFC vs Al-Fateh SC (Roshn Saudi League 2025-2026)",
         "premium": false,
         "source": {
             "headers": {
@@ -211,6 +211,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138218_5763_QQY_AST_fc-web.png",
+        "mobile": "on",
+        "name": "Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138091_5758_TL-W_NAM-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Thailand Women vs Namibia Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -259,21 +274,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/134027_5609_QUN_VCT_fc-Web.jpg",
         "mobile": "on",
         "name": "Victoria vs Queensland (Sheffield Shield, 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138218_5763_QQY_AST_fc-web.png",
-        "mobile": "on",
-        "name": "Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -361,9 +361,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137960_5744_EBFC_NAS-W_fc-web_1763103330276.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136967_5489_SHFF_SHF_fc-web.jpg",
         "mobile": "on",
-        "name": "East Bengal vs PFC Nasaf (AFC Women's Champions League 2025-26)",
+        "name": "Sheffield Wednesday F.C. vs Sheffield United F.C. (EFL Championship 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -376,9 +376,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136967_5489_SHFF_SHF_fc-web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137960_5744_EBFC_NAS-W_fc-web_1763103330276.jpg",
         "mobile": "on",
-        "name": "Sheffield Wednesday F.C. vs Sheffield United F.C. (EFL Championship 2025-26)",
+        "name": "East Bengal vs PFC Nasaf (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -511,21 +511,6 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
-        "mobile": "on",
-        "name": "Race vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/130956_5427_GEF_ATL_fc-Web.jpg",
         "mobile": "on",
         "name": "Getafe CF vs Atletico de Madrid (LALIGA 2025-26)",
@@ -544,6 +529,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
         "mobile": "on",
         "name": "Al-Nassr FC vs Al-Khaleej (Roshn Saudi League 2025-2026)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
+        "mobile": "on",
+        "name": "Race vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
         "premium": false,
         "source": {
             "headers": {
