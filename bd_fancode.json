@@ -16,15 +16,15 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Karnali-Yaks_vs_Lumbini-lions_Old_match-card_02.jpg",
         "mobile": "on",
-        "name": "West Indies vs New Zealand (West Indies tour of New Zealand, 2025)",
+        "name": "Lumbini Lions vs Karnali Yaks (Nepal Premier League, 2025)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1763814887~acl=/*~id=28039590845313105395996600919385~hmac=2e6be72e04c061ffbde225dce424904c4f9cc59b78721249ff95f47b8ad0b993"
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138299_english_hls_b1aa0ebaca11882_1adfreeta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -61,15 +61,15 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Karnali-Yaks_vs_Lumbini-lions_Old_match-card_02.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
         "mobile": "on",
-        "name": "Lumbini Lions vs Karnali Yaks (Nepal Premier League, 2025)",
+        "name": "West Indies vs New Zealand (West Indies tour of New Zealand, 2025)",
         "premium": false,
         "source": {
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138299_english_hls_b1aa0ebaca11882_1adfreeta-di_h264/index.m3u8"
+            "url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1763814887~acl=/*~id=28039590845313105395996600919385~hmac=2e6be72e04c061ffbde225dce424904c4f9cc59b78721249ff95f47b8ad0b993"
         },
         "status": "on",
         "tv": "off"
