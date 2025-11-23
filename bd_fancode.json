@@ -16,21 +16,6 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
-        "mobile": "on",
-        "name": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c95230_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138091_5758_TL-W_NAM-W_FC-Web.jpg",
         "mobile": "on",
         "name": "Thailand Women vs Namibia Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -499,6 +484,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136069_5647_ADH_ITT_fc-Web.jpg",
         "mobile": "on",
         "name": "Al Duhail vs Al-Ittihad (AFC Champions League Elite 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/136068_5647_SAA_AGH_fc-Web.jpg",
+        "mobile": "on",
+        "name": "Shabab Al Ahli vs Al Gharafa (AFC Champions League Elite 2025-26)",
         "premium": false,
         "source": {
             "headers": {
