@@ -61,21 +61,6 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138077_5758_TANW_ND-W_FC-Web.jpg",
-        "mobile": "on",
-        "name": "Tanzania Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138077_english_hls_a0bb434d1a35506_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
         "mobile": "on",
         "name": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
@@ -115,6 +100,21 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
             "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | LIVE",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138077_5758_TANW_ND-W_FC-Web.jpg",
+        "mobile": "on",
+        "name": "Tanzania Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138077_english_hls_a0bb434d1a35506_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
@@ -301,9 +301,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138413_5777_BEL_CAN_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130951_5427_ELC_RM_fc-Web.jpg",
         "mobile": "on",
-        "name": "Belgium vs Canada (Sultan Azlan Shah Cup)",
+        "name": "Elche CF vs Real Madrid (LALIGA 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -316,9 +316,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/130951_5427_ELC_RM_fc-Web.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/138413_5777_BEL_CAN_fc-Web.jpg",
         "mobile": "on",
-        "name": "Elche CF vs Real Madrid (LALIGA 2025-26)",
+        "name": "Belgium vs Canada (Sultan Azlan Shah Cup)",
         "premium": false,
         "source": {
             "headers": {
