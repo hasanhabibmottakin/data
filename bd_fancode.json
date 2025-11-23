@@ -181,6 +181,21 @@
     },
     {
         "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137960_5744_EBFC_NAS-W_fc-web_1763103330276.jpg",
+        "mobile": "on",
+        "name": "East Bengal vs PFC Nasaf (AFC Women's Champions League 2025-26)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/136967_5489_SHFF_SHF_fc-web.jpg",
         "mobile": "on",
         "name": "Sheffield Wednesday F.C. vs Sheffield United F.C. (EFL Championship 2025-26)",
@@ -289,21 +304,6 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138413_5777_BEL_CAN_fc-Web.jpg",
         "mobile": "on",
         "name": "Belgium vs Canada (Sultan Azlan Shah Cup)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": ""
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/137960_5744_EBFC_NAS-W_fc-web_1763103330276.jpg",
-        "mobile": "on",
-        "name": "East Bengal vs PFC Nasaf (AFC Women's Champions League 2025-26)",
         "premium": false,
         "source": {
             "headers": {
