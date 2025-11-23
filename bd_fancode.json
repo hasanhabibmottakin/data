@@ -76,21 +76,6 @@
     },
     {
         "group": "Fancode | LIVE",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
-        "mobile": "on",
-        "name": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
-        "premium": false,
-        "source": {
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
-            },
-            "url": "https://bd-mc-fdlive.fancode.com/mumbai/134026_english_hls_afdc2d131e44969_1ta-di_h264/index.m3u8"
-        },
-        "status": "on",
-        "tv": "off"
-    },
-    {
-        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/134028_5609_SAU_WAU_fc-Web.jpg",
         "mobile": "on",
         "name": "Western Australia vs South Australia (Sheffield Shield, 2025-26)",
@@ -184,6 +169,21 @@
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138219_5763_NW_VTR_fc-web_1763728589858.png",
         "mobile": "on",
         "name": "Northern Warriors vs Vista Riders (Abu Dhabi T10, 2025)",
+        "premium": false,
+        "source": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
+            },
+            "url": ""
+        },
+        "status": "on",
+        "tv": "off"
+    },
+    {
+        "group": "Fancode | UPCOMING",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
+        "mobile": "on",
+        "name": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
         "premium": false,
         "source": {
             "headers": {
@@ -421,9 +421,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Sudurpaschim-Royals_right_Old_match-card_02.jpg",
         "mobile": "on",
-        "name": "World Feed - Day 4 vs Sea Island Golf Club (The RSM Classic)",
+        "name": "Sudurpaschim Royals vs Karnali Yaks (Nepal Premier League, 2025)",
         "premium": false,
         "source": {
             "headers": {
@@ -436,9 +436,9 @@
     },
     {
         "group": "Fancode | UPCOMING",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Sudurpaschim-Royals_right_Old_match-card_02.jpg",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
         "mobile": "on",
-        "name": "Sudurpaschim Royals vs Karnali Yaks (Nepal Premier League, 2025)",
+        "name": "World Feed - Day 4 vs Sea Island Golf Club (The RSM Classic)",
         "premium": false,
         "source": {
             "headers": {
