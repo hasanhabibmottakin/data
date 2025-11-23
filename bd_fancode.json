@@ -1,6 +1,6 @@
 [
     {
-        "group": "Fancode | UPCOMING",
+        "group": "Fancode | LIVE",
         "logo": "https://www.fancode.com/skillup-uploads/cms-media/138411_5777_IND_KOR_fc-Web.jpg",
         "mobile": "on",
         "name": "India vs Korea (Sultan Azlan Shah Cup)",
@@ -9,7 +9,7 @@
             "headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36"
             },
-            "url": ""
+            "url": "https://bd-mc-fdlive.fancode.com/mumbai/138411_english_hls_41f600ec1663678_1ta-di_h264/index.m3u8"
         },
         "status": "on",
         "tv": "off"
